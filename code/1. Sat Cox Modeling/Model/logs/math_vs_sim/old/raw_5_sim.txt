@@ -1,0 +1,122 @@
+*******test start******* at  8:48:38.231 7/22/2012
+round: 1 8:48:38.309 7/22/2012
+======================================================================
+wifi: 10, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 408, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 8, Packet_w: 1846, LDATA_w: 28, OSD_w: 60, DIFS: 6
+wifi average throughput: 3.2197Mbps
+wifi total throughput: 32.1969Mbps
+bmac average throughput: 0.18432Kbps
+bmac total throughput: 2.7648Kbps
+alpha: 0.76981
+tau_w: 0.0028603
+Ptr_w: 0.085809
+tau_b: 3.0556e-006
+Ptr_b: 0.0012467
+Pcoll_w: 0.23778
+Pcoll_b: 0.41091
+normalize_w: 0.75233
+normalize_b: 0.017952
+*32.1969 2.7648
+======================================================================
+round: 1 9:34:8.189 7/22/2012
+======================================================================
+wifi: 10, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 408, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 9, Packet_w: 1846, LDATA_w: 28, OSD_w: 60, DIFS: 6
+wifi average throughput: 3.227Mbps
+wifi total throughput: 32.2698Mbps
+bmac average throughput: 0.20025Kbps
+bmac total throughput: 3.0037Kbps
+alpha: 0.76926
+tau_w: 0.0028518
+Ptr_w: 0.085555
+tau_b: 3.1333e-006
+Ptr_b: 0.0012784
+Pcoll_w: 0.23379
+Pcoll_b: 0.37589
+normalize_w: 0.75169
+normalize_b: 0.017952
+*32.2698 3.0037
+======================================================================
+round: 1 10:20:17.569 7/22/2012
+======================================================================
+wifi: 10, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 408, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 1846, LDATA_w: 28, OSD_w: 60, DIFS: 6
+wifi average throughput: 3.215Mbps
+wifi total throughput: 32.1504Mbps
+bmac average throughput: 0.22073Kbps
+bmac total throughput: 3.3109Kbps
+alpha: 0.7693
+tau_w: 0.0028423
+Ptr_w: 0.08527
+tau_b: 3.5333e-006
+Ptr_b: 0.0014416
+Pcoll_w: 0.23407
+Pcoll_b: 0.38994
+normalize_w: 0.74907
+normalize_b: 0.02074
+*32.1504 3.3109
+======================================================================
+round: 1 11:7:23.966 7/22/2012
+======================================================================
+wifi: 10, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 408, OSD_b: 660
+aMinBE_w: 6, aMaxBE_w: 8, Packet_w: 1846, LDATA_w: 28, OSD_w: 60, DIFS: 6
+wifi average throughput: 2.7955Mbps
+wifi total throughput: 27.9548Mbps
+bmac average throughput: 1.9456Kbps
+bmac total throughput: 29.184Kbps
+alpha: 0.76883
+tau_w: 0.0022425
+Ptr_w: 0.067276
+tau_b: 2.5767e-005
+Ptr_b: 0.010513
+Pcoll_w: 0.15589
+Pcoll_b: 0.26261
+normalize_w: 0.62006
+normalize_b: 0.15096
+*27.9548 29.184
+======================================================================
+round: 1 11:59:4.222 7/22/2012
+======================================================================
+wifi: 10, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 408, OSD_b: 660
+aMinBE_w: 6, aMaxBE_w: 9, Packet_w: 1846, LDATA_w: 28, OSD_w: 60, DIFS: 6
+wifi average throughput: 2.7496Mbps
+wifi total throughput: 27.4956Mbps
+bmac average throughput: 2.0218Kbps
+bmac total throughput: 30.3275Kbps
+alpha: 0.76978
+tau_w: 0.0022132
+Ptr_w: 0.066397
+tau_b: 2.7778e-005
+Ptr_b: 0.011333
+Pcoll_w: 0.15877
+Pcoll_b: 0.2892
+normalize_w: 0.61112
+normalize_b: 0.16109
+*27.4956 30.3275
+======================================================================
+round: 1 12:50:17.224 7/22/2012
+======================================================================
+wifi: 10, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 408, OSD_b: 660
+aMinBE_w: 6, aMaxBE_w: 10, Packet_w: 1846, LDATA_w: 28, OSD_w: 60, DIFS: 6
+wifi average throughput: 2.7589Mbps
+wifi total throughput: 27.5886Mbps
+bmac average throughput: 2.0389Kbps
+bmac total throughput: 30.5835Kbps
+alpha: 0.76957
+tau_w: 0.0022175
+Ptr_w: 0.066525
+tau_b: 2.7211e-005
+Ptr_b: 0.011102
+Pcoll_w: 0.15755
+Pcoll_b: 0.26827
+normalize_w: 0.61257
+normalize_b: 0.15934
+*27.5886 30.5835
+======================================================================
+*******test end******* at  13:34:13.083 7/22/2012

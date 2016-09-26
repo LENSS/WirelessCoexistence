@@ -1,0 +1,630 @@
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 30
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',6.329084e-13,'default',1.000000e-06,3.616311e-28,'default',1.000000e-03,3.616311e-28,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.99145
+  Pc = 0.57708
+  Pf = 0.99158
+  mean_w = 83384.7172 us
+  mean_b = 109613.6104 us
+  capacity_w = 2.955 Mbits/s
+  capacity_b = 198.5155 Kbits/s
+  Srv_w = 0.00011993
+  Srv_b = 9.123e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.45193
+  b001 = 8.8374e-05
+  tau_w = 0.0062689
+  b000 = 8.2688e-05
+  tau_b = 0.018357
+  StdVar_w = 22044.667
+  theta_w = 0.00018007
+  delta_w = 0.045791
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 14555.8139
+  theta_b = -4.123e-05
+  delta_b = 0.0093898
+  Q_b = 1.0692
+  delay_b = 213848.1343 us
+  Pi = 0.42027
+  Psw = 0.053024
+  Psb = 0.31436
+  Pcw = 0.0033013
+  Pcb = 0.14719
+  Pcbw = 0.061859
+  aggrThr_trr_w = 0.028438
+  aggrThr_trp_w = 0.021803
+  aggrThr_trr_b = 0.97673
+  aggrThr_trp_b = 0.68635
+  aggrThr_trps_w = 2.7624 Mbps
+  aggrThr_trps_b = 86.0555 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 30
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 32
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',4.904802e-09,'default',1.000000e-06,1.967618e-20,'default',1.000000e-03,1.967618e-20,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.99141
+  Pc = 0.55534
+  Pf = 0.99155
+  mean_w = 149494.1805 us
+  mean_b = 109205.3884 us
+  capacity_w = 1.6482 Mbits/s
+  capacity_b = 199.2576 Kbits/s
+  Srv_w = 6.6892e-05
+  Srv_b = 9.1571e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.45397
+  b001 = 5.1936e-05
+  tau_w = 0.003504
+  b000 = 8.2981e-05
+  tau_b = 0.018422
+  StdVar_w = 48660.315
+  theta_w = 0.00023311
+  delta_w = 0.056378
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 14498.0924
+  theta_b = -4.1571e-05
+  delta_b = 0.0093875
+  Q_b = 1.06
+  delay_b = 211991.0774 us
+  Pi = 0.44311
+  Psw = 0.031162
+  Psb = 0.33264
+  Pcw = 0.0010633
+  Pcb = 0.15646
+  Pcbw = 0.03557
+  aggrThr_trr_w = 0.016348
+  aggrThr_trp_w = 0.012533
+  aggrThr_trr_b = 0.98296
+  aggrThr_trp_b = 0.69073
+  aggrThr_trps_w = 1.5878 Mbps
+  aggrThr_trps_b = 87.9073 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 30
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 64
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.092500e-11,'default',1.000000e-06,9.214110e-26,'default',1.000000e-03,9.214110e-26,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.99139
+  Pc = 0.54206
+  Pf = 0.99154
+  mean_w = 279603.9554 us
+  mean_b = 108955.8151 us
+  capacity_w = 0.88125 Mbits/s
+  capacity_b = 199.714 Kbits/s
+  Srv_w = 3.5765e-05
+  Srv_b = 9.178e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.45522
+  b001 = 2.8604e-05
+  tau_w = 0.0018739
+  b000 = 8.3161e-05
+  tau_b = 0.018462
+  StdVar_w = 116586.2171
+  theta_w = 0.00026424
+  delta_w = 0.072221
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 14462.8034
+  theta_b = -4.178e-05
+  delta_b = 0.0093861
+  Q_b = 1.0543
+  delay_b = 210863.9512 us
+  Pi = 0.45709
+  Psw = 0.017163
+  Psb = 0.34389
+  Pcw = 0.00030957
+  Pcb = 0.1622
+  Pcbw = 0.019345
+  aggrThr_trr_w = 0.0088897
+  aggrThr_trp_w = 0.0068154
+  aggrThr_trr_b = 0.9868
+  aggrThr_trp_b = 0.69343
+  aggrThr_trps_w = 0.86393 Mbps
+  aggrThr_trps_b = 89.0475 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 50
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',7.321200e-08,'default',1.000000e-06,9.071351e-18,'default',1.000000e-03,9.071351e-18,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98972
+  Pc = 0.52293
+  Pf = 0.98989
+  mean_w = 52832.2555 us
+  mean_b = 149556.4904 us
+  capacity_w = 4.6638 Mbits/s
+  capacity_b = 145.4969 Kbits/s
+  Srv_w = 0.00018928
+  Srv_b = 6.6864e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.25222
+  b001 = 0.00015117
+  tau_w = 0.0095059
+  b000 = 6.247e-05
+  tau_b = 0.013868
+  StdVar_w = 14437.5792
+  theta_w = 0.00011072
+  delta_w = 0.047332
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 20218.0257
+  theta_b = -1.6864e-05
+  delta_b = 0.0095591
+  Q_b = 2.7092
+  delay_b = 541834.8407 us
+  Pi = 0.47254
+  Psw = 0.090699
+  Psb = 0.26582
+  Pcw = 0.0087655
+  Pcb = 0.087758
+  Pcbw = 0.074425
+  aggrThr_trr_w = 0.05036
+  aggrThr_trp_w = 0.03861
+  aggrThr_trr_b = 0.95861
+  aggrThr_trp_b = 0.67361
+  aggrThr_trps_w = 4.2758 Mbps
+  aggrThr_trps_b = 91.1546 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 50
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 32
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',3.803407e-08,'default',1.000000e-06,2.132366e-18,'default',1.000000e-03,2.132366e-18,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98964
+  Pc = 0.48812
+  Pf = 0.98982
+  mean_w = 88503.8767 us
+  mean_b = 148513.3597 us
+  capacity_w = 2.7841 Mbits/s
+  capacity_b = 146.5188 Kbits/s
+  Srv_w = 0.00011299
+  Srv_b = 6.7334e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.25743
+  b001 = 9.605e-05
+  tau_w = 0.0056292
+  b000 = 6.2891e-05
+  tau_b = 0.013962
+  StdVar_w = 28889.4903
+  theta_w = 0.00018701
+  delta_w = 0.056538
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 20070.5176
+  theta_b = -1.7334e-05
+  delta_b = 0.009556
+  Q_b = 2.6341
+  delay_b = 526813.7113 us
+  Pi = 0.509
+  Psw = 0.05763
+  Psb = 0.28829
+  Pcw = 0.0032072
+  Pcb = 0.095952
+  Pcbw = 0.045925
+  aggrThr_trr_w = 0.03106
+  aggrThr_trp_w = 0.023813
+  aggrThr_trr_b = 0.97047
+  aggrThr_trp_b = 0.68195
+  aggrThr_trps_w = 2.6473 Mbps
+  aggrThr_trps_b = 93.3638 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 50
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 64
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.268700e-08,'default',1.000000e-06,2.173485e-19,'default',1.000000e-03,2.173485e-19,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98959
+  Pc = 0.46464
+  Pf = 0.98978
+  mean_w = 157211.896 us
+  mean_b = 147809.3883 us
+  capacity_w = 1.5673 Mbits/s
+  capacity_b = 147.2166 Kbits/s
+  Srv_w = 6.3608e-05
+  Srv_b = 6.7655e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.26095
+  b001 = 5.6097e-05
+  tau_w = 0.0031435
+  b000 = 6.3178e-05
+  tau_b = 0.014025
+  StdVar_w = 63315.644
+  theta_w = 0.00023639
+  delta_w = 0.069757
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 19970.9698
+  theta_b = -1.7655e-05
+  delta_b = 0.0095539
+  Q_b = 2.5851
+  delay_b = 517015.9058 us
+  Pi = 0.53368
+  Psw = 0.033658
+  Psb = 0.30366
+  Pcw = 0.0010276
+  Pcb = 0.10163
+  Pcbw = 0.026341
+  aggrThr_trr_w = 0.017809
+  aggrThr_trp_w = 0.013654
+  aggrThr_trr_b = 0.97861
+  aggrThr_trp_b = 0.68767
+  aggrThr_trps_w = 1.5244 Mbps
+  aggrThr_trps_b = 94.8768 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.050677e-10,'default',1.000000e-06,7.068765e-22,'default',1.000000e-03,7.068765e-22,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98833
+  Pc = 0.4987
+  Pf = 0.98852
+  mean_w = 41271.3407 us
+  mean_b = 182883.9649 us
+  capacity_w = 5.9702 Mbits/s
+  capacity_b = 118.9825 Kbits/s
+  Srv_w = 0.0002423
+  Srv_b = 5.4679e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.08558
+  b001 = 0.000199
+  tau_w = 0.011909
+  b000 = 5.1831e-05
+  tau_b = 0.011506
+  StdVar_w = 11353.8802
+  theta_w = 5.7701e-05
+  delta_w = 0.047649
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 24945.0295
+  theta_b = -4.6795e-06
+  delta_b = 0.0096448
+  Q_b = 9.9394
+  delay_b = 1987875.8065 us
+  Pi = 0.49533
+  Psw = 0.1194
+  Psb = 0.23063
+  Pcw = 0.014712
+  Pcb = 0.060976
+  Pcbw = 0.078953
+  aggrThr_trr_w = 0.070112
+  aggrThr_trp_w = 0.053752
+  aggrThr_trr_b = 0.94084
+  aggrThr_trp_b = 0.66113
+  aggrThr_trps_w = 5.411 Mbps
+  aggrThr_trps_b = 93.5758 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 32
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.135657e-07,'default',1.000000e-06,6.206221e-16,'default',1.000000e-03,6.206221e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98821
+  Pc = 0.45495
+  Pf = 0.98842
+  mean_w = 66067.7854 us
+  mean_b = 181088.0853 us
+  capacity_w = 3.7295 Mbits/s
+  capacity_b = 120.1625 Kbits/s
+  Srv_w = 0.00015136
+  Srv_b = 5.5222e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.09456
+  b001 = 0.0001329
+  tau_w = 0.0073151
+  b000 = 5.2327e-05
+  tau_b = 0.011617
+  StdVar_w = 21227.8033
+  theta_w = 0.00014864
+  delta_w = 0.055651
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 24691.0682
+  theta_b = -5.2217e-06
+  delta_b = 0.0096413
+  Q_b = 8.9007
+  delay_b = 1780140.9094 us
+  Pi = 0.54106
+  Psw = 0.079741
+  Psb = 0.25437
+  Pcw = 0.0058371
+  Pcb = 0.068006
+  Pcbw = 0.050989
+  aggrThr_trr_w = 0.045245
+  aggrThr_trp_w = 0.034688
+  aggrThr_trr_b = 0.9576
+  aggrThr_trp_b = 0.67291
+  aggrThr_trps_w = 3.5176 Mbps
+  aggrThr_trps_b = 95.8534 Kbps
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 64
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 20
+  N_b = 40
+======================================================================
+  Total Arr_w = 600 packets/s, or 7.392 Mbits/s
+  Total Arr_b = 200 packets/s, or 108.8 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',9.803483e-07,'default',1.000000e-06,2.027916e-15,'default',1.000000e-03,2.027916e-15,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98813
+  Pc = 0.42351
+  Pf = 0.98834
+  mean_w = 112946.8987 us
+  mean_b = 179797.9047 us
+  capacity_w = 2.1816 Mbits/s
+  capacity_b = 121.0248 Kbits/s
+  Srv_w = 8.8537e-05
+  Srv_b = 5.5618e-05
+  Arr_w = 0.0003
+  Arr_b = 5e-05
+  Pw = 0
+  Pb = 0.10101
+  b001 = 8.0889e-05
+  tau_w = 0.0042094
+  b000 = 5.269e-05
+  tau_b = 0.011697
+  StdVar_w = 43310.0409
+  theta_w = 0.00021146
+  delta_w = 0.066416
+  Q_w = -Inf
+  delay_w = -Inf us
+  StdVar_b = 24508.6196
+  theta_b = -5.618e-06
+  delta_b = 0.0096387
+  Q_b = 8.2685
+  delay_b = 1653699.7533 us
+  Pi = 0.57407
+  Psw = 0.048533
+  Psb = 0.27178
+  Pcw = 0.0019993
+  Pcb = 0.073251
+  Pcbw = 0.030371
+  aggrThr_trr_w = 0.026935
+  aggrThr_trp_w = 0.02065
+  aggrThr_trr_b = 0.96992
+  aggrThr_trp_b = 0.68156
+  aggrThr_trps_w = 2.1109 Mbps
+  aggrThr_trps_b = 97.5259 Kbps

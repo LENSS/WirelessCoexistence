@@ -1,0 +1,62 @@
+2012.07.03.10.47.48 Wi=320 Wc=80 P=128
+2012.07.03.10.58.03 Wi=240 Wc=80 P=128
+2012.07.03.11.14.58 Wi=160 Wc=80 P=128 fails:2nd(bmac n5)
+2012.07.03.11.28.35 Wi=80 Wc=80 P=128 fails:1st(bmac n7)
+2012.07.03.15.09.13 Wi=80 Wc=60 P=128 note the time
+2012.07.03.15.34.19 Wi=320 Wc=60 P=128
+2012.07.03.15.48.16 Wi=240 Wc=60 P=128
+2012.07.03.16.04.16 Wi=160 Wc=60 P=128
+2012.07.03.17.08.58 Wi=320 Wc=40 P=128 same file in terms of wifi
+2012.07.03.17.21.29 Wi=240 Wc=40 P=128 same file in terms of wifi
+2012.07.03.17.35.15 Wi=160 Wc=40 P=128 same file in terms of wifi
+2012.07.03.17.45.26 Wi=80 Wc=40 P=128 same file in terms of wifi
+2012.07.03.18.00.56 Wi=320 Wc=80 P=108 same file in terms of wifi
+2012.07.03.18.11.21 Wi=240 Wc=80 P=108 same file in terms of wifi
+2012.07.03.18.23.06 Wi=160 Wc=80 P=108 same file in terms of wifi
+2012.07.03.18.34.01 Wi=80 Wc=80 P=108 same file in terms of wifi
+2012.07.03.18.45.19 Wi=320 Wc=60 P=108 same file in terms of wifi
+2012.07.03.19.17.05 Wi=240 Wc=60 P=108 same file in terms of wifi
+2012.07.03.20.51.03 Wi=160 Wc=60 P=108 same file in terms of wifi
+2012.07.03.20.59.40 Wi=80 Wc=60 P=108 same file in terms of wifi
+2012.07.03.21.10.00 Wi=320 Wc=40 P=108 same file in terms of wifi
+2012.07.03.21.20.16 Wi=240 Wc=40 P=108 same file in terms of wifi
+2012.07.03.21.28.29 Wi=160 Wc=40 P=108 same file in terms of wifi
+2012.07.03.21.37.14 Wi=80 Wc=40 P=108 same file in terms of wifi
+2012.07.03.21.47.07 Wi=320 Wc=80 P=88 same file in terms of wifi
+2012.07.03.21.56.01 Wi=240 Wc=80 P=88 same file in terms of wifi
+2012.07.03.22.05.20 Wi=160 Wc=80 P=88 same file in terms of wifi
+2012.07.03.22.14.28 Wi=80 Wc=80 P=88 same file in terms of wifi
+2012.07.03.22.23.29 Wi=320 Wc=60 P=88 same file in terms of wifi
+2012.07.03.22.32.06 Wi=240 Wc=60 P=88 same file in terms of wifi
+2012.07.03.22.40.07 Wi=160 Wc=60 P=88 same file in terms of wifi
+2012.07.03.22.48.11 Wi=80 Wc=60 P=88 same file in terms of wifi
+2012.07.03.22.56.15 Wi=320 Wc=40 P=88 same file in terms of wifi
+2012.07.03.23.04.20 Wi=240 Wc=40 P=88 same file in terms of wifi
+2012.07.03.23.13.38 Wi=160 Wc=40 P=88 same file in terms of wifi
+2012.07.03.23.22.17 Wi=80 Wc=40 P=88 same file in terms of wifi
+2012.07.03.23.30.33 Wi=320 Wc=80 P=68 same file in terms of wifi
+2012.07.03.23.38.59 Wi=240 Wc=80 P=68 same file in terms of wifi
+2012.07.03.23.47.46 Wi=160 Wc=80 P=68 same file in terms of wifi
+2012.07.03.23.55.55 Wi=80 Wc=80 P=68 same file in terms of wifi
+2012.07.04.08.56.56 Wi=320 Wc=60 P=68 same file in terms of wifi
+2012.07.04.09.14.30 Wi=240 Wc=60 P=68 same file in terms of wifi
+2012.07.04.09.23.04 Wi=160 Wc=60 P=68 same file in terms of wifi one weird data
+2012.07.04.09.33.55 Wi=80 Wc=60 P=68 same file in terms of wifi one weird data
+2012.07.04.09.43.33 Wi=320 Wc=40 P=68 same file in terms of wifi
+2012.07.04.09.51.48 Wi=240 Wc=40 P=68 same file in terms of wifi
+2012.07.04.09.59.46 Wi=160 Wc=40 P=68 same file in terms of wifi
+2012.07.04.10.07.50 Wi=80 Wc=40 P=68 same file in terms of wifi
+2012.07.04.10.16.07 Wi=320 Wc=80 P=48 same file in terms of wifi
+2012.07.04.10.24.19 Wi=240 Wc=80 P=48 same file in terms of wifi
+2012.07.04.10.44.22 Wi=160 Wc=80 P=48 same file in terms of wifi
+2012.07.04.10.55.04 Wi=80 Wc=80 P=48 same file in terms of wifi
+2012.07.04.11.13.16 Wi=320 Wc=80 P=48 same file in terms of wifi
+2012.07.04.11.27.22 Wi=320 Wc=60 P=48 same file in terms of wifi
+2012.07.04.11.36.24 Wi=320 Wc=60 P=48 same file in terms of wifi
+2012.07.04.12.10.11 Wi=240 Wc=60 P=48 same file in terms of wifi
+2012.07.04.12.25.12 Wi=160 Wc=60 P=48 same file in terms of wifi
+2012.07.04.12.36.15 Wi=80 Wc=60 P=48 same file in terms of wifi
+2012.07.04.13.00.19 Wi=320 Wc=40 P=48 same file in terms of wifi
+2012.07.04.13.35.21 Wi=240 Wc=40 P=48 same file in terms of wifi
+2012.07.04.13.46.32 Wi=160 Wc=40 P=48 same file in terms of wifi
+2012.07.04.14.56.46 Wi=80 Wc=40 P=48 same file in terms of wifi

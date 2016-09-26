@@ -1,0 +1,198 @@
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 5
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 10
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 15
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 20
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 25
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 30
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 200
+====DATA window related:====
+packet size: 28, DATA window: 1800
+lambda: 5
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 200
+====DATA window related:====
+packet size: 28, DATA window: 1800
+lambda: 10
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 200
+====DATA window related:====
+packet size: 28, DATA window: 1800
+lambda: 15
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 200
+====DATA window related:====
+packet size: 28, DATA window: 1800
+lambda: 20
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 200
+====DATA window related:====
+packet size: 28, DATA window: 1800
+lambda: 25
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 200
+====DATA window related:====
+packet size: 28, DATA window: 1800
+lambda: 30
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 300
+====DATA window related:====
+packet size: 28, DATA window: 1700
+lambda: 5
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 300
+====DATA window related:====
+packet size: 28, DATA window: 1700
+lambda: 10
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 300
+====DATA window related:====
+packet size: 28, DATA window: 1700
+lambda: 15
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 300
+====DATA window related:====
+packet size: 28, DATA window: 1700
+lambda: 20
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 300
+====DATA window related:====
+packet size: 28, DATA window: 1700
+lambda: 25
+mu: < 50.000000
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 300
+====DATA window related:====
+packet size: 28, DATA window: 1700
+lambda: 30
+mu: < 50.000000
+
+

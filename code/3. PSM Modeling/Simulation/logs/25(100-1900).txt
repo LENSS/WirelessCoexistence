@@ -1,0 +1,2503 @@
+>> autotest
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 5
+mu: < 50.000000
+0.5s
+Elapsed time is 2.527373 seconds.
+1s
+Elapsed time is 2.484378 seconds.
+1.5s
+Elapsed time is 2.394251 seconds.
+2s
+Elapsed time is 2.294223 seconds.
+2.5s
+Elapsed time is 2.540009 seconds.
+3s
+Elapsed time is 3.137515 seconds.
+3.5s
+Elapsed time is 2.994616 seconds.
+4s
+Elapsed time is 2.630082 seconds.
+4.5s
+Elapsed time is 2.355349 seconds.
+5s
+Elapsed time is 2.310053 seconds.
+5.5s
+Elapsed time is 2.369992 seconds.
+6s
+Elapsed time is 2.286365 seconds.
+6.5s
+Elapsed time is 2.307461 seconds.
+7s
+Elapsed time is 2.321921 seconds.
+7.5s
+Elapsed time is 2.332263 seconds.
+8s
+Elapsed time is 2.345491 seconds.
+8.5s
+Elapsed time is 2.431722 seconds.
+9s
+Elapsed time is 2.382531 seconds.
+9.5s
+Elapsed time is 2.396024 seconds.
+10s
+Elapsed time is 2.332588 seconds.
+10.5s
+Elapsed time is 2.362960 seconds.
+11s
+Elapsed time is 2.407434 seconds.
+11.5s
+Elapsed time is 2.366265 seconds.
+12s
+Elapsed time is 2.453414 seconds.
+12.5s
+Elapsed time is 2.402463 seconds.
+13s
+Elapsed time is 2.353697 seconds.
+13.5s
+Elapsed time is 2.453768 seconds.
+14s
+Elapsed time is 2.307273 seconds.
+14.5s
+Elapsed time is 2.326688 seconds.
+15s
+Elapsed time is 2.367596 seconds.
+15.5s
+Elapsed time is 2.370318 seconds.
+16s
+Elapsed time is 2.582696 seconds.
+16.5s
+Elapsed time is 2.802684 seconds.
+17s
+Elapsed time is 2.619653 seconds.
+17.5s
+Elapsed time is 2.399085 seconds.
+18s
+Elapsed time is 2.485988 seconds.
+18.5s
+Elapsed time is 2.631676 seconds.
+19s
+Elapsed time is 2.600304 seconds.
+19.5s
+Elapsed time is 2.362671 seconds.
+20s
+Elapsed time is 2.352517 seconds.
+20.5s
+Elapsed time is 2.328387 seconds.
+21s
+Elapsed time is 2.307250 seconds.
+21.5s
+Elapsed time is 2.482024 seconds.
+22s
+Elapsed time is 2.710622 seconds.
+22.5s
+Elapsed time is 2.610759 seconds.
+23s
+Elapsed time is 2.592679 seconds.
+23.5s
+Elapsed time is 2.612198 seconds.
+24s
+Elapsed time is 2.381755 seconds.
+24.5s
+Elapsed time is 2.452170 seconds.
+25s
+Elapsed time is 2.497216 seconds.
+25.5s
+Elapsed time is 2.456896 seconds.
+26s
+Elapsed time is 2.394007 seconds.
+26.5s
+Elapsed time is 2.416177 seconds.
+27s
+Elapsed time is 2.408347 seconds.
+27.5s
+Elapsed time is 2.390021 seconds.
+28s
+Elapsed time is 2.544938 seconds.
+28.5s
+Elapsed time is 2.444532 seconds.
+29s
+Elapsed time is 2.315730 seconds.
+29.5s
+Elapsed time is 2.340673 seconds.
+30s
+Elapsed time is 2.301152 seconds.
+30.5s
+Elapsed time is 2.406552 seconds.
+31s
+Elapsed time is 2.529505 seconds.
+31.5s
+Elapsed time is 2.354130 seconds.
+32s
+Elapsed time is 2.380086 seconds.
+32.5s
+Elapsed time is 2.520988 seconds.
+33s
+Elapsed time is 2.362955 seconds.
+33.5s
+Elapsed time is 2.345646 seconds.
+34s
+Elapsed time is 2.377710 seconds.
+34.5s
+Elapsed time is 2.391529 seconds.
+35s
+Elapsed time is 2.382867 seconds.
+35.5s
+Elapsed time is 2.405640 seconds.
+36s
+Elapsed time is 2.435754 seconds.
+36.5s
+Elapsed time is 2.399559 seconds.
+37s
+Elapsed time is 2.397262 seconds.
+37.5s
+Elapsed time is 2.448727 seconds.
+38s
+Elapsed time is 2.513095 seconds.
+38.5s
+Elapsed time is 2.524237 seconds.
+39s
+Elapsed time is 2.631455 seconds.
+39.5s
+Elapsed time is 2.417884 seconds.
+40s
+Elapsed time is 2.423211 seconds.
+40.5s
+Elapsed time is 2.445301 seconds.
+41s
+Elapsed time is 2.327260 seconds.
+41.5s
+Elapsed time is 2.336052 seconds.
+42s
+Elapsed time is 2.342789 seconds.
+42.5s
+Elapsed time is 2.343107 seconds.
+43s
+Elapsed time is 2.369101 seconds.
+43.5s
+Elapsed time is 2.423767 seconds.
+44s
+Elapsed time is 2.447496 seconds.
+44.5s
+Elapsed time is 2.413535 seconds.
+45s
+Elapsed time is 2.329074 seconds.
+45.5s
+Elapsed time is 2.343530 seconds.
+46s
+Elapsed time is 2.354216 seconds.
+46.5s
+Elapsed time is 2.723363 seconds.
+47s
+Elapsed time is 2.663845 seconds.
+47.5s
+Elapsed time is 2.677827 seconds.
+48s
+Elapsed time is 2.350681 seconds.
+48.5s
+Elapsed time is 2.351049 seconds.
+49s
+Elapsed time is 2.371621 seconds.
+49.5s
+Elapsed time is 2.378724 seconds.
+50s
+Elapsed time is 2.359912 seconds.
+50.5s
+Elapsed time is 2.361161 seconds.
+51s
+Elapsed time is 2.332455 seconds.
+51.5s
+Elapsed time is 2.351900 seconds.
+52s
+Elapsed time is 2.368200 seconds.
+52.5s
+Elapsed time is 2.341326 seconds.
+53s
+Elapsed time is 2.376147 seconds.
+53.5s
+Elapsed time is 2.409295 seconds.
+54s
+Elapsed time is 2.386814 seconds.
+54.5s
+Elapsed time is 2.342390 seconds.
+55s
+Elapsed time is 2.369253 seconds.
+55.5s
+Elapsed time is 2.390764 seconds.
+56s
+Elapsed time is 2.299298 seconds.
+56.5s
+Elapsed time is 2.427399 seconds.
+57s
+Elapsed time is 2.294265 seconds.
+57.5s
+Elapsed time is 2.362791 seconds.
+58s
+Elapsed time is 2.324013 seconds.
+58.5s
+Elapsed time is 2.399855 seconds.
+59s
+Elapsed time is 2.305050 seconds.
+59.5s
+Elapsed time is 2.361116 seconds.
+60s
+Elapsed time is 2.404053 seconds.
+60.5s
+Elapsed time is 2.410000 seconds.
+61s
+Elapsed time is 2.351519 seconds.
+61.5s
+Elapsed time is 2.335090 seconds.
+62s
+Elapsed time is 2.384390 seconds.
+62.5s
+Elapsed time is 2.545085 seconds.
+63s
+Elapsed time is 2.599014 seconds.
+63.5s
+Elapsed time is 2.477186 seconds.
+64s
+Elapsed time is 2.403283 seconds.
+64.5s
+Elapsed time is 2.376043 seconds.
+65s
+Elapsed time is 2.385993 seconds.
+65.5s
+Elapsed time is 2.347546 seconds.
+66s
+Elapsed time is 2.351458 seconds.
+66.5s
+Elapsed time is 2.373103 seconds.
+67s
+Elapsed time is 2.352690 seconds.
+67.5s
+Elapsed time is 2.456712 seconds.
+68s
+Elapsed time is 2.311238 seconds.
+68.5s
+Elapsed time is 2.385575 seconds.
+69s
+Elapsed time is 2.349662 seconds.
+69.5s
+Elapsed time is 2.382805 seconds.
+70s
+Elapsed time is 2.355453 seconds.
+70.5s
+Elapsed time is 2.380998 seconds.
+71s
+Elapsed time is 2.384232 seconds.
+71.5s
+Elapsed time is 2.307196 seconds.
+72s
+Elapsed time is 2.354649 seconds.
+72.5s
+Elapsed time is 2.427612 seconds.
+73s
+Elapsed time is 2.327570 seconds.
+73.5s
+Elapsed time is 2.378892 seconds.
+74s
+Elapsed time is 2.385439 seconds.
+74.5s
+Elapsed time is 2.399118 seconds.
+75s
+Elapsed time is 2.369336 seconds.
+75.5s
+Elapsed time is 2.374261 seconds.
+76s
+Elapsed time is 2.421075 seconds.
+76.5s
+Elapsed time is 2.537976 seconds.
+77s
+Elapsed time is 2.613515 seconds.
+77.5s
+Elapsed time is 2.428252 seconds.
+78s
+Elapsed time is 2.367232 seconds.
+78.5s
+Elapsed time is 2.333178 seconds.
+79s
+Elapsed time is 2.332046 seconds.
+79.5s
+Elapsed time is 2.359052 seconds.
+80s
+Elapsed time is 2.377095 seconds.
+80.5s
+Elapsed time is 2.396903 seconds.
+81s
+Elapsed time is 2.340546 seconds.
+81.5s
+Elapsed time is 2.418227 seconds.
+82s
+Elapsed time is 2.394874 seconds.
+82.5s
+Elapsed time is 2.348087 seconds.
+83s
+Elapsed time is 2.360375 seconds.
+83.5s
+Elapsed time is 2.302976 seconds.
+84s
+Elapsed time is 2.339792 seconds.
+84.5s
+Elapsed time is 2.320620 seconds.
+85s
+Elapsed time is 2.340927 seconds.
+85.5s
+Elapsed time is 2.697747 seconds.
+86s
+Elapsed time is 2.402324 seconds.
+86.5s
+Elapsed time is 2.347980 seconds.
+87s
+Elapsed time is 2.381457 seconds.
+87.5s
+Elapsed time is 2.389490 seconds.
+88s
+Elapsed time is 2.440784 seconds.
+88.5s
+Elapsed time is 2.381944 seconds.
+89s
+Elapsed time is 2.391160 seconds.
+89.5s
+Elapsed time is 2.374374 seconds.
+90s
+Elapsed time is 2.395675 seconds.
+90.5s
+Elapsed time is 2.341767 seconds.
+91s
+Elapsed time is 2.403938 seconds.
+91.5s
+Elapsed time is 2.361780 seconds.
+92s
+Elapsed time is 2.364559 seconds.
+92.5s
+Elapsed time is 2.330950 seconds.
+93s
+Elapsed time is 2.340323 seconds.
+93.5s
+Elapsed time is 2.339203 seconds.
+94s
+Elapsed time is 2.295346 seconds.
+94.5s
+Elapsed time is 2.320009 seconds.
+95s
+Elapsed time is 2.340307 seconds.
+95.5s
+Elapsed time is 2.350054 seconds.
+96s
+Elapsed time is 2.336146 seconds.
+96.5s
+Elapsed time is 2.394506 seconds.
+97s
+Elapsed time is 2.361196 seconds.
+97.5s
+Elapsed time is 2.368398 seconds.
+98s
+Elapsed time is 2.305992 seconds.
+98.5s
+Elapsed time is 2.316283 seconds.
+99s
+Elapsed time is 2.386209 seconds.
+99.5s
+Elapsed time is 2.321287 seconds.
+100s
+Elapsed time is 2.313892 seconds.
+# pernode data TXs: 4.984000e+02
+Queue empty prob.: 0.946927
+Average queue size.: 0.0549214
+average throughput: 0.059808 Mbps
+total throughput: 1.495200 Mbps
+---- Running time=481.897 s ----
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 10
+mu: < 50.000000
+0.5s
+Elapsed time is 2.872863 seconds.
+1s
+Elapsed time is 2.760954 seconds.
+1.5s
+Elapsed time is 2.572509 seconds.
+2s
+Elapsed time is 2.543445 seconds.
+2.5s
+Elapsed time is 2.661289 seconds.
+3s
+Elapsed time is 2.552804 seconds.
+3.5s
+Elapsed time is 2.657734 seconds.
+4s
+Elapsed time is 2.790731 seconds.
+4.5s
+Elapsed time is 2.650486 seconds.
+5s
+Elapsed time is 2.536986 seconds.
+5.5s
+Elapsed time is 2.494074 seconds.
+6s
+Elapsed time is 2.502831 seconds.
+6.5s
+Elapsed time is 2.583201 seconds.
+7s
+Elapsed time is 2.784699 seconds.
+7.5s
+Elapsed time is 2.599086 seconds.
+8s
+Elapsed time is 2.611704 seconds.
+8.5s
+Elapsed time is 2.522467 seconds.
+9s
+Elapsed time is 2.509555 seconds.
+9.5s
+Elapsed time is 2.555217 seconds.
+10s
+Elapsed time is 2.415151 seconds.
+10.5s
+Elapsed time is 2.530183 seconds.
+11s
+Elapsed time is 2.557656 seconds.
+11.5s
+Elapsed time is 2.560550 seconds.
+12s
+Elapsed time is 2.611772 seconds.
+12.5s
+Elapsed time is 2.455152 seconds.
+13s
+Elapsed time is 2.513155 seconds.
+13.5s
+Elapsed time is 2.468326 seconds.
+14s
+Elapsed time is 2.633707 seconds.
+14.5s
+Elapsed time is 2.581916 seconds.
+15s
+Elapsed time is 2.579406 seconds.
+15.5s
+Elapsed time is 2.553523 seconds.
+16s
+Elapsed time is 2.593328 seconds.
+16.5s
+Elapsed time is 2.545255 seconds.
+17s
+Elapsed time is 2.503398 seconds.
+17.5s
+Elapsed time is 2.541904 seconds.
+18s
+Elapsed time is 2.535138 seconds.
+18.5s
+Elapsed time is 2.521625 seconds.
+19s
+Elapsed time is 2.504997 seconds.
+19.5s
+Elapsed time is 2.588274 seconds.
+20s
+Elapsed time is 2.572859 seconds.
+20.5s
+Elapsed time is 2.522285 seconds.
+21s
+Elapsed time is 2.495157 seconds.
+21.5s
+Elapsed time is 2.521890 seconds.
+22s
+Elapsed time is 2.429827 seconds.
+22.5s
+Elapsed time is 2.510785 seconds.
+23s
+Elapsed time is 2.858388 seconds.
+23.5s
+Elapsed time is 3.327583 seconds.
+24s
+Elapsed time is 3.872393 seconds.
+24.5s
+Elapsed time is 3.170546 seconds.
+25s
+Elapsed time is 3.138875 seconds.
+25.5s
+Elapsed time is 2.988902 seconds.
+26s
+Elapsed time is 3.433740 seconds.
+26.5s
+Elapsed time is 3.209152 seconds.
+27s
+Elapsed time is 3.295481 seconds.
+27.5s
+Elapsed time is 3.264853 seconds.
+28s
+Elapsed time is 3.234656 seconds.
+28.5s
+Elapsed time is 3.483878 seconds.
+29s
+Elapsed time is 3.702907 seconds.
+29.5s
+Elapsed time is 3.343460 seconds.
+30s
+Elapsed time is 3.600629 seconds.
+30.5s
+Elapsed time is 3.379773 seconds.
+31s
+Elapsed time is 3.000513 seconds.
+31.5s
+Elapsed time is 2.901466 seconds.
+32s
+Elapsed time is 3.079301 seconds.
+32.5s
+Elapsed time is 3.174049 seconds.
+33s
+Elapsed time is 3.551844 seconds.
+33.5s
+Elapsed time is 3.827754 seconds.
+34s
+Elapsed time is 3.050595 seconds.
+34.5s
+Elapsed time is 3.328251 seconds.
+35s
+Elapsed time is 3.527855 seconds.
+35.5s
+Elapsed time is 3.395872 seconds.
+36s
+Elapsed time is 3.161643 seconds.
+36.5s
+Elapsed time is 3.106586 seconds.
+37s
+Elapsed time is 2.969583 seconds.
+37.5s
+Elapsed time is 3.065476 seconds.
+38s
+Elapsed time is 3.212584 seconds.
+38.5s
+Elapsed time is 3.351068 seconds.
+39s
+Elapsed time is 2.978576 seconds.
+39.5s
+Elapsed time is 3.009626 seconds.
+40s
+Elapsed time is 3.457189 seconds.
+40.5s
+Elapsed time is 3.063528 seconds.
+41s
+Elapsed time is 2.997655 seconds.
+41.5s
+Elapsed time is 3.101289 seconds.
+42s
+Elapsed time is 2.909061 seconds.
+42.5s
+Elapsed time is 3.109195 seconds.
+43s
+Elapsed time is 3.123956 seconds.
+43.5s
+Elapsed time is 2.781669 seconds.
+44s
+Elapsed time is 3.035130 seconds.
+44.5s
+Elapsed time is 2.858740 seconds.
+45s
+Elapsed time is 2.988186 seconds.
+45.5s
+Elapsed time is 3.066380 seconds.
+46s
+Elapsed time is 3.003543 seconds.
+46.5s
+Elapsed time is 2.894104 seconds.
+47s
+Elapsed time is 3.163683 seconds.
+47.5s
+Elapsed time is 2.842071 seconds.
+48s
+Elapsed time is 2.747708 seconds.
+48.5s
+Elapsed time is 2.697090 seconds.
+49s
+Elapsed time is 2.814605 seconds.
+49.5s
+Elapsed time is 2.801185 seconds.
+50s
+Elapsed time is 2.951196 seconds.
+50.5s
+Elapsed time is 2.730918 seconds.
+51s
+Elapsed time is 2.875137 seconds.
+51.5s
+Elapsed time is 3.015634 seconds.
+52s
+Elapsed time is 2.893604 seconds.
+52.5s
+Elapsed time is 3.061215 seconds.
+53s
+Elapsed time is 2.949373 seconds.
+53.5s
+Elapsed time is 3.174136 seconds.
+54s
+Elapsed time is 2.630479 seconds.
+54.5s
+Elapsed time is 2.923370 seconds.
+55s
+Elapsed time is 3.371407 seconds.
+55.5s
+Elapsed time is 2.842271 seconds.
+56s
+Elapsed time is 2.885512 seconds.
+56.5s
+Elapsed time is 2.778125 seconds.
+57s
+Elapsed time is 3.084244 seconds.
+57.5s
+Elapsed time is 3.065073 seconds.
+58s
+Elapsed time is 3.321546 seconds.
+58.5s
+Elapsed time is 3.111569 seconds.
+59s
+Elapsed time is 3.217716 seconds.
+59.5s
+Elapsed time is 2.819273 seconds.
+60s
+Elapsed time is 3.430934 seconds.
+60.5s
+Elapsed time is 3.679457 seconds.
+61s
+Elapsed time is 3.116535 seconds.
+61.5s
+Elapsed time is 3.228080 seconds.
+62s
+Elapsed time is 2.831114 seconds.
+62.5s
+Elapsed time is 2.846911 seconds.
+63s
+Elapsed time is 3.002720 seconds.
+63.5s
+Elapsed time is 3.670866 seconds.
+64s
+Elapsed time is 2.964648 seconds.
+64.5s
+Elapsed time is 2.999391 seconds.
+65s
+Elapsed time is 3.271619 seconds.
+65.5s
+Elapsed time is 3.121884 seconds.
+66s
+Elapsed time is 2.848920 seconds.
+66.5s
+Elapsed time is 3.011133 seconds.
+67s
+Elapsed time is 3.020653 seconds.
+67.5s
+Elapsed time is 3.070447 seconds.
+68s
+Elapsed time is 3.014390 seconds.
+68.5s
+Elapsed time is 2.960206 seconds.
+69s
+Elapsed time is 3.112089 seconds.
+69.5s
+Elapsed time is 3.114584 seconds.
+70s
+Elapsed time is 3.248586 seconds.
+70.5s
+Elapsed time is 2.988460 seconds.
+71s
+Elapsed time is 2.752552 seconds.
+71.5s
+Elapsed time is 2.900104 seconds.
+72s
+Elapsed time is 2.711065 seconds.
+72.5s
+Elapsed time is 3.051987 seconds.
+73s
+Elapsed time is 2.955683 seconds.
+73.5s
+Elapsed time is 2.883746 seconds.
+74s
+Elapsed time is 2.959634 seconds.
+74.5s
+Elapsed time is 2.820964 seconds.
+75s
+Elapsed time is 2.818649 seconds.
+75.5s
+Elapsed time is 2.887472 seconds.
+76s
+Elapsed time is 3.279412 seconds.
+76.5s
+Elapsed time is 3.176815 seconds.
+77s
+Elapsed time is 3.116570 seconds.
+77.5s
+Elapsed time is 3.117799 seconds.
+78s
+Elapsed time is 2.937390 seconds.
+78.5s
+Elapsed time is 2.927011 seconds.
+79s
+Elapsed time is 3.032690 seconds.
+79.5s
+Elapsed time is 3.096546 seconds.
+80s
+Elapsed time is 3.060569 seconds.
+80.5s
+Elapsed time is 3.147482 seconds.
+81s
+Elapsed time is 3.098082 seconds.
+81.5s
+Elapsed time is 2.909350 seconds.
+82s
+Elapsed time is 3.088646 seconds.
+82.5s
+Elapsed time is 2.815927 seconds.
+83s
+Elapsed time is 3.079484 seconds.
+83.5s
+Elapsed time is 3.040531 seconds.
+84s
+Elapsed time is 3.260866 seconds.
+84.5s
+Elapsed time is 3.304942 seconds.
+85s
+Elapsed time is 2.880944 seconds.
+85.5s
+Elapsed time is 2.717935 seconds.
+86s
+Elapsed time is 3.065513 seconds.
+86.5s
+Elapsed time is 2.815664 seconds.
+87s
+Elapsed time is 2.805071 seconds.
+87.5s
+Elapsed time is 2.971372 seconds.
+88s
+Elapsed time is 3.030641 seconds.
+88.5s
+Elapsed time is 3.002234 seconds.
+89s
+Elapsed time is 3.138736 seconds.
+89.5s
+Elapsed time is 2.765118 seconds.
+90s
+Elapsed time is 2.757365 seconds.
+90.5s
+Elapsed time is 2.948571 seconds.
+91s
+Elapsed time is 2.898989 seconds.
+91.5s
+Elapsed time is 2.803641 seconds.
+92s
+Elapsed time is 3.026457 seconds.
+92.5s
+Elapsed time is 2.848581 seconds.
+93s
+Elapsed time is 3.062666 seconds.
+93.5s
+Elapsed time is 2.718647 seconds.
+94s
+Elapsed time is 2.797441 seconds.
+94.5s
+Elapsed time is 3.025152 seconds.
+95s
+Elapsed time is 2.821922 seconds.
+95.5s
+Elapsed time is 2.864839 seconds.
+96s
+Elapsed time is 2.823853 seconds.
+96.5s
+Elapsed time is 3.264290 seconds.
+97s
+Elapsed time is 2.790354 seconds.
+97.5s
+Elapsed time is 2.946035 seconds.
+98s
+Elapsed time is 2.939773 seconds.
+98.5s
+Elapsed time is 2.850845 seconds.
+99s
+Elapsed time is 3.115453 seconds.
+99.5s
+Elapsed time is 2.891863 seconds.
+100s
+Elapsed time is 2.999068 seconds.
+# pernode data TXs: 1.007280e+03
+Queue empty prob.: 0.882524
+Average queue size.: 0.128804
+average throughput: 0.120874 Mbps
+total throughput: 3.021840 Mbps
+---- Running time=589 s ----
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 15
+mu: < 50.000000
+0.5s
+Elapsed time is 3.591973 seconds.
+1s
+Elapsed time is 3.386503 seconds.
+1.5s
+Elapsed time is 3.378585 seconds.
+2s
+Elapsed time is 3.038668 seconds.
+2.5s
+Elapsed time is 3.129629 seconds.
+3s
+Elapsed time is 3.082490 seconds.
+3.5s
+Elapsed time is 2.972740 seconds.
+4s
+Elapsed time is 3.071503 seconds.
+4.5s
+Elapsed time is 3.210968 seconds.
+5s
+Elapsed time is 3.003484 seconds.
+5.5s
+Elapsed time is 3.161516 seconds.
+6s
+Elapsed time is 3.106726 seconds.
+6.5s
+Elapsed time is 3.271845 seconds.
+7s
+Elapsed time is 3.114049 seconds.
+7.5s
+Elapsed time is 3.022920 seconds.
+8s
+Elapsed time is 3.009494 seconds.
+8.5s
+Elapsed time is 2.939158 seconds.
+9s
+Elapsed time is 3.062900 seconds.
+9.5s
+Elapsed time is 2.870052 seconds.
+10s
+Elapsed time is 2.919611 seconds.
+10.5s
+Elapsed time is 2.978749 seconds.
+11s
+Elapsed time is 2.857108 seconds.
+11.5s
+Elapsed time is 2.771951 seconds.
+12s
+Elapsed time is 3.147647 seconds.
+12.5s
+Elapsed time is 3.204586 seconds.
+13s
+Elapsed time is 3.201343 seconds.
+13.5s
+Elapsed time is 2.742019 seconds.
+14s
+Elapsed time is 3.213940 seconds.
+14.5s
+Elapsed time is 3.134930 seconds.
+15s
+Elapsed time is 3.198040 seconds.
+15.5s
+Elapsed time is 3.258204 seconds.
+16s
+Elapsed time is 3.106710 seconds.
+16.5s
+Elapsed time is 2.971226 seconds.
+17s
+Elapsed time is 3.066376 seconds.
+17.5s
+Elapsed time is 3.335501 seconds.
+18s
+Elapsed time is 2.822880 seconds.
+18.5s
+Elapsed time is 3.003591 seconds.
+19s
+Elapsed time is 2.991343 seconds.
+19.5s
+Elapsed time is 3.198443 seconds.
+20s
+Elapsed time is 3.088315 seconds.
+20.5s
+Elapsed time is 2.795372 seconds.
+21s
+Elapsed time is 2.905305 seconds.
+21.5s
+Elapsed time is 2.848663 seconds.
+22s
+Elapsed time is 2.843898 seconds.
+22.5s
+Elapsed time is 3.091671 seconds.
+23s
+Elapsed time is 2.759702 seconds.
+23.5s
+Elapsed time is 2.954876 seconds.
+24s
+Elapsed time is 3.165575 seconds.
+24.5s
+Elapsed time is 3.176703 seconds.
+25s
+Elapsed time is 3.111216 seconds.
+25.5s
+Elapsed time is 3.047905 seconds.
+26s
+Elapsed time is 2.923703 seconds.
+26.5s
+Elapsed time is 3.238718 seconds.
+27s
+Elapsed time is 2.915995 seconds.
+27.5s
+Elapsed time is 2.898676 seconds.
+28s
+Elapsed time is 4.009162 seconds.
+28.5s
+Elapsed time is 3.422999 seconds.
+29s
+Elapsed time is 2.944213 seconds.
+29.5s
+Elapsed time is 3.164032 seconds.
+30s
+Elapsed time is 3.074293 seconds.
+30.5s
+Elapsed time is 2.850044 seconds.
+31s
+Elapsed time is 3.188025 seconds.
+31.5s
+Elapsed time is 3.038631 seconds.
+32s
+Elapsed time is 3.014953 seconds.
+32.5s
+Elapsed time is 3.066187 seconds.
+33s
+Elapsed time is 2.860706 seconds.
+33.5s
+Elapsed time is 2.944148 seconds.
+34s
+Elapsed time is 3.007493 seconds.
+34.5s
+Elapsed time is 3.193118 seconds.
+35s
+Elapsed time is 3.026170 seconds.
+35.5s
+Elapsed time is 3.309120 seconds.
+36s
+Elapsed time is 3.171932 seconds.
+36.5s
+Elapsed time is 3.150591 seconds.
+37s
+Elapsed time is 2.813629 seconds.
+37.5s
+Elapsed time is 3.005752 seconds.
+38s
+Elapsed time is 2.998502 seconds.
+38.5s
+Elapsed time is 2.968862 seconds.
+39s
+Elapsed time is 3.056490 seconds.
+39.5s
+Elapsed time is 2.848860 seconds.
+40s
+Elapsed time is 2.738469 seconds.
+40.5s
+Elapsed time is 2.941891 seconds.
+41s
+Elapsed time is 2.936033 seconds.
+41.5s
+Elapsed time is 3.057002 seconds.
+42s
+Elapsed time is 2.907489 seconds.
+42.5s
+Elapsed time is 3.038323 seconds.
+43s
+Elapsed time is 3.274631 seconds.
+43.5s
+Elapsed time is 3.257519 seconds.
+44s
+Elapsed time is 3.177317 seconds.
+44.5s
+Elapsed time is 3.066319 seconds.
+45s
+Elapsed time is 3.032693 seconds.
+45.5s
+Elapsed time is 3.226894 seconds.
+46s
+Elapsed time is 3.382111 seconds.
+46.5s
+Elapsed time is 3.330102 seconds.
+47s
+Elapsed time is 3.074623 seconds.
+47.5s
+Elapsed time is 2.879568 seconds.
+48s
+Elapsed time is 2.924690 seconds.
+48.5s
+Elapsed time is 3.110484 seconds.
+49s
+Elapsed time is 2.865085 seconds.
+49.5s
+Elapsed time is 2.984858 seconds.
+50s
+Elapsed time is 3.010232 seconds.
+50.5s
+Elapsed time is 3.028700 seconds.
+51s
+Elapsed time is 3.023190 seconds.
+51.5s
+Elapsed time is 3.317551 seconds.
+52s
+Elapsed time is 3.149007 seconds.
+52.5s
+Elapsed time is 2.976003 seconds.
+53s
+Elapsed time is 3.096049 seconds.
+53.5s
+Elapsed time is 2.742094 seconds.
+54s
+Elapsed time is 3.083122 seconds.
+54.5s
+Elapsed time is 2.893074 seconds.
+55s
+Elapsed time is 2.916315 seconds.
+55.5s
+Elapsed time is 2.889574 seconds.
+56s
+Elapsed time is 2.927764 seconds.
+56.5s
+Elapsed time is 3.081030 seconds.
+57s
+Elapsed time is 3.247354 seconds.
+57.5s
+Elapsed time is 2.946045 seconds.
+58s
+Elapsed time is 3.156792 seconds.
+58.5s
+Elapsed time is 3.049705 seconds.
+59s
+Elapsed time is 3.127890 seconds.
+59.5s
+Elapsed time is 3.470820 seconds.
+60s
+Elapsed time is 3.303613 seconds.
+60.5s
+Elapsed time is 2.945700 seconds.
+61s
+Elapsed time is 3.039059 seconds.
+61.5s
+Elapsed time is 3.219134 seconds.
+62s
+Elapsed time is 3.071874 seconds.
+62.5s
+Elapsed time is 3.048294 seconds.
+63s
+Elapsed time is 3.186136 seconds.
+63.5s
+Elapsed time is 3.062906 seconds.
+64s
+Elapsed time is 2.957436 seconds.
+64.5s
+Elapsed time is 2.918627 seconds.
+65s
+Elapsed time is 3.107974 seconds.
+65.5s
+Elapsed time is 2.756003 seconds.
+66s
+Elapsed time is 3.085789 seconds.
+66.5s
+Elapsed time is 2.856926 seconds.
+67s
+Elapsed time is 2.948709 seconds.
+67.5s
+Elapsed time is 2.824935 seconds.
+68s
+Elapsed time is 3.085874 seconds.
+68.5s
+Elapsed time is 2.861559 seconds.
+69s
+Elapsed time is 3.064355 seconds.
+69.5s
+Elapsed time is 3.133073 seconds.
+70s
+Elapsed time is 3.125653 seconds.
+70.5s
+Elapsed time is 2.904625 seconds.
+71s
+Elapsed time is 2.957786 seconds.
+71.5s
+Elapsed time is 2.924872 seconds.
+72s
+Elapsed time is 2.876829 seconds.
+72.5s
+Elapsed time is 2.907732 seconds.
+73s
+Elapsed time is 2.960530 seconds.
+73.5s
+Elapsed time is 2.932711 seconds.
+74s
+Elapsed time is 3.104159 seconds.
+74.5s
+Elapsed time is 3.155663 seconds.
+75s
+Elapsed time is 2.986199 seconds.
+75.5s
+Elapsed time is 3.067288 seconds.
+76s
+Elapsed time is 3.008825 seconds.
+76.5s
+Elapsed time is 2.897186 seconds.
+77s
+Elapsed time is 3.056559 seconds.
+77.5s
+Elapsed time is 3.176230 seconds.
+78s
+Elapsed time is 3.312032 seconds.
+78.5s
+Elapsed time is 2.943573 seconds.
+79s
+Elapsed time is 2.861497 seconds.
+79.5s
+Elapsed time is 3.133159 seconds.
+80s
+Elapsed time is 2.892815 seconds.
+80.5s
+Elapsed time is 3.019548 seconds.
+81s
+Elapsed time is 3.044193 seconds.
+81.5s
+Elapsed time is 2.963151 seconds.
+82s
+Elapsed time is 2.933554 seconds.
+82.5s
+Elapsed time is 3.128500 seconds.
+83s
+Elapsed time is 2.841112 seconds.
+83.5s
+Elapsed time is 3.074016 seconds.
+84s
+Elapsed time is 3.022298 seconds.
+84.5s
+Elapsed time is 2.955360 seconds.
+85s
+Elapsed time is 3.114246 seconds.
+85.5s
+Elapsed time is 3.177642 seconds.
+86s
+Elapsed time is 3.006191 seconds.
+86.5s
+Elapsed time is 2.904249 seconds.
+87s
+Elapsed time is 2.941682 seconds.
+87.5s
+Elapsed time is 2.991657 seconds.
+88s
+Elapsed time is 2.942794 seconds.
+88.5s
+Elapsed time is 2.872787 seconds.
+89s
+Elapsed time is 3.056020 seconds.
+89.5s
+Elapsed time is 3.051808 seconds.
+90s
+Elapsed time is 2.940338 seconds.
+90.5s
+Elapsed time is 2.967868 seconds.
+91s
+Elapsed time is 2.965135 seconds.
+91.5s
+Elapsed time is 3.055109 seconds.
+92s
+Elapsed time is 2.926210 seconds.
+92.5s
+Elapsed time is 2.964816 seconds.
+93s
+Elapsed time is 2.893489 seconds.
+93.5s
+Elapsed time is 2.902559 seconds.
+94s
+Elapsed time is 3.075756 seconds.
+94.5s
+Elapsed time is 3.355013 seconds.
+95s
+Elapsed time is 2.919864 seconds.
+95.5s
+Elapsed time is 2.954133 seconds.
+96s
+Elapsed time is 3.142930 seconds.
+96.5s
+Elapsed time is 2.970523 seconds.
+97s
+Elapsed time is 3.177273 seconds.
+97.5s
+Elapsed time is 3.155295 seconds.
+98s
+Elapsed time is 3.284946 seconds.
+98.5s
+Elapsed time is 3.357140 seconds.
+99s
+Elapsed time is 3.697044 seconds.
+99.5s
+Elapsed time is 3.035235 seconds.
+100s
+Elapsed time is 2.870508 seconds.
+# pernode data TXs: 9.767600e+02
+Queue empty prob.: 0.00957955
+Average queue size.: 88.1886
+average throughput: 0.117211 Mbps
+total throughput: 2.930280 Mbps
+---- Running time=610.157 s ----
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 20
+mu: < 50.000000
+0.5s
+Elapsed time is 3.276741 seconds.
+1s
+Elapsed time is 3.266597 seconds.
+1.5s
+Elapsed time is 3.280393 seconds.
+2s
+Elapsed time is 3.043437 seconds.
+2.5s
+Elapsed time is 3.113066 seconds.
+3s
+Elapsed time is 3.116657 seconds.
+3.5s
+Elapsed time is 3.159002 seconds.
+4s
+Elapsed time is 2.953477 seconds.
+4.5s
+Elapsed time is 2.976821 seconds.
+5s
+Elapsed time is 2.875873 seconds.
+5.5s
+Elapsed time is 3.271278 seconds.
+6s
+Elapsed time is 3.094359 seconds.
+6.5s
+Elapsed time is 3.246612 seconds.
+7s
+Elapsed time is 3.056419 seconds.
+7.5s
+Elapsed time is 2.828510 seconds.
+8s
+Elapsed time is 3.130867 seconds.
+8.5s
+Elapsed time is 2.910125 seconds.
+9s
+Elapsed time is 3.108347 seconds.
+9.5s
+Elapsed time is 2.958524 seconds.
+10s
+Elapsed time is 3.142564 seconds.
+10.5s
+Elapsed time is 3.218517 seconds.
+11s
+Elapsed time is 3.004973 seconds.
+11.5s
+Elapsed time is 3.410241 seconds.
+12s
+Elapsed time is 3.106241 seconds.
+12.5s
+Elapsed time is 3.099571 seconds.
+13s
+Elapsed time is 3.068007 seconds.
+13.5s
+Elapsed time is 3.174429 seconds.
+14s
+Elapsed time is 2.899315 seconds.
+14.5s
+Elapsed time is 3.214804 seconds.
+15s
+Elapsed time is 2.973180 seconds.
+15.5s
+Elapsed time is 3.199602 seconds.
+16s
+Elapsed time is 3.063008 seconds.
+16.5s
+Elapsed time is 3.043404 seconds.
+17s
+Elapsed time is 2.986598 seconds.
+17.5s
+Elapsed time is 2.805313 seconds.
+18s
+Elapsed time is 3.302320 seconds.
+18.5s
+Elapsed time is 3.277990 seconds.
+19s
+Elapsed time is 2.968668 seconds.
+19.5s
+Elapsed time is 3.201011 seconds.
+20s
+Elapsed time is 3.144373 seconds.
+20.5s
+Elapsed time is 3.145415 seconds.
+21s
+Elapsed time is 3.164176 seconds.
+21.5s
+Elapsed time is 3.042605 seconds.
+22s
+Elapsed time is 2.954669 seconds.
+22.5s
+Elapsed time is 2.869349 seconds.
+23s
+Elapsed time is 3.156076 seconds.
+23.5s
+Elapsed time is 2.955285 seconds.
+24s
+Elapsed time is 3.216039 seconds.
+24.5s
+Elapsed time is 3.083890 seconds.
+25s
+Elapsed time is 2.966750 seconds.
+25.5s
+Elapsed time is 3.065005 seconds.
+26s
+Elapsed time is 2.975370 seconds.
+26.5s
+Elapsed time is 3.038929 seconds.
+27s
+Elapsed time is 3.042163 seconds.
+27.5s
+Elapsed time is 2.999733 seconds.
+28s
+Elapsed time is 2.823317 seconds.
+28.5s
+Elapsed time is 2.950693 seconds.
+29s
+Elapsed time is 3.092667 seconds.
+29.5s
+Elapsed time is 3.205505 seconds.
+30s
+Elapsed time is 3.243072 seconds.
+30.5s
+Elapsed time is 2.909563 seconds.
+31s
+Elapsed time is 3.226984 seconds.
+31.5s
+Elapsed time is 2.861535 seconds.
+32s
+Elapsed time is 3.035352 seconds.
+32.5s
+Elapsed time is 3.052968 seconds.
+33s
+Elapsed time is 2.958339 seconds.
+33.5s
+Elapsed time is 3.178400 seconds.
+34s
+Elapsed time is 2.874445 seconds.
+34.5s
+Elapsed time is 2.921993 seconds.
+35s
+Elapsed time is 2.905985 seconds.
+35.5s
+Elapsed time is 2.942451 seconds.
+36s
+Elapsed time is 2.992080 seconds.
+36.5s
+Elapsed time is 2.968008 seconds.
+37s
+Elapsed time is 3.125250 seconds.
+37.5s
+Elapsed time is 3.109865 seconds.
+38s
+Elapsed time is 2.979663 seconds.
+38.5s
+Elapsed time is 2.863895 seconds.
+39s
+Elapsed time is 2.983682 seconds.
+39.5s
+Elapsed time is 2.974374 seconds.
+40s
+Elapsed time is 2.872343 seconds.
+40.5s
+Elapsed time is 2.647094 seconds.
+41s
+Elapsed time is 2.861828 seconds.
+41.5s
+Elapsed time is 2.775925 seconds.
+42s
+Elapsed time is 2.874803 seconds.
+42.5s
+Elapsed time is 3.021625 seconds.
+43s
+Elapsed time is 2.968327 seconds.
+43.5s
+Elapsed time is 3.022091 seconds.
+44s
+Elapsed time is 2.837068 seconds.
+44.5s
+Elapsed time is 2.831465 seconds.
+45s
+Elapsed time is 2.733094 seconds.
+45.5s
+Elapsed time is 2.935743 seconds.
+46s
+Elapsed time is 3.083620 seconds.
+46.5s
+Elapsed time is 2.907441 seconds.
+47s
+Elapsed time is 2.812636 seconds.
+47.5s
+Elapsed time is 2.806711 seconds.
+48s
+Elapsed time is 2.788588 seconds.
+48.5s
+Elapsed time is 2.705728 seconds.
+49s
+Elapsed time is 2.829471 seconds.
+49.5s
+Elapsed time is 2.939926 seconds.
+50s
+Elapsed time is 2.895040 seconds.
+50.5s
+Elapsed time is 2.839135 seconds.
+51s
+Elapsed time is 2.777542 seconds.
+51.5s
+Elapsed time is 2.973349 seconds.
+52s
+Elapsed time is 2.723230 seconds.
+52.5s
+Elapsed time is 2.865362 seconds.
+53s
+Elapsed time is 2.917297 seconds.
+53.5s
+Elapsed time is 2.949778 seconds.
+54s
+Elapsed time is 2.752019 seconds.
+54.5s
+Elapsed time is 2.723939 seconds.
+55s
+Elapsed time is 2.954065 seconds.
+55.5s
+Elapsed time is 2.784898 seconds.
+56s
+Elapsed time is 2.919664 seconds.
+56.5s
+Elapsed time is 3.075529 seconds.
+57s
+Elapsed time is 2.894150 seconds.
+57.5s
+Elapsed time is 2.737351 seconds.
+58s
+Elapsed time is 2.842159 seconds.
+58.5s
+Elapsed time is 2.880762 seconds.
+59s
+Elapsed time is 2.997957 seconds.
+59.5s
+Elapsed time is 3.206519 seconds.
+60s
+Elapsed time is 3.625548 seconds.
+60.5s
+Elapsed time is 3.076200 seconds.
+61s
+Elapsed time is 3.225837 seconds.
+61.5s
+Elapsed time is 3.172671 seconds.
+62s
+Elapsed time is 2.893807 seconds.
+62.5s
+Elapsed time is 2.961455 seconds.
+63s
+Elapsed time is 3.045599 seconds.
+63.5s
+Elapsed time is 2.914385 seconds.
+64s
+Elapsed time is 2.985924 seconds.
+64.5s
+Elapsed time is 3.049148 seconds.
+65s
+Elapsed time is 3.233755 seconds.
+65.5s
+Elapsed time is 2.958098 seconds.
+66s
+Elapsed time is 3.061840 seconds.
+66.5s
+Elapsed time is 2.800184 seconds.
+67s
+Elapsed time is 2.683278 seconds.
+67.5s
+Elapsed time is 3.039759 seconds.
+68s
+Elapsed time is 3.033659 seconds.
+68.5s
+Elapsed time is 3.029192 seconds.
+69s
+Elapsed time is 2.972474 seconds.
+69.5s
+Elapsed time is 2.704908 seconds.
+70s
+Elapsed time is 2.995853 seconds.
+70.5s
+Elapsed time is 3.106303 seconds.
+71s
+Elapsed time is 3.077737 seconds.
+71.5s
+Elapsed time is 2.948237 seconds.
+72s
+Elapsed time is 3.130859 seconds.
+72.5s
+Elapsed time is 2.893977 seconds.
+73s
+Elapsed time is 3.475273 seconds.
+73.5s
+Elapsed time is 3.594023 seconds.
+74s
+Elapsed time is 3.383671 seconds.
+74.5s
+Elapsed time is 3.548158 seconds.
+75s
+Elapsed time is 3.070121 seconds.
+75.5s
+Elapsed time is 3.238513 seconds.
+76s
+Elapsed time is 2.807362 seconds.
+76.5s
+Elapsed time is 2.993005 seconds.
+77s
+Elapsed time is 3.130342 seconds.
+77.5s
+Elapsed time is 3.003610 seconds.
+78s
+Elapsed time is 2.988217 seconds.
+78.5s
+Elapsed time is 2.958254 seconds.
+79s
+Elapsed time is 3.135305 seconds.
+79.5s
+Elapsed time is 3.063720 seconds.
+80s
+Elapsed time is 2.971712 seconds.
+80.5s
+Elapsed time is 3.352221 seconds.
+81s
+Elapsed time is 3.217183 seconds.
+81.5s
+Elapsed time is 3.361334 seconds.
+82s
+Elapsed time is 2.999118 seconds.
+82.5s
+Elapsed time is 3.158778 seconds.
+83s
+Elapsed time is 3.147563 seconds.
+83.5s
+Elapsed time is 3.089636 seconds.
+84s
+Elapsed time is 3.196611 seconds.
+84.5s
+Elapsed time is 3.058133 seconds.
+85s
+Elapsed time is 2.983716 seconds.
+85.5s
+Elapsed time is 2.939922 seconds.
+86s
+Elapsed time is 2.931340 seconds.
+86.5s
+Elapsed time is 2.932188 seconds.
+87s
+Elapsed time is 2.995654 seconds.
+87.5s
+Elapsed time is 3.088471 seconds.
+88s
+Elapsed time is 2.737876 seconds.
+88.5s
+Elapsed time is 2.985099 seconds.
+89s
+Elapsed time is 3.158513 seconds.
+89.5s
+Elapsed time is 3.115071 seconds.
+90s
+Elapsed time is 2.994553 seconds.
+90.5s
+Elapsed time is 2.856979 seconds.
+91s
+Elapsed time is 2.830283 seconds.
+91.5s
+Elapsed time is 3.128537 seconds.
+92s
+Elapsed time is 3.067457 seconds.
+92.5s
+Elapsed time is 2.904502 seconds.
+93s
+Elapsed time is 2.899767 seconds.
+93.5s
+Elapsed time is 2.882188 seconds.
+94s
+Elapsed time is 2.776964 seconds.
+94.5s
+Elapsed time is 3.072100 seconds.
+95s
+Elapsed time is 2.829347 seconds.
+95.5s
+Elapsed time is 3.040320 seconds.
+96s
+Elapsed time is 2.844600 seconds.
+96.5s
+Elapsed time is 3.354745 seconds.
+97s
+Elapsed time is 2.965298 seconds.
+97.5s
+Elapsed time is 3.001318 seconds.
+98s
+Elapsed time is 3.147489 seconds.
+98.5s
+Elapsed time is 3.023010 seconds.
+99s
+Elapsed time is 3.020278 seconds.
+99.5s
+Elapsed time is 2.800297 seconds.
+100s
+Elapsed time is 3.004645 seconds.
+# pernode data TXs: 9.723200e+02
+Queue empty prob.: 0.00200418
+Average queue size.: 94.3056
+average throughput: 0.116678 Mbps
+total throughput: 2.916960 Mbps
+---- Running time=603.729 s ----
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 25
+mu: < 50.000000
+0.5s
+Elapsed time is 3.322019 seconds.
+1s
+Elapsed time is 3.254913 seconds.
+1.5s
+Elapsed time is 2.889676 seconds.
+2s
+Elapsed time is 2.996810 seconds.
+2.5s
+Elapsed time is 2.995899 seconds.
+3s
+Elapsed time is 2.779235 seconds.
+3.5s
+Elapsed time is 3.099897 seconds.
+4s
+Elapsed time is 2.893050 seconds.
+4.5s
+Elapsed time is 2.857177 seconds.
+5s
+Elapsed time is 3.100758 seconds.
+5.5s
+Elapsed time is 2.820481 seconds.
+6s
+Elapsed time is 3.017757 seconds.
+6.5s
+Elapsed time is 2.990175 seconds.
+7s
+Elapsed time is 2.936899 seconds.
+7.5s
+Elapsed time is 2.982360 seconds.
+8s
+Elapsed time is 2.814110 seconds.
+8.5s
+Elapsed time is 2.978259 seconds.
+9s
+Elapsed time is 2.799317 seconds.
+9.5s
+Elapsed time is 3.080692 seconds.
+10s
+Elapsed time is 3.179212 seconds.
+10.5s
+Elapsed time is 2.954510 seconds.
+11s
+Elapsed time is 3.057976 seconds.
+11.5s
+Elapsed time is 2.917390 seconds.
+12s
+Elapsed time is 3.147389 seconds.
+12.5s
+Elapsed time is 3.014607 seconds.
+13s
+Elapsed time is 2.984212 seconds.
+13.5s
+Elapsed time is 2.909576 seconds.
+14s
+Elapsed time is 2.851752 seconds.
+14.5s
+Elapsed time is 3.210337 seconds.
+15s
+Elapsed time is 3.084182 seconds.
+15.5s
+Elapsed time is 3.240069 seconds.
+16s
+Elapsed time is 2.771264 seconds.
+16.5s
+Elapsed time is 2.998949 seconds.
+17s
+Elapsed time is 3.070375 seconds.
+17.5s
+Elapsed time is 3.216112 seconds.
+18s
+Elapsed time is 3.048743 seconds.
+18.5s
+Elapsed time is 2.816101 seconds.
+19s
+Elapsed time is 3.243175 seconds.
+19.5s
+Elapsed time is 2.952935 seconds.
+20s
+Elapsed time is 3.105884 seconds.
+20.5s
+Elapsed time is 2.785108 seconds.
+21s
+Elapsed time is 3.326041 seconds.
+21.5s
+Elapsed time is 3.387726 seconds.
+22s
+Elapsed time is 2.878503 seconds.
+22.5s
+Elapsed time is 2.971872 seconds.
+23s
+Elapsed time is 2.998187 seconds.
+23.5s
+Elapsed time is 3.419952 seconds.
+24s
+Elapsed time is 3.132299 seconds.
+24.5s
+Elapsed time is 3.250585 seconds.
+25s
+Elapsed time is 3.501779 seconds.
+25.5s
+Elapsed time is 2.986454 seconds.
+26s
+Elapsed time is 2.933917 seconds.
+26.5s
+Elapsed time is 3.020180 seconds.
+27s
+Elapsed time is 2.951854 seconds.
+27.5s
+Elapsed time is 3.145676 seconds.
+28s
+Elapsed time is 3.227725 seconds.
+28.5s
+Elapsed time is 2.906855 seconds.
+29s
+Elapsed time is 3.155052 seconds.
+29.5s
+Elapsed time is 3.112301 seconds.
+30s
+Elapsed time is 3.322788 seconds.
+30.5s
+Elapsed time is 2.874752 seconds.
+31s
+Elapsed time is 2.988617 seconds.
+31.5s
+Elapsed time is 3.077118 seconds.
+32s
+Elapsed time is 2.957300 seconds.
+32.5s
+Elapsed time is 3.196502 seconds.
+33s
+Elapsed time is 2.965348 seconds.
+33.5s
+Elapsed time is 2.793377 seconds.
+34s
+Elapsed time is 2.924196 seconds.
+34.5s
+Elapsed time is 3.081605 seconds.
+35s
+Elapsed time is 2.866665 seconds.
+35.5s
+Elapsed time is 3.098353 seconds.
+36s
+Elapsed time is 3.119633 seconds.
+36.5s
+Elapsed time is 3.055394 seconds.
+37s
+Elapsed time is 2.800437 seconds.
+37.5s
+Elapsed time is 2.780657 seconds.
+38s
+Elapsed time is 3.150593 seconds.
+38.5s
+Elapsed time is 2.875568 seconds.
+39s
+Elapsed time is 2.846312 seconds.
+39.5s
+Elapsed time is 2.750429 seconds.
+40s
+Elapsed time is 2.977217 seconds.
+40.5s
+Elapsed time is 2.948286 seconds.
+41s
+Elapsed time is 3.116953 seconds.
+41.5s
+Elapsed time is 3.258383 seconds.
+42s
+Elapsed time is 3.162523 seconds.
+42.5s
+Elapsed time is 3.000114 seconds.
+43s
+Elapsed time is 2.947705 seconds.
+43.5s
+Elapsed time is 3.076584 seconds.
+44s
+Elapsed time is 2.963257 seconds.
+44.5s
+Elapsed time is 3.142073 seconds.
+45s
+Elapsed time is 2.940451 seconds.
+45.5s
+Elapsed time is 2.911258 seconds.
+46s
+Elapsed time is 3.111018 seconds.
+46.5s
+Elapsed time is 3.135616 seconds.
+47s
+Elapsed time is 3.622206 seconds.
+47.5s
+Elapsed time is 3.107760 seconds.
+48s
+Elapsed time is 3.128254 seconds.
+48.5s
+Elapsed time is 2.989951 seconds.
+49s
+Elapsed time is 2.927775 seconds.
+49.5s
+Elapsed time is 2.984845 seconds.
+50s
+Elapsed time is 3.207493 seconds.
+50.5s
+Elapsed time is 3.405947 seconds.
+51s
+Elapsed time is 2.782183 seconds.
+51.5s
+Elapsed time is 2.753311 seconds.
+52s
+Elapsed time is 2.826743 seconds.
+52.5s
+Elapsed time is 2.601911 seconds.
+53s
+Elapsed time is 2.596961 seconds.
+53.5s
+Elapsed time is 2.723179 seconds.
+54s
+Elapsed time is 2.673722 seconds.
+54.5s
+Elapsed time is 2.682648 seconds.
+55s
+Elapsed time is 2.608060 seconds.
+55.5s
+Elapsed time is 2.568476 seconds.
+56s
+Elapsed time is 2.650154 seconds.
+56.5s
+Elapsed time is 2.778704 seconds.
+57s
+Elapsed time is 2.639512 seconds.
+57.5s
+Elapsed time is 2.674790 seconds.
+58s
+Elapsed time is 2.676910 seconds.
+58.5s
+Elapsed time is 2.523017 seconds.
+59s
+Elapsed time is 2.675057 seconds.
+59.5s
+Elapsed time is 2.681262 seconds.
+60s
+Elapsed time is 2.932242 seconds.
+60.5s
+Elapsed time is 2.579253 seconds.
+61s
+Elapsed time is 2.633370 seconds.
+61.5s
+Elapsed time is 2.636141 seconds.
+62s
+Elapsed time is 2.665934 seconds.
+62.5s
+Elapsed time is 2.667585 seconds.
+63s
+Elapsed time is 2.621815 seconds.
+63.5s
+Elapsed time is 2.736665 seconds.
+64s
+Elapsed time is 2.820607 seconds.
+64.5s
+Elapsed time is 2.727486 seconds.
+65s
+Elapsed time is 2.873352 seconds.
+65.5s
+Elapsed time is 2.765823 seconds.
+66s
+Elapsed time is 2.725139 seconds.
+66.5s
+Elapsed time is 2.717531 seconds.
+67s
+Elapsed time is 2.780238 seconds.
+67.5s
+Elapsed time is 2.743144 seconds.
+68s
+Elapsed time is 2.872337 seconds.
+68.5s
+Elapsed time is 2.859567 seconds.
+69s
+Elapsed time is 2.710875 seconds.
+69.5s
+Elapsed time is 2.747646 seconds.
+70s
+Elapsed time is 2.754070 seconds.
+70.5s
+Elapsed time is 2.642146 seconds.
+71s
+Elapsed time is 2.750841 seconds.
+71.5s
+Elapsed time is 3.017204 seconds.
+72s
+Elapsed time is 2.756666 seconds.
+72.5s
+Elapsed time is 2.773698 seconds.
+73s
+Elapsed time is 2.722627 seconds.
+73.5s
+Elapsed time is 2.855302 seconds.
+74s
+Elapsed time is 2.773074 seconds.
+74.5s
+Elapsed time is 2.780651 seconds.
+75s
+Elapsed time is 2.777825 seconds.
+75.5s
+Elapsed time is 2.808791 seconds.
+76s
+Elapsed time is 2.683332 seconds.
+76.5s
+Elapsed time is 2.822499 seconds.
+77s
+Elapsed time is 2.756089 seconds.
+77.5s
+Elapsed time is 2.745057 seconds.
+78s
+Elapsed time is 2.705212 seconds.
+78.5s
+Elapsed time is 2.741582 seconds.
+79s
+Elapsed time is 2.727663 seconds.
+79.5s
+Elapsed time is 2.994999 seconds.
+80s
+Elapsed time is 2.639954 seconds.
+80.5s
+Elapsed time is 2.835791 seconds.
+81s
+Elapsed time is 2.705025 seconds.
+81.5s
+Elapsed time is 2.595178 seconds.
+82s
+Elapsed time is 2.634817 seconds.
+82.5s
+Elapsed time is 2.709460 seconds.
+83s
+Elapsed time is 2.789119 seconds.
+83.5s
+Elapsed time is 2.594331 seconds.
+84s
+Elapsed time is 2.696753 seconds.
+84.5s
+Elapsed time is 2.824674 seconds.
+85s
+Elapsed time is 2.619942 seconds.
+85.5s
+Elapsed time is 2.789914 seconds.
+86s
+Elapsed time is 2.866492 seconds.
+86.5s
+Elapsed time is 2.776397 seconds.
+87s
+Elapsed time is 2.864481 seconds.
+87.5s
+Elapsed time is 2.693514 seconds.
+88s
+Elapsed time is 2.604998 seconds.
+88.5s
+Elapsed time is 2.749198 seconds.
+89s
+Elapsed time is 2.946196 seconds.
+89.5s
+Elapsed time is 2.894549 seconds.
+90s
+Elapsed time is 2.808411 seconds.
+90.5s
+Elapsed time is 2.759124 seconds.
+91s
+Elapsed time is 2.894432 seconds.
+91.5s
+Elapsed time is 2.703881 seconds.
+92s
+Elapsed time is 2.590795 seconds.
+92.5s
+Elapsed time is 2.828882 seconds.
+93s
+Elapsed time is 2.725220 seconds.
+93.5s
+Elapsed time is 2.659606 seconds.
+94s
+Elapsed time is 2.757185 seconds.
+94.5s
+Elapsed time is 2.766443 seconds.
+95s
+Elapsed time is 2.791384 seconds.
+95.5s
+Elapsed time is 2.665881 seconds.
+96s
+Elapsed time is 2.754754 seconds.
+96.5s
+Elapsed time is 2.763416 seconds.
+97s
+Elapsed time is 2.752463 seconds.
+97.5s
+Elapsed time is 2.637606 seconds.
+98s
+Elapsed time is 2.784985 seconds.
+98.5s
+Elapsed time is 2.854767 seconds.
+99s
+Elapsed time is 2.839886 seconds.
+99.5s
+Elapsed time is 2.799189 seconds.
+100s
+Elapsed time is 2.884802 seconds.
+# pernode data TXs: 9.678400e+02
+Queue empty prob.: 0.00104285
+Average queue size.: 96.0053
+average throughput: 0.116141 Mbps
+total throughput: 2.903520 Mbps
+---- Running time=578.496 s ----
+
+
+# Nodes: 25
+Simulation time: 100s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 30
+mu: < 50.000000
+0.5s
+Elapsed time is 2.980432 seconds.
+1s
+Elapsed time is 2.747635 seconds.
+1.5s
+Elapsed time is 2.870585 seconds.
+2s
+Elapsed time is 2.817611 seconds.
+2.5s
+Elapsed time is 2.799936 seconds.
+3s
+Elapsed time is 2.659043 seconds.
+3.5s
+Elapsed time is 2.791407 seconds.
+4s
+Elapsed time is 2.913077 seconds.
+4.5s
+Elapsed time is 2.726897 seconds.
+5s
+Elapsed time is 2.758344 seconds.
+5.5s
+Elapsed time is 2.795523 seconds.
+6s
+Elapsed time is 2.779569 seconds.
+6.5s
+Elapsed time is 2.640530 seconds.
+7s
+Elapsed time is 2.797694 seconds.
+7.5s
+Elapsed time is 2.637451 seconds.
+8s
+Elapsed time is 2.636921 seconds.
+8.5s
+Elapsed time is 2.618970 seconds.
+9s
+Elapsed time is 2.763716 seconds.
+9.5s
+Elapsed time is 2.630094 seconds.
+10s
+Elapsed time is 2.663443 seconds.
+10.5s
+Elapsed time is 2.628697 seconds.
+11s
+Elapsed time is 2.867064 seconds.
+11.5s
+Elapsed time is 2.664522 seconds.
+12s
+Elapsed time is 2.738855 seconds.
+12.5s
+Elapsed time is 2.914299 seconds.
+13s
+Elapsed time is 2.776934 seconds.
+13.5s
+Elapsed time is 2.808619 seconds.
+14s
+Elapsed time is 2.787810 seconds.
+14.5s
+Elapsed time is 2.786136 seconds.
+15s
+Elapsed time is 2.672708 seconds.
+15.5s
+Elapsed time is 2.685562 seconds.
+16s
+Elapsed time is 2.743113 seconds.
+16.5s
+Elapsed time is 2.749125 seconds.
+17s
+Elapsed time is 2.759599 seconds.
+17.5s
+Elapsed time is 2.785087 seconds.
+18s
+Elapsed time is 2.668085 seconds.
+18.5s
+Elapsed time is 2.756384 seconds.
+19s
+Elapsed time is 2.671650 seconds.
+19.5s
+Elapsed time is 2.860161 seconds.
+20s
+Elapsed time is 2.720678 seconds.
+20.5s
+Elapsed time is 2.873251 seconds.
+21s
+Elapsed time is 2.691252 seconds.
+21.5s
+Elapsed time is 2.677313 seconds.
+22s
+Elapsed time is 2.702894 seconds.
+22.5s
+Elapsed time is 2.692648 seconds.
+23s
+Elapsed time is 2.682350 seconds.
+23.5s
+Elapsed time is 2.656682 seconds.
+24s
+Elapsed time is 2.756524 seconds.
+24.5s
+Elapsed time is 2.739522 seconds.
+25s
+Elapsed time is 2.929891 seconds.
+25.5s
+Elapsed time is 2.866830 seconds.
+26s
+Elapsed time is 2.845317 seconds.
+26.5s
+Elapsed time is 2.945575 seconds.
+27s
+Elapsed time is 2.686365 seconds.
+27.5s
+Elapsed time is 2.728738 seconds.
+28s
+Elapsed time is 2.817089 seconds.
+28.5s
+Elapsed time is 2.778902 seconds.
+29s
+Elapsed time is 2.750423 seconds.
+29.5s
+Elapsed time is 2.826133 seconds.
+30s
+Elapsed time is 2.638806 seconds.
+30.5s
+Elapsed time is 2.690614 seconds.
+31s
+Elapsed time is 2.711045 seconds.
+31.5s
+Elapsed time is 2.759083 seconds.
+32s
+Elapsed time is 2.700853 seconds.
+32.5s
+Elapsed time is 2.731393 seconds.
+33s
+Elapsed time is 2.681134 seconds.
+33.5s
+Elapsed time is 2.782404 seconds.
+34s
+Elapsed time is 2.839457 seconds.
+34.5s
+Elapsed time is 2.803686 seconds.
+35s
+Elapsed time is 2.610718 seconds.
+35.5s
+Elapsed time is 2.800419 seconds.
+36s
+Elapsed time is 2.689802 seconds.
+36.5s
+Elapsed time is 2.853438 seconds.
+37s
+Elapsed time is 2.687550 seconds.
+37.5s
+Elapsed time is 2.688134 seconds.
+38s
+Elapsed time is 2.734074 seconds.
+38.5s
+Elapsed time is 2.616558 seconds.
+39s
+Elapsed time is 2.690251 seconds.
+39.5s
+Elapsed time is 2.937646 seconds.
+40s
+Elapsed time is 2.808823 seconds.
+40.5s
+Elapsed time is 2.672353 seconds.
+41s
+Elapsed time is 2.750920 seconds.
+41.5s
+Elapsed time is 2.751299 seconds.
+42s
+Elapsed time is 2.820287 seconds.
+42.5s
+Elapsed time is 2.791587 seconds.
+43s
+Elapsed time is 2.715149 seconds.
+43.5s
+Elapsed time is 2.782370 seconds.
+44s
+Elapsed time is 2.678399 seconds.
+44.5s
+Elapsed time is 2.733822 seconds.
+45s
+Elapsed time is 2.725411 seconds.
+45.5s
+Elapsed time is 2.717856 seconds.
+46s
+Elapsed time is 2.726815 seconds.
+46.5s
+Elapsed time is 2.632101 seconds.
+47s
+Elapsed time is 2.658210 seconds.
+47.5s
+Elapsed time is 2.760029 seconds.
+48s
+Elapsed time is 2.689045 seconds.
+48.5s
+Elapsed time is 2.733191 seconds.
+49s
+Elapsed time is 2.750096 seconds.
+49.5s
+Elapsed time is 2.809441 seconds.
+50s
+Elapsed time is 2.795372 seconds.
+50.5s
+Elapsed time is 2.690140 seconds.
+51s
+Elapsed time is 2.752166 seconds.
+51.5s
+Elapsed time is 2.706862 seconds.
+52s
+Elapsed time is 2.671860 seconds.
+52.5s
+Elapsed time is 2.676870 seconds.
+53s
+Elapsed time is 2.742586 seconds.
+53.5s
+Elapsed time is 2.816997 seconds.
+54s
+Elapsed time is 2.660234 seconds.
+54.5s
+Elapsed time is 2.757488 seconds.
+55s
+Elapsed time is 2.699249 seconds.
+55.5s
+Elapsed time is 2.670919 seconds.
+56s
+Elapsed time is 2.867386 seconds.
+56.5s
+Elapsed time is 2.878643 seconds.
+57s
+Elapsed time is 2.699943 seconds.
+57.5s
+Elapsed time is 2.873378 seconds.
+58s
+Elapsed time is 2.569211 seconds.
+58.5s
+Elapsed time is 2.659477 seconds.
+59s
+Elapsed time is 2.837854 seconds.
+59.5s
+Elapsed time is 2.635202 seconds.
+60s
+Elapsed time is 2.606820 seconds.
+60.5s
+Elapsed time is 2.759163 seconds.
+61s
+Elapsed time is 2.716235 seconds.
+61.5s
+Elapsed time is 2.728985 seconds.
+62s
+Elapsed time is 2.850293 seconds.
+62.5s
+Elapsed time is 2.768877 seconds.
+63s
+Elapsed time is 2.660218 seconds.
+63.5s
+Elapsed time is 2.589151 seconds.
+64s
+Elapsed time is 2.860489 seconds.
+64.5s
+Elapsed time is 2.745142 seconds.
+65s
+Elapsed time is 2.776343 seconds.
+65.5s
+Elapsed time is 2.753448 seconds.
+66s
+Elapsed time is 2.848040 seconds.
+66.5s
+Elapsed time is 2.789370 seconds.
+67s
+Elapsed time is 2.739701 seconds.
+67.5s
+Elapsed time is 2.738294 seconds.
+68s
+Elapsed time is 2.681781 seconds.
+68.5s
+Elapsed time is 2.705727 seconds.
+69s
+Elapsed time is 2.662993 seconds.
+69.5s
+Elapsed time is 2.971034 seconds.
+70s
+Elapsed time is 2.833850 seconds.
+70.5s
+Elapsed time is 2.761527 seconds.
+71s
+Elapsed time is 2.830644 seconds.
+71.5s
+Elapsed time is 2.711575 seconds.
+72s
+Elapsed time is 2.702429 seconds.
+72.5s
+Elapsed time is 2.849352 seconds.
+73s
+Elapsed time is 2.856907 seconds.
+73.5s
+Elapsed time is 2.750747 seconds.
+74s
+Elapsed time is 2.656040 seconds.
+74.5s
+Elapsed time is 2.707071 seconds.
+75s
+Elapsed time is 2.681856 seconds.
+75.5s
+Elapsed time is 2.729219 seconds.
+76s
+Elapsed time is 2.757810 seconds.
+76.5s
+Elapsed time is 2.821713 seconds.
+77s
+Elapsed time is 2.726954 seconds.
+77.5s
+Elapsed time is 2.912671 seconds.
+78s
+Elapsed time is 2.834439 seconds.
+78.5s
+Elapsed time is 2.777937 seconds.
+79s
+Elapsed time is 2.932796 seconds.
+79.5s
+Elapsed time is 2.794691 seconds.
+80s
+Elapsed time is 2.825138 seconds.
+80.5s
+Elapsed time is 2.711794 seconds.
+81s
+Elapsed time is 2.688783 seconds.
+81.5s
+Elapsed time is 2.797062 seconds.
+82s
+Elapsed time is 2.659133 seconds.
+82.5s
+Elapsed time is 2.687614 seconds.
+83s
+Elapsed time is 2.708198 seconds.
+83.5s
+Elapsed time is 2.764410 seconds.
+84s
+Elapsed time is 2.760725 seconds.
+84.5s
+Elapsed time is 2.656879 seconds.
+85s
+Elapsed time is 2.588403 seconds.
+85.5s
+Elapsed time is 2.670637 seconds.
+86s
+Elapsed time is 2.674454 seconds.
+86.5s
+Elapsed time is 2.700233 seconds.
+87s
+Elapsed time is 2.579725 seconds.
+87.5s
+Elapsed time is 2.674979 seconds.
+88s
+Elapsed time is 2.782118 seconds.
+88.5s
+Elapsed time is 2.614856 seconds.
+89s
+Elapsed time is 2.622123 seconds.
+89.5s
+Elapsed time is 2.683696 seconds.
+90s
+Elapsed time is 2.598913 seconds.
+90.5s
+Elapsed time is 2.599571 seconds.
+91s
+Elapsed time is 2.673298 seconds.
+91.5s
+Elapsed time is 2.594383 seconds.
+92s
+Elapsed time is 2.510878 seconds.
+92.5s
+Elapsed time is 2.594804 seconds.
+93s
+Elapsed time is 2.849638 seconds.
+93.5s
+Elapsed time is 2.831106 seconds.
+94s
+Elapsed time is 2.646804 seconds.
+94.5s
+Elapsed time is 2.628796 seconds.
+95s
+Elapsed time is 2.598063 seconds.
+95.5s
+Elapsed time is 2.613551 seconds.
+96s
+Elapsed time is 2.954530 seconds.
+96.5s
+Elapsed time is 2.701790 seconds.
+97s
+Elapsed time is 2.597513 seconds.
+97.5s
+Elapsed time is 2.730127 seconds.
+98s
+Elapsed time is 2.645655 seconds.
+98.5s
+Elapsed time is 2.701254 seconds.
+99s
+Elapsed time is 2.641414 seconds.
+99.5s
+Elapsed time is 2.671844 seconds.
+100s
+Elapsed time is 2.681880 seconds.
+# pernode data TXs: 9.714000e+02
+Queue empty prob.: 0.00088146
+Average queue size.: 96.9482
+average throughput: 0.116568 Mbps
+total throughput: 2.914200 Mbps
+---- Running time=547.295 s ----
+
+

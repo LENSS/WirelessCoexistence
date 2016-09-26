@@ -1,0 +1,310 @@
+P: 0.900000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-04 *
+
+   0.000444664071152
+   0.000449898317062
+   0.000526405816933
+   0.001600087744483
+   0.010814613736394
+   0.056777237933024
+   0.171812121178023
+   0.230292429573558
+   0.022985899920107
+   0.003797150061710
+
+pernode awake time: 0.468896 ms
+actual system throughput: 0.620380 Mbps
+lambda: 5.000000, mu: 49.999999, service time: 20.000000
+delta_s: 0.000000
+q_len by mg1: 0.105556
+total delay: 0.021111
+Elapsed time is 0.310360 seconds.
+
+
+P: 0.800000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-04 *
+
+   0.000950394333839
+   0.001260662392905
+   0.004795246212394
+   0.026797082890224
+   0.105415473175731
+   0.256010268167094
+   0.352916823265948
+   0.223337565069338
+   0.024017447932454
+   0.003500071236932
+
+pernode awake time: 0.961478 ms
+actual system throughput: 1.240759 Mbps
+lambda: 10.000000, mu: 49.999998, service time: 20.000001
+delta_s: 0.000000
+q_len by mg1: 0.225000
+total delay: 0.022500
+Elapsed time is 0.310258 seconds.
+
+
+P: 0.700000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-04 *
+
+   0.001719347517112
+   0.006210817049248
+   0.035183369982218
+   0.134289272948074
+   0.317138007557032
+   0.457049227416425
+   0.377726240242005
+   0.150005415641719
+   0.016405660929392
+   0.002774235857988
+
+pernode awake time: 1.47956 ms
+actual system throughput: 1.861139 Mbps
+lambda: 14.999999, mu: 49.999995, service time: 20.000002
+delta_s: 0.000000
+q_len by mg1: 0.364286
+total delay: 0.024286
+Elapsed time is 0.320466 seconds.
+
+
+P: 0.600000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-04 *
+
+   0.004828985890411
+   0.032818691958796
+   0.142833956994396
+   0.360810241960159
+   0.555398723370510
+   0.523365558379259
+   0.286863967065512
+   0.079546078156791
+   0.008960112098501
+   0.002575892279042
+
+pernode awake time: 2.02504 ms
+actual system throughput: 2.481518 Mbps
+lambda: 19.999996, mu: 49.999991, service time: 20.000004
+delta_s: 0.000000
+q_len by mg1: 0.533333
+total delay: 0.026667
+Elapsed time is 0.313356 seconds.
+
+
+P: 0.500000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-04 *
+
+   0.017710580174747
+   0.125681559491904
+   0.384007436760443
+   0.656513872593112
+   0.681759905725695
+   0.434990940083714
+   0.162975926255733
+   0.031480375183186
+   0.002297341870732
+   0.000084947644786
+
+pernode awake time: 2.60059 ms
+actual system throughput: 3.101898 Mbps
+lambda: 24.999992, mu: 49.999984, service time: 20.000006
+delta_s: 0.000000
+q_len by mg1: 0.750000
+total delay: 0.030000
+Elapsed time is 0.465911 seconds.
+
+
+P: 0.400000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-04 *
+
+   0.077209043542916
+   0.366774027433110
+   0.751027359298031
+   0.862097906536347
+   0.602928193369098
+   0.260503628640576
+   0.066839173423637
+   0.009094134988782
+   0.000513978845047
+   0.000016189075521
+
+pernode awake time: 3.20748 ms
+actual system throughput: 3.722277 Mbps
+lambda: 29.999984, mu: 49.999973, service time: 20.000011
+delta_s: 0.000000
+q_len by mg1: 1.050000
+total delay: 0.035000
+Elapsed time is 0.464212 seconds.
+
+
+P: 0.300000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-03 *
+
+   0.026968482364269
+   0.082692376594057
+   0.109422296843683
+   0.081312894410468
+   0.036919346742319
+   0.010407182371459
+   0.001759105336323
+   0.000161402983546
+   0.000006823569126
+   0.000000529962808
+
+pernode awake time: 3.8475 ms
+actual system throughput: 4.342655 Mbps
+lambda: 34.999970, mu: 49.999957, service time: 20.000017
+delta_s: 0.000000
+q_len by mg1: 1.516667
+total delay: 0.043333
+Elapsed time is 0.470359 seconds.
+
+
+P: 0.200000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-03 *
+
+   0.080084743704691
+   0.143817133582063
+   0.111580042544441
+   0.048696198074175
+   0.013018933984667
+   0.002170611086425
+   0.000219056687007
+   0.000012546550253
+   0.000000743611078
+   0.000000500266816
+
+pernode awake time: 4.52236 ms
+actual system throughput: 4.963032 Mbps
+lambda: 39.999945, mu: 49.999931, service time: 20.000027
+delta_s: 0.000000
+q_len by mg1: 2.400001
+total delay: 0.060000
+Elapsed time is 0.470470 seconds.
+
+
+P: 0.100000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-03 *
+
+   0.210054442995545
+   0.168309015161276
+   0.058325035918615
+   0.011387009443577
+   0.001365376179420
+   0.000102841861137
+   0.000005112446646
+   0.000000581217164
+   0.000000520403671
+   0.000000610175093
+
+pernode awake time: 5.23374 ms
+actual system throughput: 5.583406 Mbps
+lambda: 44.999905, mu: 49.999895, service time: 20.000042
+delta_s: 0.000000
+q_len by mg1: 4.950004
+total delay: 0.110000
+Elapsed time is 0.468411 seconds.
+
+
+P: 0.000000
+# nodes: 10
+CW: 16, max: 512, limit: 0
+====ATIM window related:====
+packet size: 5, window size: 400
+====DATA window related:====
+packet size: 28, window size: 1600
+lambda: 5
+mu: < 50.000000
+   1.0e-03 *
+
+   0.499500502345996
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+   0.000000000049401
+
+pernode awake time: 5.98333 ms
+actual system throughput: 6.203777 Mbps
+lambda: 49.999843, mu: 49.999843, service time: 20.000063
+delta_s: 0.000000
+q_len by mg1: Inf
+total delay: Inf
+Elapsed time is 0.604588 seconds.
+
+

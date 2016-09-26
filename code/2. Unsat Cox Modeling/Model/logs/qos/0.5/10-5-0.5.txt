@@ -1,0 +1,992 @@
+**************************Markov Chain Model***************************
+******************************start************************************
+  Phi = 0.5
+  Wi = 310
+  BMAC packet size = 68
+  BMAC raw packet timeslots = 74
+  BMAC arrival rate = 1
+  WiFi packet size = 1540
+  WiFi raw packet timeslots = 30
+  WiFi arrival rate = 10
+======================================================================
+  N_w = 5
+  N_b = 10
+  Total Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Total Arr_b = 10 packets/s, or 5.44 Kbits/s
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=50
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_search_direction','CSHelpWindow');">size of the current search direction</a> is less than
+twice the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and constraints are 
+satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',4.000000e+00,true,true,'fmincon',6.077365e-07,'default',1.000000e-06,4.050385e-11,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.96705
+  Pc = 0.16676
+  Pf = 0.96976
+  Wc = 153.0796
+  W0 = 187.3161
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 46562.7296 us
+  mean_b = 139214.1412 us
+  capacity_w = 1.3229 Mbits/s
+  capacity_b = 39.0765 Kbits/s
+  Srv_w = 0.00021476
+  Srv_b = 7.1832e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.53437
+  Pb = 0.86079
+  b001 = 0.00021099
+  tau_w = 0.0075963
+  b000 = 6.7919e-05
+  tau_b = 0.015078
+  StdVar_w = 7452.5511
+  theta_w = -0.00011476
+  delta_w = 0.016005
+  Q_w = 1.1161
+  delay_w = 111608.4887 us
+  StdVar_b = 18828.1415
+  theta_b = -6.1832e-05
+  delta_b = 0.0042769
+  Q_b = 0.14791
+  delay_b = 147913.0301 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.3619 Kbps
+  Throughput_all = 0.61895
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=70
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',3.642372e-08,'default',1.000000e-06,6.465616e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.96656
+  Pc = 0.16429
+  Pf = 0.96931
+  Wc = 158.3103
+  W0 = 194.1353
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 47210.9184 us
+  mean_b = 141645.9221 us
+  capacity_w = 1.3048 Mbits/s
+  capacity_b = 38.4056 Kbits/s
+  Srv_w = 0.00021182
+  Srv_b = 7.0599e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.52789
+  Pb = 0.85835
+  b001 = 0.00020818
+  tau_w = 0.0074731
+  b000 = 6.6825e-05
+  tau_b = 0.014835
+  StdVar_w = 7456.7662
+  theta_w = -0.00011182
+  delta_w = 0.015795
+  Q_w = 1.1155
+  delay_w = 111553.8336 us
+  StdVar_b = 19175.6956
+  theta_b = -6.0599e-05
+  delta_b = 0.004281
+  Q_b = 0.15122
+  delay_b = 151217.3801 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.3643 Kbps
+  Throughput_all = 0.61973
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=90
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',2.234279e-08,'default',1.000000e-06,4.260693e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.96633
+  Pc = 0.16315
+  Pf = 0.9691
+  Wc = 160.7945
+  W0 = 197.3743
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 47515.1102 us
+  mean_b = 142786.5554 us
+  capacity_w = 1.2964 Mbits/s
+  capacity_b = 38.0988 Kbits/s
+  Srv_w = 0.00021046
+  Srv_b = 7.0035e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.52485
+  Pb = 0.85721
+  b001 = 0.00020689
+  tau_w = 0.0074166
+  b000 = 6.6324e-05
+  tau_b = 0.014724
+  StdVar_w = 7458.8295
+  theta_w = -0.00011046
+  delta_w = 0.015698
+  Q_w = 1.1154
+  delay_w = 111543.7725 us
+  StdVar_b = 19338.7389
+  theta_b = -6.0035e-05
+  delta_b = 0.0042829
+  Q_b = 0.15277
+  delay_b = 152774.1977 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.3653 Kbps
+  Throughput_all = 0.62008
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=110
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',6.105743e-08,'default',1.000000e-06,3.163840e-07,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.9668
+  Pc = 0.16546
+  Pf = 0.96952
+  Wc = 155.8005
+  W0 = 190.8642
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 46901.406 us
+  mean_b = 140484.1945 us
+  capacity_w = 1.3134 Mbits/s
+  capacity_b = 38.7232 Kbits/s
+  Srv_w = 0.00021321
+  Srv_b = 7.1182e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.53099
+  Pb = 0.85952
+  b001 = 0.00020951
+  tau_w = 0.0075314
+  b000 = 6.7344e-05
+  tau_b = 0.01495
+  StdVar_w = 7454.7409
+  theta_w = -0.00011321
+  delta_w = 0.015894
+  Q_w = 1.1157
+  delay_w = 111574.8281 us
+  StdVar_b = 19009.6518
+  theta_b = -6.1182e-05
+  delta_b = 0.004279
+  Q_b = 0.14964
+  delay_b = 149636.311 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.3631 Kbps
+  Throughput_all = 0.61936
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=130
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',7.562708e-09,'default',1.000000e-06,2.367734e-07,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.96857
+  Pc = 0.17492
+  Pf = 0.97115
+  Wc = 137.4104
+  W0 = 166.8881
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 44551.4694 us
+  mean_b = 131664.9881 us
+  capacity_w = 1.3827 Mbits/s
+  capacity_b = 41.317 Kbits/s
+  Srv_w = 0.00022446
+  Srv_b = 7.595e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.55449
+  Pb = 0.86834
+  b001 = 0.00022019
+  tau_w = 0.008006
+  b000 = 7.1554e-05
+  tau_b = 0.015885
+  StdVar_w = 7440.2053
+  theta_w = -0.00012446
+  delta_w = 0.0167
+  Q_w = 1.1204
+  delay_w = 112043.7853 us
+  StdVar_b = 17749.6114
+  theta_b = -6.595e-05
+  delta_b = 0.004263
+  Q_b = 0.13778
+  delay_b = 137781.2392 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.3538 Kbps
+  Throughput_all = 0.6163
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=50
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',3.703393e-10,'default',1.000000e-06,3.493427e-09,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.95725
+  Pc = 0.1278
+  Pf = 0.96079
+  Wc = 276.1442
+  W0 = 347.4097
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 59692.7074 us
+  mean_b = 188339.9505 us
+  capacity_w = 1.032 Mbits/s
+  capacity_b = 28.8839 Kbits/s
+  Srv_w = 0.00016752
+  Srv_b = 5.3095e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.40307
+  Pb = 0.81166
+  b001 = 0.00016557
+  tau_w = 0.0056948
+  b000 = 5.1014e-05
+  tau_b = 0.011325
+  StdVar_w = 7607.0349
+  theta_w = -6.7525e-05
+  delta_w = 0.012744
+  Q_w = 1.2025
+  delay_w = 120252.9996 us
+  StdVar_b = 25861.655
+  theta_b = -4.3095e-05
+  delta_b = 0.0043422
+  Q_b = 0.21876
+  delay_b = 218759.0406 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.3948 Kbps
+  Throughput_all = 0.62965
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=70
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',5.746686e-08,'default',1.000000e-06,7.448982e-07,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.9607
+  Pc = 0.13934
+  Pf = 0.96395
+  Wc = 228.3841
+  W0 = 285.4009
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 55037.6939 us
+  mean_b = 170949.759 us
+  capacity_w = 1.1192 Mbits/s
+  capacity_b = 31.8222 Kbits/s
+  Srv_w = 0.00018169
+  Srv_b = 5.8497e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.44962
+  Pb = 0.82905
+  b001 = 0.00017928
+  tau_w = 0.0062492
+  b000 = 5.5949e-05
+  tau_b = 0.012421
+  StdVar_w = 7532.7577
+  theta_w = -8.1694e-05
+  delta_w = 0.013687
+  Q_w = 1.1465
+  delay_w = 114648.715 us
+  StdVar_b = 23368.8663
+  theta_b = -4.8497e-05
+  delta_b = 0.0043228
+  Q_b = 0.19266
+  delay_b = 192661.9486 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.386 Kbps
+  Throughput_all = 0.62688
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=90
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',3.328827e-10,'default',1.000000e-06,6.420833e-10,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.96349
+  Pc = 0.15021
+  Pf = 0.9665
+  Wc = 193.388
+  W0 = 239.8521
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 51307.1598 us
+  mean_b = 156994.4651 us
+  capacity_w = 1.2006 Mbits/s
+  capacity_b = 34.6509 Kbits/s
+  Srv_w = 0.0001949
+  Srv_b = 6.3697e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.48693
+  Pb = 0.84301
+  b001 = 0.000192
+  tau_w = 0.0067782
+  b000 = 6.0653e-05
+  tau_b = 0.013465
+  StdVar_w = 7489.7537
+  theta_w = -9.4905e-05
+  delta_w = 0.014598
+  Q_w = 1.1227
+  delay_w = 112269.5522 us
+  StdVar_b = 21370.8079
+  theta_b = -5.3697e-05
+  delta_b = 0.0043046
+  Q_b = 0.17254
+  delay_b = 172542.91 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.377 Kbps
+  Throughput_all = 0.62394
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=110
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',3.947016e-09,'default',1.000000e-06,1.036543e-07,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.94694
+  Pc = 0.10216
+  Pf = 0.95134
+  Wc = 448.8415
+  W0 = 569.8983
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 73807.7503 us
+  mean_b = 240939.6986 us
+  capacity_w = 0.8346 Mbits/s
+  capacity_b = 22.5783 Kbits/s
+  Srv_w = 0.00013549
+  Srv_b = 4.1504e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.26192
+  Pb = 0.75906
+  b001 = 0.00013433
+  tau_w = 0.0044885
+  b000 = 4.0256e-05
+  tau_b = 0.0089369
+  StdVar_w = 7966.8829
+  theta_w = -3.5487e-05
+  delta_w = 0.010794
+  Q_w = 1.6416
+  delay_w = 164161.7976 us
+  StdVar_b = 33421.4147
+  theta_b = -3.1504e-05
+  delta_b = 0.0043865
+  Q_b = 0.30538
+  delay_b = 305376.0835 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4114 Kbps
+  Throughput_all = 0.63395
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=130
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',4.803010e-09,'default',1.000000e-06,8.632113e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.94814
+  Pc = 0.10463
+  Pf = 0.95244
+  Wc = 426.3353
+  W0 = 541.0637
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 72146.9417 us
+  mean_b = 234758.5141 us
+  capacity_w = 0.85381 Mbits/s
+  capacity_b = 23.1727 Kbits/s
+  Srv_w = 0.00013861
+  Srv_b = 4.2597e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.27853
+  Pb = 0.76524
+  b001 = 0.00013738
+  tau_w = 0.0046032
+  b000 = 4.128e-05
+  tau_b = 0.0091642
+  StdVar_w = 7915.1611
+  theta_w = -3.8606e-05
+  delta_w = 0.010971
+  Q_w = 1.5588
+  delay_w = 155882.9824 us
+  StdVar_b = 32531.4884
+  theta_b = -3.2597e-05
+  delta_b = 0.0043821
+  Q_b = 0.29455
+  delay_b = 294549.3121 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.41 Kbps
+  Throughput_all = 0.63368
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=50
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',4.326349e-09,'default',1.000000e-06,4.800428e-09,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93017
+  Pc = 0.076469
+  Pf = 0.93592
+  Wc = 833.2681
+  W0 = 1055.3787
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 97459.9735 us
+  mean_b = 328830.2971 us
+  capacity_w = 0.63205 Mbits/s
+  capacity_b = 16.5435 Kbits/s
+  Srv_w = 0.00010261
+  Srv_b = 3.0411e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.0254
+  Pb = 0.67117
+  b001 = 0.00010201
+  tau_w = 0.0033137
+  b000 = 2.9754e-05
+  tau_b = 0.0066055
+  StdVar_w = 8892.4185
+  theta_w = -2.6062e-06
+  delta_w = 0.0091242
+  Q_w = 15.9707
+  delay_w = 1597069.6176 us
+  StdVar_b = 46120.3018
+  theta_b = -2.0411e-05
+  delta_b = 0.0044353
+  Q_b = 0.48189
+  delay_b = 481892.4442 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4241 Kbps
+  Throughput_all = 0.63387
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=70
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',7.017189e-11,'default',1.000000e-06,4.120439e-10,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93456
+  Pc = 0.081939
+  Pf = 0.93997
+  Wc = 719.4946
+  W0 = 913.0191
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 91179.8943 us
+  mean_b = 305513.7618 us
+  capacity_w = 0.67559 Mbits/s
+  capacity_b = 17.8061 Kbits/s
+  Srv_w = 0.00010967
+  Srv_b = 3.2732e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.088201
+  Pb = 0.69449
+  b001 = 0.00010898
+  tau_w = 0.0035611
+  b000 = 3.1968e-05
+  tau_b = 0.0070969
+  StdVar_w = 8618.7794
+  theta_w = -9.6733e-06
+  delta_w = 0.0094525
+  Q_w = 4.6184
+  delay_w = 461836.9382 us
+  StdVar_b = 42743.1927
+  theta_b = -2.2732e-05
+  delta_b = 0.0044242
+  Q_b = 0.43054
+  delay_b = 430536.0283 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4217 Kbps
+  Throughput_all = 0.63444
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=90
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',1.015490e-07,'default',1.000000e-06,6.866159e-07,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93603
+  Pc = 0.083937
+  Pf = 0.94132
+  Wc = 683.5086
+  W0 = 867.7765
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 89089.9548 us
+  mean_b = 297749.4824 us
+  capacity_w = 0.69144 Mbits/s
+  capacity_b = 18.2704 Kbits/s
+  Srv_w = 0.00011225
+  Srv_b = 3.3585e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.1091
+  Pb = 0.70225
+  b001 = 0.00011151
+  tau_w = 0.0036518
+  b000 = 3.278e-05
+  tau_b = 0.0072771
+  StdVar_w = 8531.4314
+  theta_w = -1.2246e-05
+  delta_w = 0.0095762
+  Q_w = 3.7442
+  delay_w = 374419.5568 us
+  StdVar_b = 41619.956
+  theta_b = -2.3585e-05
+  delta_b = 0.0044203
+  Q_b = 0.41422
+  delay_b = 414219.1322 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4208 Kbps
+  Throughput_all = 0.63456
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=110
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_search_direction','CSHelpWindow');">size of the current search direction</a> is less than
+twice the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and constraints are 
+satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',4.000000e+00,true,true,'fmincon',2.713137e-08,'default',1.000000e-06,4.292400e-12,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.94384
+  Pc = 0.096279
+  Pf = 0.9485
+  Wc = 509.8388
+  W0 = 647.806
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 78107.9717 us
+  mean_b = 256937.1737 us
+  capacity_w = 0.78865 Mbits/s
+  capacity_b = 21.1725 Kbits/s
+  Srv_w = 0.00012803
+  Srv_b = 3.892e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.21892
+  Pb = 0.74306
+  b001 = 0.00012702
+  tau_w = 0.0042166
+  b000 = 3.7828e-05
+  tau_b = 0.0083978
+  StdVar_w = 8110.595
+  theta_w = -2.8028e-05
+  delta_w = 0.010384
+  Q_w = 1.9235
+  delay_w = 192350.8331 us
+  StdVar_b = 35726.5498
+  theta_b = -2.892e-05
+  delta_b = 0.0043971
+  Q_b = 0.33427
+  delay_b = 334271.7556 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4146 Kbps
+  Throughput_all = 0.63444
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=130
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'solver_stopped_premature','CSHelpWindow');">Solver stopped prematurely</a>.
+
+fmincon stopped because it exceeded the function evaluation limit,
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'max_fun_evals','CSHelpWindow');">options.MaxFunEvals</a> = 500 (the default value).
+
+ exitflag = 0
+  *************Stopped prematurely.
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=50
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'solver_stopped_premature','CSHelpWindow');">Solver stopped prematurely</a>.
+
+fmincon stopped because it exceeded the function evaluation limit,
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'max_fun_evals','CSHelpWindow');">options.MaxFunEvals</a> = 500 (the default value).
+
+ exitflag = 0
+  *************Stopped prematurely.
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=70
+  *************fmincon error!!!
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=90
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'solver_stopped_premature','CSHelpWindow');">Solver stopped prematurely</a>.
+
+fmincon stopped because it exceeded the function evaluation limit,
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'max_fun_evals','CSHelpWindow');">options.MaxFunEvals</a> = 500 (the default value).
+
+ exitflag = 0
+  *************Stopped prematurely.
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=110
+  *************fmincon error!!!
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=130
+  *************fmincon error!!!
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=50
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',4.579870e-09,'default',1.000000e-06,3.014318e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93363
+  Pc = 0.080716
+  Pf = 0.93911
+  Wc = 742.8912
+  W0 = 942.381
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 92510.5609 us
+  mean_b = 310455.0153 us
+  capacity_w = 0.66587 Mbits/s
+  capacity_b = 17.5227 Kbits/s
+  Srv_w = 0.0001081
+  Srv_b = 3.2211e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.074894
+  Pb = 0.68954
+  b001 = 0.00010742
+  tau_w = 0.0035056
+  b000 = 3.1472e-05
+  tau_b = 0.0069868
+  StdVar_w = 8675.4091
+  theta_w = -8.0958e-06
+  delta_w = 0.0093777
+  Q_w = 5.4314
+  delay_w = 543136.9127 us
+  StdVar_b = 43458.3747
+  theta_b = -2.2211e-05
+  delta_b = 0.0044266
+  Q_b = 0.44112
+  delay_b = 441118.9148 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4223 Kbps
+  Throughput_all = 0.63434
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=70
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',1.766377e-09,'default',1.000000e-06,1.282975e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93393
+  Pc = 0.081107
+  Pf = 0.93938
+  Wc = 735.286
+  W0 = 932.8417
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 92080.3841 us
+  mean_b = 308857.7082 us
+  capacity_w = 0.66898 Mbits/s
+  capacity_b = 17.6133 Kbits/s
+  Srv_w = 0.0001086
+  Srv_b = 3.2377e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.079196
+  Pb = 0.69114
+  b001 = 0.00010792
+  tau_w = 0.0035234
+  b000 = 3.1631e-05
+  tau_b = 0.007022
+  StdVar_w = 8657.0176
+  theta_w = -8.6008e-06
+  delta_w = 0.0094016
+  Q_w = 5.1385
+  delay_w = 513848.8246 us
+  StdVar_b = 43227.1561
+  theta_b = -2.2377e-05
+  delta_b = 0.0044259
+  Q_b = 0.43768
+  delay_b = 437680.7236 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4221 Kbps
+  Throughput_all = 0.63438
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=90
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',7.367221e-10,'default',1.000000e-06,5.512212e-09,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93407
+  Pc = 0.081294
+  Pf = 0.93952
+  Wc = 731.703
+  W0 = 928.3457
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 91876.9291 us
+  mean_b = 308102.2261 us
+  capacity_w = 0.67046 Mbits/s
+  capacity_b = 17.6565 Kbits/s
+  Srv_w = 0.00010884
+  Srv_b = 3.2457e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.081231
+  Pb = 0.6919
+  b001 = 0.00010816
+  tau_w = 0.0035318
+  b000 = 3.1706e-05
+  tau_b = 0.0070388
+  StdVar_w = 8648.3471
+  theta_w = -8.8413e-06
+  delta_w = 0.009413
+  Q_w = 5.0108
+  delay_w = 501082.8264 us
+  StdVar_b = 43117.8058
+  theta_b = -2.2457e-05
+  delta_b = 0.0044255
+  Q_b = 0.43606
+  delay_b = 436060.2904 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.422 Kbps
+  Throughput_all = 0.63439
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=110
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',6.537529e-09,'default',1.000000e-06,1.271775e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93471
+  Pc = 0.082144
+  Pf = 0.94011
+  Wc = 715.6815
+  W0 = 908.2287
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 90960.8708 us
+  mean_b = 304700.7 us
+  capacity_w = 0.67721 Mbits/s
+  capacity_b = 17.8536 Kbits/s
+  Srv_w = 0.00010994
+  Srv_b = 3.2819e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.090391
+  Pb = 0.6953
+  b001 = 0.00010924
+  tau_w = 0.0035704
+  b000 = 3.2051e-05
+  tau_b = 0.0071153
+  StdVar_w = 8609.5282
+  theta_w = -9.9374e-06
+  delta_w = 0.0094651
+  Q_w = 4.5076
+  delay_w = 450762.2123 us
+  StdVar_b = 42625.5382
+  theta_b = -2.2819e-05
+  delta_b = 0.0044238
+  Q_b = 0.42881
+  delay_b = 428809.6119 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.4216 Kbps
+  Throughput_all = 0.63445
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=130
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'pred_change','CSHelpWindow');">predicted change in the objective function</a>
+is less than the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a> and constraints 
+are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('nlconst',5.000000e+00,true,true,'fmincon',8.446037e-09,'default',1.000000e-06,4.658993e-08,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.93408
+  Pc = 0.081304
+  Pf = 0.93952
+  Wc = 731.5097
+  W0 = 928.1035
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 10 packets/s, or 5.44 Kbits/s
+  mean_w = 91865.9556 us
+  mean_b = 308061.3778 us
+  capacity_w = 0.67054 Mbits/s
+  capacity_b = 17.6588 Kbits/s
+  Srv_w = 0.00010885
+  Srv_b = 3.2461e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.08134
+  Pb = 0.69194
+  b001 = 0.00010817
+  tau_w = 0.0035323
+  b000 = 3.171e-05
+  tau_b = 0.0070397
+  StdVar_w = 8647.8787
+  theta_w = -8.8543e-06
+  delta_w = 0.0094136
+  Q_w = 5.0041
+  delay_w = 500412.3769 us
+  StdVar_b = 43111.8937
+  theta_b = -2.2461e-05
+  delta_b = 0.0044255
+  Q_b = 0.43597
+  delay_b = 435972.7829 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 5.422 Kbps
+  Throughput_all = 0.63439
+

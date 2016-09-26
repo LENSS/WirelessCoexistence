@@ -1,0 +1,187 @@
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 25
+mu: < 50.000000
+# pernode data TXs: 7.505000e+02
+Queue empty prob.: 0.643355
+Average queue size.: 0.511519
+average throughput: 0.300200 Mbps
+total throughput: 3.002000 Mbps
+---- Running time=72.687 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 2.750000e+01
+mu: < 50.000000
+# pernode data TXs: 8.139000e+02
+Queue empty prob.: 0.59521
+Average queue size.: 0.621194
+average throughput: 0.325560 Mbps
+total throughput: 3.255600 Mbps
+---- Running time=73.359 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 30
+mu: < 50.000000
+# pernode data TXs: 8.834000e+02
+Queue empty prob.: 0.537943
+Average queue size.: 0.803269
+average throughput: 0.353360 Mbps
+total throughput: 3.533600 Mbps
+---- Running time=75.047 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 3.250000e+01
+mu: < 50.000000
+# pernode data TXs: 9.779000e+02
+Queue empty prob.: 0.457934
+Average queue size.: 1.17718
+average throughput: 0.391160 Mbps
+total throughput: 3.911600 Mbps
+---- Running time=76.468 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 35
+mu: < 50.000000
+# pernode data TXs: 1.045800e+03
+Queue empty prob.: 0.363195
+Average queue size.: 1.62656
+average throughput: 0.418320 Mbps
+total throughput: 4.183200 Mbps
+---- Running time=78.5 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 3.750000e+01
+mu: < 50.000000
+# pernode data TXs: 1.101800e+03
+Queue empty prob.: 0.291944
+Average queue size.: 2.31772
+average throughput: 0.440720 Mbps
+total throughput: 4.407200 Mbps
+---- Running time=80.766 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 40
+mu: < 50.000000
+# pernode data TXs: 1.179100e+03
+Queue empty prob.: 0.130163
+Average queue size.: 7.0944
+average throughput: 0.471640 Mbps
+total throughput: 4.716400 Mbps
+---- Running time=82.406 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 4.250000e+01
+mu: < 50.000000
+# pernode data TXs: 1.214800e+03
+Queue empty prob.: 0.0319664
+Average queue size.: 26.035
+average throughput: 0.485920 Mbps
+total throughput: 4.859200 Mbps
+---- Running time=83.593 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 45
+mu: < 50.000000
+# pernode data TXs: 1.216200e+03
+Queue empty prob.: 0.00394513
+Average queue size.: 80.8766
+average throughput: 0.486480 Mbps
+total throughput: 4.864800 Mbps
+---- Running time=83.359 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 4.750000e+01
+mu: < 50.000000
+# pernode data TXs: 1218
+Queue empty prob.: 0.00253297
+Average queue size.: 105.576
+average throughput: 0.487200 Mbps
+total throughput: 4.872000 Mbps
+---- Running time=83.703 s ----
+
+
+# Nodes: 10
+Simulation time: 30s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 50
+mu: < 50.000000
+# pernode data TXs: 1.211400e+03
+Queue empty prob.: 0.00379523
+Average queue size.: 141.647
+average throughput: 0.484560 Mbps
+total throughput: 4.845600 Mbps
+---- Running time=83.625 s ----
+
+

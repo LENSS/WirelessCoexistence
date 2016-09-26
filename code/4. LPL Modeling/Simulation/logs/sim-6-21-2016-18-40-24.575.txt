@@ -1,0 +1,26 @@
+[1 @ 0 us] wait packet to arrive at 4374
+[2 @ 0 us] wait node to wakeup at 14406
+[3 @ 0 us] wait packet to arrive at 45381
+[4 @ 0 us] wait node to wakeup at 6047
+[5 @ 0 us] wait packet to arrive at 9595
+[6 @ 0 us] wait node to wakeup at 1847
+[7 @ 0 us] wait packet to arrive at 8404
+[8 @ 0 us] wait node to wakeup at 6911
+[6 @ 58470 us] goes to sleep without receiving successfully
+[4 @ 100470 us] goes to sleep without receiving successfully
+[3 @ 2061710 us] node is sending, defer to sleep at 2061830 us
+[5 @ 2419090 us] node is sending, defer to sleep at 2419390 us
+[3 @ 2461830 us] node is sending, defer to sleep at 2461890 us
+[7 @ 2870370 us] node is sending, defer to sleep at 2870460 us
+[5 @ 3619740 us] node is sending, defer to sleep at 3619830 us
+[1 @ 8145230 us] node is sending, defer to sleep at 8145500 us
+[3 @ 11661870 us] node is sending, defer to sleep at 11662110 us
+[7 @ 11670840 us] node is sending, defer to sleep at 11671020 us
+[1 @ 18145010 us] node is sending, defer to sleep at 18145040 us
+[5 @ 19219690 us] node is sending, defer to sleep at 19219840 us
+Pe: 0.266667
+
+Throughput: 0.733333
+
+Energy: 0.00012325
+

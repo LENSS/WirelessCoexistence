@@ -1,0 +1,1356 @@
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.546123e-009,'default',1.000000e-006,4.183001e-021,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 1
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 8
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84879
+  Pc = 0.065675
+  Pf = 0.84879
+  tau_w = 0.0066924
+  tau_b = 0.00014478
+  Ptrw = 0.066045
+  Ptrb = 0.073404
+  Posw = 0.37517
+  Posb = 0.095556
+  channel busy prob = 0.83908
+  Ptr_w = 0.49504
+  Psucc_w = 0.20291
+  Normalized Throughput_w = 0.10045
+  Actual Throughput_w = 5.4242 Mbps
+  Throughput_w/N = 0.010045 Mbps
+  Ptr_b = 0.68132
+  Psucc_b = 0.282
+  Normalized Throughput_b = 0.19213
+  Actual Throughput_b = 48.0333 Kbps
+  Throughput_b/N = 0.012809 Kbps
+*0.2009 0.19213
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.544284e-009,'default',1.000000e-006,4.179290e-021,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 2
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 9
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84879
+  Pc = 0.065675
+  Pf = 0.84879
+  tau_w = 0.0066924
+  tau_b = 0.00014478
+  Ptrw = 0.066045
+  Ptrb = 0.073405
+  Posw = 0.37517
+  Posb = 0.095556
+  channel busy prob = 0.83908
+  Ptr_w = 0.49503
+  Psucc_w = 0.20291
+  Normalized Throughput_w = 0.10045
+  Actual Throughput_w = 5.4242 Mbps
+  Throughput_w/N = 0.010045 Mbps
+  Ptr_b = 0.68132
+  Psucc_b = 0.282
+  Normalized Throughput_b = 0.19213
+  Actual Throughput_b = 48.0335 Kbps
+  Throughput_b/N = 0.012809 Kbps
+*0.20089 0.19213
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.543925e-009,'default',1.000000e-006,4.171830e-021,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 3
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84879
+  Pc = 0.065675
+  Pf = 0.84879
+  tau_w = 0.0066923
+  tau_b = 0.00014478
+  Ptrw = 0.066044
+  Ptrb = 0.073405
+  Posw = 0.37517
+  Posb = 0.095556
+  channel busy prob = 0.83908
+  Ptr_w = 0.49503
+  Psucc_w = 0.20291
+  Normalized Throughput_w = 0.10045
+  Actual Throughput_w = 5.4241 Mbps
+  Throughput_w/N = 0.010045 Mbps
+  Ptr_b = 0.68132
+  Psucc_b = 0.282
+  Normalized Throughput_b = 0.19213
+  Actual Throughput_b = 48.0335 Kbps
+  Throughput_b/N = 0.012809 Kbps
+*0.20089 0.19213
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.565110e-008,'default',1.000000e-006,4.775766e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 4
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 8
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.83832
+  Pc = 0.049927
+  Pf = 0.83832
+  tau_w = 0.0050778
+  tau_b = 0.00016034
+  Ptrw = 0.050271
+  Ptrb = 0.081294
+  Posw = 0.28946
+  Posb = 0.10583
+  channel busy prob = 0.83264
+  Ptr_w = 0.40297
+  Psucc_w = 0.18839
+  Normalized Throughput_w = 0.075916
+  Actual Throughput_w = 4.0995 Mbps
+  Throughput_w/N = 0.0075916 Mbps
+  Ptr_b = 0.71968
+  Psucc_b = 0.31202
+  Normalized Throughput_b = 0.22455
+  Actual Throughput_b = 56.1386 Kbps
+  Throughput_b/N = 0.01497 Kbps
+*0.15183 0.22455
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.553065e-008,'default',1.000000e-006,4.712593e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 5
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 9
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.83832
+  Pc = 0.049926
+  Pf = 0.83832
+  tau_w = 0.0050777
+  tau_b = 0.00016034
+  Ptrw = 0.05027
+  Ptrb = 0.081294
+  Posw = 0.28945
+  Posb = 0.10583
+  channel busy prob = 0.83264
+  Ptr_w = 0.40296
+  Psucc_w = 0.18839
+  Normalized Throughput_w = 0.075914
+  Actual Throughput_w = 4.0994 Mbps
+  Throughput_w/N = 0.0075914 Mbps
+  Ptr_b = 0.71969
+  Psucc_b = 0.31202
+  Normalized Throughput_b = 0.22456
+  Actual Throughput_b = 56.1392 Kbps
+  Throughput_b/N = 0.01497 Kbps
+*0.15183 0.22456
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.551149e-008,'default',1.000000e-006,4.701354e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 6
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.83832
+  Pc = 0.049926
+  Pf = 0.83832
+  tau_w = 0.0050777
+  tau_b = 0.00016034
+  Ptrw = 0.05027
+  Ptrb = 0.081294
+  Posw = 0.28945
+  Posb = 0.10583
+  channel busy prob = 0.83264
+  Ptr_w = 0.40296
+  Psucc_w = 0.18839
+  Normalized Throughput_w = 0.075914
+  Actual Throughput_w = 4.0994 Mbps
+  Throughput_w/N = 0.0075914 Mbps
+  Ptr_b = 0.71969
+  Psucc_b = 0.31202
+  Normalized Throughput_b = 0.22456
+  Actual Throughput_b = 56.1392 Kbps
+  Throughput_b/N = 0.01497 Kbps
+*0.15183 0.22456
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',7.876820e-008,'default',1.000000e-006,1.160576e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 7
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 8
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.82844
+  Pc = 0.034906
+  Pf = 0.82844
+  tau_w = 0.0034966
+  tau_b = 0.00017502
+  Ptrw = 0.034722
+  Ptrb = 0.088737
+  Posw = 0.20247
+  Posb = 0.11552
+  channel busy prob = 0.82575
+  Ptr_w = 0.2977
+  Psucc_w = 0.17588
+  Normalized Throughput_w = 0.05236
+  Actual Throughput_w = 2.8274 Mbps
+  Throughput_w/N = 0.005236 Mbps
+  Ptr_b = 0.75188
+  Psucc_b = 0.3428
+  Normalized Throughput_b = 0.25775
+  Actual Throughput_b = 64.437 Kbps
+  Throughput_b/N = 0.017183 Kbps
+*0.10472 0.25775
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',7.974896e-008,'default',1.000000e-006,1.219299e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 8
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 9
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.82844
+  Pc = 0.034903
+  Pf = 0.82844
+  tau_w = 0.0034963
+  tau_b = 0.00017503
+  Ptrw = 0.034719
+  Ptrb = 0.088738
+  Posw = 0.20246
+  Posb = 0.11552
+  channel busy prob = 0.82575
+  Ptr_w = 0.29767
+  Psucc_w = 0.17588
+  Normalized Throughput_w = 0.052354
+  Actual Throughput_w = 2.8271 Mbps
+  Throughput_w/N = 0.0052354 Mbps
+  Ptr_b = 0.75189
+  Psucc_b = 0.34281
+  Normalized Throughput_b = 0.25776
+  Actual Throughput_b = 64.4389 Kbps
+  Throughput_b/N = 0.017184 Kbps
+*0.10471 0.25776
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',7.987465e-008,'default',1.000000e-006,1.226971e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 9
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 10
+  WiFi packet size = 500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.82844
+  Pc = 0.034903
+  Pf = 0.82844
+  tau_w = 0.0034963
+  tau_b = 0.00017503
+  Ptrw = 0.034719
+  Ptrb = 0.088738
+  Posw = 0.20245
+  Posb = 0.11552
+  channel busy prob = 0.82575
+  Ptr_w = 0.29767
+  Psucc_w = 0.17588
+  Normalized Throughput_w = 0.052354
+  Actual Throughput_w = 2.8271 Mbps
+  Throughput_w/N = 0.0052354 Mbps
+  Ptr_b = 0.75189
+  Psucc_b = 0.34281
+  Normalized Throughput_b = 0.25776
+  Actual Throughput_b = 64.439 Kbps
+  Throughput_b/N = 0.017184 Kbps
+*0.10471 0.25776
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',2.477319e-008,'default',1.000000e-006,7.833522e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 10
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 8
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87334
+  Pc = 0.057625
+  Pf = 0.87334
+  tau_w = 0.0059336
+  tau_b = 0.00010893
+  Ptrw = 0.10019
+  Ptrb = 0.055229
+  Posw = 0.3355
+  Posb = 0.071896
+  channel busy prob = 0.8516
+  Ptr_w = 0.65204
+  Psucc_w = 0.24937
+  Normalized Throughput_w = 0.1626
+  Actual Throughput_w = 8.7805 Mbps
+  Throughput_w/N = 0.01626 Mbps
+  Ptr_b = 0.57352
+  Psucc_b = 0.22403
+  Normalized Throughput_b = 0.12849
+  Actual Throughput_b = 32.1214 Kbps
+  Throughput_b/N = 0.0085657 Kbps
+*0.3252 0.12849
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',2.476879e-008,'default',1.000000e-006,7.826065e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 11
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 9
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87334
+  Pc = 0.057625
+  Pf = 0.87334
+  tau_w = 0.0059335
+  tau_b = 0.00010893
+  Ptrw = 0.10019
+  Ptrb = 0.055229
+  Posw = 0.3355
+  Posb = 0.071896
+  channel busy prob = 0.8516
+  Ptr_w = 0.65204
+  Psucc_w = 0.24937
+  Normalized Throughput_w = 0.1626
+  Actual Throughput_w = 8.7804 Mbps
+  Throughput_w/N = 0.01626 Mbps
+  Ptr_b = 0.57352
+  Psucc_b = 0.22403
+  Normalized Throughput_b = 0.12849
+  Actual Throughput_b = 32.1216 Kbps
+  Throughput_b/N = 0.0085657 Kbps
+*0.3252 0.12849
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',2.476806e-008,'default',1.000000e-006,7.827699e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 12
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87334
+  Pc = 0.057625
+  Pf = 0.87334
+  tau_w = 0.0059335
+  tau_b = 0.00010893
+  Ptrw = 0.10019
+  Ptrb = 0.055229
+  Posw = 0.3355
+  Posb = 0.071896
+  channel busy prob = 0.8516
+  Ptr_w = 0.65204
+  Psucc_w = 0.24937
+  Normalized Throughput_w = 0.1626
+  Actual Throughput_w = 8.7804 Mbps
+  Throughput_w/N = 0.01626 Mbps
+  Ptr_b = 0.57352
+  Psucc_b = 0.22403
+  Normalized Throughput_b = 0.12849
+  Actual Throughput_b = 32.1216 Kbps
+  Throughput_b/N = 0.0085658 Kbps
+*0.3252 0.12849
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.604348e-007,'default',1.000000e-006,4.589902e-011,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 13
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 8
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85735
+  Pc = 0.044644
+  Pf = 0.85735
+  tau_w = 0.0045739
+  tau_b = 0.00013213
+  Ptrw = 0.077348
+  Ptrb = 0.06699
+  Posw = 0.26218
+  Posb = 0.087206
+  channel busy prob = 0.84199
+  Ptr_w = 0.55293
+  Psucc_w = 0.22761
+  Normalized Throughput_w = 0.12585
+  Actual Throughput_w = 6.796 Mbps
+  Throughput_w/N = 0.012585 Mbps
+  Ptr_b = 0.64658
+  Psucc_b = 0.26294
+  Normalized Throughput_b = 0.17001
+  Actual Throughput_b = 42.5022 Kbps
+  Throughput_b/N = 0.011334 Kbps
+*0.2517 0.17001
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.598645e-007,'default',1.000000e-006,4.573986e-011,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 14
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 9
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85735
+  Pc = 0.044643
+  Pf = 0.85735
+  tau_w = 0.0045739
+  tau_b = 0.00013213
+  Ptrw = 0.077347
+  Ptrb = 0.066991
+  Posw = 0.26218
+  Posb = 0.087207
+  channel busy prob = 0.84199
+  Ptr_w = 0.55292
+  Psucc_w = 0.22761
+  Normalized Throughput_w = 0.12585
+  Actual Throughput_w = 6.7959 Mbps
+  Throughput_w/N = 0.012585 Mbps
+  Ptr_b = 0.64658
+  Psucc_b = 0.26294
+  Normalized Throughput_b = 0.17001
+  Actual Throughput_b = 42.5027 Kbps
+  Throughput_b/N = 0.011334 Kbps
+*0.2517 0.17001
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.597796e-007,'default',1.000000e-006,4.571728e-011,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 15
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85735
+  Pc = 0.044643
+  Pf = 0.85735
+  tau_w = 0.0045739
+  tau_b = 0.00013213
+  Ptrw = 0.077347
+  Ptrb = 0.066991
+  Posw = 0.26218
+  Posb = 0.087207
+  channel busy prob = 0.84199
+  Ptr_w = 0.55292
+  Psucc_w = 0.22761
+  Normalized Throughput_w = 0.12585
+  Actual Throughput_w = 6.7959 Mbps
+  Throughput_w/N = 0.012585 Mbps
+  Ptr_b = 0.64658
+  Psucc_b = 0.26294
+  Normalized Throughput_b = 0.17001
+  Actual Throughput_b = 42.5027 Kbps
+  Throughput_b/N = 0.011334 Kbps
+*0.2517 0.17001
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.320139e-009,'default',1.000000e-006,3.907496e-019,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 16
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 8
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84208
+  Pc = 0.032023
+  Pf = 0.84208
+  tau_w = 0.0032224
+  tau_b = 0.00015474
+  Ptrw = 0.054575
+  Ptrb = 0.078453
+  Posw = 0.18715
+  Posb = 0.10213
+  channel busy prob = 0.83249
+  Ptr_w = 0.42948
+  Psucc_w = 0.20781
+  Normalized Throughput_w = 0.089249
+  Actual Throughput_w = 4.8195 Mbps
+  Throughput_w/N = 0.0089249 Mbps
+  Ptr_b = 0.7064
+  Psucc_b = 0.30459
+  Normalized Throughput_b = 0.21516
+  Actual Throughput_b = 53.7895 Kbps
+  Throughput_b/N = 0.014344 Kbps
+*0.1785 0.21516
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.222560e-009,'default',1.000000e-006,3.669150e-019,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 17
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 9
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84208
+  Pc = 0.032021
+  Pf = 0.84208
+  tau_w = 0.0032222
+  tau_b = 0.00015474
+  Ptrw = 0.054571
+  Ptrb = 0.078455
+  Posw = 0.18714
+  Posb = 0.10213
+  channel busy prob = 0.83249
+  Ptr_w = 0.42946
+  Psucc_w = 0.2078
+  Normalized Throughput_w = 0.089243
+  Actual Throughput_w = 4.8191 Mbps
+  Throughput_w/N = 0.0089243 Mbps
+  Ptr_b = 0.70641
+  Psucc_b = 0.30459
+  Normalized Throughput_b = 0.21517
+  Actual Throughput_b = 53.7916 Kbps
+  Throughput_b/N = 0.014344 Kbps
+*0.17849 0.21517
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.211122e-009,'default',1.000000e-006,3.648300e-019,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 18
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 10
+  WiFi packet size = 1000
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84208
+  Pc = 0.032021
+  Pf = 0.84208
+  tau_w = 0.0032222
+  tau_b = 0.00015474
+  Ptrw = 0.054571
+  Ptrb = 0.078455
+  Posw = 0.18714
+  Posb = 0.10213
+  channel busy prob = 0.83249
+  Ptr_w = 0.42945
+  Psucc_w = 0.2078
+  Normalized Throughput_w = 0.089242
+  Actual Throughput_w = 4.8191 Mbps
+  Throughput_w/N = 0.0089242 Mbps
+  Ptr_b = 0.70641
+  Psucc_b = 0.30459
+  Normalized Throughput_b = 0.21517
+  Actual Throughput_b = 53.7917 Kbps
+  Throughput_b/N = 0.014344 Kbps
+*0.17848 0.21517
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',4.842677e-008,'default',1.000000e-006,5.674231e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 19
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 8
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.89023
+  Pc = 0.051794
+  Pf = 0.89023
+  tau_w = 0.0053756
+  tau_b = 8.5453e-005
+  Ptrw = 0.13383
+  Ptrb = 0.043325
+  Posw = 0.30583
+  Posb = 0.056399
+  channel busy prob = 0.87768
+  Ptr_w = 0.76231
+  Psucc_w = 0.25763
+  Normalized Throughput_w = 0.1964
+  Actual Throughput_w = 10.6054 Mbps
+  Throughput_w/N = 0.01964 Mbps
+  Ptr_b = 0.4854
+  Psucc_b = 0.1676
+  Normalized Throughput_b = 0.081351
+  Actual Throughput_b = 20.3378 Kbps
+  Throughput_b/N = 0.0054234 Kbps
+*0.39279 0.081351
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',4.842461e-008,'default',1.000000e-006,5.673135e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 20
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 9
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.89023
+  Pc = 0.051794
+  Pf = 0.89023
+  tau_w = 0.0053756
+  tau_b = 8.5453e-005
+  Ptrw = 0.13383
+  Ptrb = 0.043325
+  Posw = 0.30583
+  Posb = 0.056399
+  channel busy prob = 0.87768
+  Ptr_w = 0.7623
+  Psucc_w = 0.25763
+  Normalized Throughput_w = 0.1964
+  Actual Throughput_w = 10.6054 Mbps
+  Throughput_w/N = 0.01964 Mbps
+  Ptr_b = 0.4854
+  Psucc_b = 0.1676
+  Normalized Throughput_b = 0.081351
+  Actual Throughput_b = 20.3379 Kbps
+  Throughput_b/N = 0.0054234 Kbps
+*0.39279 0.081351
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',4.842450e-008,'default',1.000000e-006,5.672921e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 21
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.89023
+  Pc = 0.051794
+  Pf = 0.89023
+  tau_w = 0.0053756
+  tau_b = 8.5453e-005
+  Ptrw = 0.13383
+  Ptrb = 0.043325
+  Posw = 0.30583
+  Posb = 0.056399
+  channel busy prob = 0.87768
+  Ptr_w = 0.7623
+  Psucc_w = 0.25763
+  Normalized Throughput_w = 0.1964
+  Actual Throughput_w = 10.6054 Mbps
+  Throughput_w/N = 0.01964 Mbps
+  Ptr_b = 0.4854
+  Psucc_b = 0.1676
+  Normalized Throughput_b = 0.081352
+  Actual Throughput_b = 20.3379 Kbps
+  Throughput_b/N = 0.0054234 Kbps
+*0.39279 0.081352
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.917135e-009,'default',1.000000e-006,2.573334e-018,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 22
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 8
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87104
+  Pc = 0.04078
+  Pf = 0.87104
+  tau_w = 0.0042023
+  tau_b = 0.00011223
+  Ptrw = 0.10472
+  Ptrb = 0.056901
+  Posw = 0.24186
+  Posb = 0.074072
+  channel busy prob = 0.8626
+  Ptr_w = 0.66917
+  Psucc_w = 0.2397
+  Normalized Throughput_w = 0.1604
+  Actual Throughput_w = 8.6616 Mbps
+  Throughput_w/N = 0.01604 Mbps
+  Ptr_b = 0.5847
+  Psucc_b = 0.21105
+  Normalized Throughput_b = 0.1234
+  Actual Throughput_b = 30.8497 Kbps
+  Throughput_b/N = 0.0082266 Kbps
+*0.3208 0.1234
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.911142e-009,'default',1.000000e-006,2.565371e-018,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 23
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 9
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87104
+  Pc = 0.04078
+  Pf = 0.87104
+  tau_w = 0.0042023
+  tau_b = 0.00011223
+  Ptrw = 0.10471
+  Ptrb = 0.056901
+  Posw = 0.24186
+  Posb = 0.074072
+  channel busy prob = 0.8626
+  Ptr_w = 0.66916
+  Psucc_w = 0.2397
+  Normalized Throughput_w = 0.1604
+  Actual Throughput_w = 8.6615 Mbps
+  Throughput_w/N = 0.01604 Mbps
+  Ptr_b = 0.5847
+  Psucc_b = 0.21105
+  Normalized Throughput_b = 0.1234
+  Actual Throughput_b = 30.85 Kbps
+  Throughput_b/N = 0.0082267 Kbps
+*0.3208 0.1234
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',6.910372e-009,'default',1.000000e-006,2.565738e-018,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 24
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87104
+  Pc = 0.04078
+  Pf = 0.87104
+  tau_w = 0.0042023
+  tau_b = 0.00011223
+  Ptrw = 0.10471
+  Ptrb = 0.056901
+  Posw = 0.24186
+  Posb = 0.074073
+  channel busy prob = 0.8626
+  Ptr_w = 0.66916
+  Psucc_w = 0.2397
+  Normalized Throughput_w = 0.1604
+  Actual Throughput_w = 8.6615 Mbps
+  Throughput_w/N = 0.01604 Mbps
+  Ptr_b = 0.5847
+  Psucc_b = 0.21105
+  Normalized Throughput_b = 0.1234
+  Actual Throughput_b = 30.8501 Kbps
+  Throughput_b/N = 0.0082267 Kbps
+*0.3208 0.1234
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',1.075253e-007,'default',1.000000e-006,1.479704e-013,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 25
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 8
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85237
+  Pc = 0.029855
+  Pf = 0.85237
+  tau_w = 0.0030153
+  tau_b = 0.00013949
+  Ptrw = 0.075203
+  Ptrb = 0.070719
+  Posw = 0.17552
+  Posb = 0.09206
+  channel busy prob = 0.84771
+  Ptr_w = 0.54242
+  Psucc_w = 0.22056
+  Normalized Throughput_w = 0.11964
+  Actual Throughput_w = 6.4603 Mbps
+  Throughput_w/N = 0.011964 Mbps
+  Ptr_b = 0.66718
+  Psucc_b = 0.26095
+  Normalized Throughput_b = 0.1741
+  Actual Throughput_b = 43.526 Kbps
+  Throughput_b/N = 0.011607 Kbps
+*0.23927 0.1741
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',1.069601e-007,'default',1.000000e-006,1.448695e-013,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 26
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 9
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85236
+  Pc = 0.029853
+  Pf = 0.85236
+  tau_w = 0.0030152
+  tau_b = 0.00013949
+  Ptrw = 0.075199
+  Ptrb = 0.070721
+  Posw = 0.17551
+  Posb = 0.092063
+  channel busy prob = 0.84771
+  Ptr_w = 0.5424
+  Psucc_w = 0.22055
+  Normalized Throughput_w = 0.11963
+  Actual Throughput_w = 6.46 Mbps
+  Throughput_w/N = 0.011963 Mbps
+  Ptr_b = 0.66719
+  Psucc_b = 0.26096
+  Normalized Throughput_b = 0.17411
+  Actual Throughput_b = 43.5279 Kbps
+  Throughput_b/N = 0.011607 Kbps
+*0.23926 0.17411
+*******************************end*************************************
+ 
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',1.068969e-007,'default',1.000000e-006,1.445237e-013,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 27
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85236
+  Pc = 0.029853
+  Pf = 0.85236
+  tau_w = 0.0030152
+  tau_b = 0.00013949
+  Ptrw = 0.075199
+  Ptrb = 0.070721
+  Posw = 0.17551
+  Posb = 0.092063
+  channel busy prob = 0.84771
+  Ptr_w = 0.5424
+  Psucc_w = 0.22055
+  Normalized Throughput_w = 0.11963
+  Actual Throughput_w = 6.4599 Mbps
+  Throughput_w/N = 0.011963 Mbps
+  Ptr_b = 0.66719
+  Psucc_b = 0.26096
+  Normalized Throughput_b = 0.17411
+  Actual Throughput_b = 43.528 Kbps
+  Throughput_b/N = 0.011607 Kbps
+*0.23926 0.17411
+*******************************end*************************************
+ 
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+with_timing

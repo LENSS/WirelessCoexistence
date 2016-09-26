@@ -1,0 +1,473 @@
+ 
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 1
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 1500
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',117,1)">with_timing at 117</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',3.444979e-008,'default',1.000000e-006,8.159581e-017,'default',1.000000e-003);">stopping criteria details</a>>
+
+======================================================================
+  N_w = 5
+  N_b = 5
+The roots from the default "fsolve" are: 
+  alpha = 0.78799
+  Pc = 0.03322
+  Pf = 0.78799
+  tau_w = 0.0074381
+  tau_b = 0.00023997
+  Ptrw = 0.26033
+  Ptrb = 0.098628
+  Posw = 0.43146
+  Posb = 0.15838
+  channel busy prob = 0.86827
+  Ptr_w = 0.7786
+  Psucc_w = 0.30156
+  Normalized Throughput_w = 0.23479
+  Actual Throughput_w = 12.6788 Mbps
+  Throughput_w/N = 0.046959 Mbps
+  Ptr_b = 0.40499
+  Psucc_b = 0.1741
+  Normalized Throughput_b = 0.070511
+  Actual Throughput_b = 17.6279 Kbps
+  Throughput_b/N = 0.014102 Kbps
+*0.46959 0.070511
+======================================================================
+  N_w = 5
+  N_b = 10
+The roots from the default "fsolve" are: 
+  alpha = 0.82539
+  Pc = 0.031874
+  Pf = 0.82539
+  tau_w = 0.006977
+  tau_b = 0.00018328
+  Ptrw = 0.2442
+  Ptrb = 0.075327
+  Posw = 0.40528
+  Posb = 0.12096
+  channel busy prob = 0.8873
+  Ptr_w = 0.75337
+  Psucc_w = 0.24375
+  Normalized Throughput_w = 0.18364
+  Actual Throughput_w = 9.9163 Mbps
+  Throughput_w/N = 0.036727 Mbps
+  Ptr_b = 0.54304
+  Psucc_b = 0.16733
+  Normalized Throughput_b = 0.090869
+  Actual Throughput_b = 22.7172 Kbps
+  Throughput_b/N = 0.0090869 Kbps
+*0.36727 0.090869
+======================================================================
+  N_w = 5
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84629
+  Pc = 0.030856
+  Pf = 0.84629
+  tau_w = 0.0066596
+  tau_b = 0.00015108
+  Ptrw = 0.23309
+  Ptrb = 0.062093
+  Posw = 0.38725
+  Posb = 0.099712
+  channel busy prob = 0.89858
+  Ptr_w = 0.7347
+  Psucc_w = 0.21104
+  Normalized Throughput_w = 0.15505
+  Actual Throughput_w = 8.3727 Mbps
+  Throughput_w/N = 0.03101 Mbps
+  Ptr_b = 0.61771
+  Psucc_b = 0.16253
+  Normalized Throughput_b = 0.10039
+  Actual Throughput_b = 25.0986 Kbps
+  Throughput_b/N = 0.006693 Kbps
+*0.3101 0.10039
+======================================================================
+  N_w = 5
+  N_b = 20
+The roots from the default "fsolve" are: 
+  alpha = 0.86028
+  Pc = 0.030056
+  Pf = 0.86028
+  tau_w = 0.0064159
+  tau_b = 0.00012979
+  Ptrw = 0.22456
+  Ptrb = 0.053342
+  Posw = 0.37338
+  Posb = 0.085659
+  channel busy prob = 0.90633
+  Ptr_w = 0.71962
+  Psucc_w = 0.18926
+  Normalized Throughput_w = 0.13619
+  Actual Throughput_w = 7.3545 Mbps
+  Throughput_w/N = 0.027239 Mbps
+  Ptr_b = 0.66591
+  Psucc_b = 0.15881
+  Normalized Throughput_b = 0.10575
+  Actual Throughput_b = 26.4384 Kbps
+  Throughput_b/N = 0.0052877 Kbps
+*0.27239 0.10575
+======================================================================
+  N_w = 5
+  N_b = 25
+The roots from the default "fsolve" are: 
+  alpha = 0.87056
+  Pc = 0.029403
+  Pf = 0.87056
+  tau_w = 0.0062175
+  tau_b = 0.00011445
+  Ptrw = 0.21761
+  Ptrb = 0.047041
+  Posw = 0.36208
+  Posb = 0.07554
+  channel busy prob = 0.91211
+  Ptr_w = 0.70684
+  Psucc_w = 0.17341
+  Normalized Throughput_w = 0.12257
+  Actual Throughput_w = 6.6188 Mbps
+  Throughput_w/N = 0.024514 Mbps
+  Ptr_b = 0.70018
+  Psucc_b = 0.15578
+  Normalized Throughput_b = 0.10907
+  Actual Throughput_b = 27.2684 Kbps
+  Throughput_b/N = 0.0043629 Kbps
+*0.24514 0.10907
+======================================================================
+  N_w = 5
+  N_b = 30
+The roots from the default "fsolve" are: 
+  alpha = 0.87857
+  Pc = 0.028853
+  Pf = 0.87857
+  tau_w = 0.0060502
+  tau_b = 0.00010279
+  Ptrw = 0.21176
+  Ptrb = 0.042248
+  Posw = 0.35254
+  Posb = 0.067844
+  channel busy prob = 0.91665
+  Ptr_w = 0.6957
+  Psucc_w = 0.16118
+  Normalized Throughput_w = 0.11213
+  Actual Throughput_w = 6.0553 Mbps
+  Throughput_w/N = 0.022427 Mbps
+  Ptr_b = 0.7261
+  Psucc_b = 0.15321
+  Normalized Throughput_b = 0.11125
+  Actual Throughput_b = 27.8119 Kbps
+  Throughput_b/N = 0.0037083 Kbps
+*0.22427 0.11125
+======================================================================
+  N_w = 10
+  N_b = 5
+The roots from the default "fsolve" are: 
+  alpha = 0.86284
+  Pc = 0.060784
+  Pf = 0.86284
+  tau_w = 0.0063548
+  tau_b = 0.00012594
+  Ptrw = 0.22242
+  Ptrb = 0.05176
+  Posw = 0.35811
+  Posb = 0.083119
+  channel busy prob = 0.93805
+  Ptr_w = 0.91919
+  Psucc_w = 0.21145
+  Normalized Throughput_w = 0.19436
+  Actual Throughput_w = 10.4956 Mbps
+  Throughput_w/N = 0.019436 Mbps
+  Ptr_b = 0.23336
+  Psucc_b = 0.068874
+  Normalized Throughput_b = 0.016072
+  Actual Throughput_b = 4.0181 Kbps
+  Throughput_b/N = 0.0032145 Kbps
+*0.38873 0.016072
+======================================================================
+  N_w = 10
+  N_b = 10
+The roots from the default "fsolve" are: 
+  alpha = 0.87591
+  Pc = 0.058615
+  Pf = 0.87591
+  tau_w = 0.0060878
+  tau_b = 0.00010663
+  Ptrw = 0.21307
+  Ptrb = 0.043826
+  Posw = 0.34386
+  Posb = 0.070377
+  channel busy prob = 0.94183
+  Ptr_w = 0.90894
+  Psucc_w = 0.18797
+  Normalized Throughput_w = 0.17085
+  Actual Throughput_w = 9.2261 Mbps
+  Throughput_w/N = 0.017085 Mbps
+  Ptr_b = 0.36119
+  Psucc_b = 0.071121
+  Normalized Throughput_b = 0.025688
+  Actual Throughput_b = 6.422 Kbps
+  Throughput_b/N = 0.0025688 Kbps
+*0.34171 0.025688
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.88503
+  Pc = 0.05691
+  Pf = 0.88503
+  tau_w = 0.0058829
+  tau_b = 9.3604e-005
+  Ptrw = 0.2059
+  Ptrb = 0.038471
+  Posw = 0.33289
+  Posb = 0.061778
+  channel busy prob = 0.94464
+  Ptr_w = 0.90029
+  Psucc_w = 0.17155
+  Normalized Throughput_w = 0.15444
+  Actual Throughput_w = 8.34 Mbps
+  Throughput_w/N = 0.015444 Mbps
+  Ptr_b = 0.44482
+  Psucc_b = 0.072659
+  Normalized Throughput_b = 0.03232
+  Actual Throughput_b = 8.08 Kbps
+  Throughput_b/N = 0.0021547 Kbps
+*0.30889 0.03232
+======================================================================
+  N_w = 10
+  N_b = 20
+The roots from the default "fsolve" are: 
+  alpha = 0.89196
+  Pc = 0.055512
+  Pf = 0.89196
+  tau_w = 0.0057155
+  tau_b = 8.4006e-005
+  Ptrw = 0.20004
+  Ptrb = 0.034526
+  Posw = 0.32389
+  Posb = 0.055444
+  channel busy prob = 0.94685
+  Ptr_w = 0.89268
+  Psucc_w = 0.15919
+  Normalized Throughput_w = 0.14211
+  Actual Throughput_w = 7.6738 Mbps
+  Throughput_w/N = 0.014211 Mbps
+  Ptr_b = 0.50477
+  Psucc_b = 0.07381
+  Normalized Throughput_b = 0.037257
+  Actual Throughput_b = 9.3142 Kbps
+  Throughput_b/N = 0.0018628 Kbps
+*0.28422 0.037257
+======================================================================
+  N_w = 10
+  N_b = 25
+The roots from the default "fsolve" are: 
+  alpha = 0.8975
+  Pc = 0.054328
+  Pf = 0.8975
+  tau_w = 0.0055735
+  tau_b = 7.6553e-005
+  Ptrw = 0.19507
+  Ptrb = 0.031463
+  Posw = 0.31624
+  Posb = 0.050525
+  channel busy prob = 0.94866
+  Ptr_w = 0.88583
+  Psucc_w = 0.14943
+  Normalized Throughput_w = 0.13237
+  Actual Throughput_w = 7.1478 Mbps
+  Throughput_w/N = 0.013237 Mbps
+  Ptr_b = 0.55032
+  Psucc_b = 0.074711
+  Normalized Throughput_b = 0.041115
+  Actual Throughput_b = 10.2788 Kbps
+  Throughput_b/N = 0.0016446 Kbps
+*0.26473 0.041115
+======================================================================
+  N_w = 10
+  N_b = 30
+The roots from the default "fsolve" are: 
+  alpha = 0.90208
+  Pc = 0.053303
+  Pf = 0.90208
+  tau_w = 0.0054502
+  tau_b = 7.0553e-005
+  Ptrw = 0.19076
+  Ptrb = 0.028997
+  Posw = 0.30958
+  Posb = 0.046565
+  channel busy prob = 0.95018
+  Ptr_w = 0.87955
+  Psucc_w = 0.14144
+  Normalized Throughput_w = 0.1244
+  Actual Throughput_w = 6.7177 Mbps
+  Throughput_w/N = 0.01244 Mbps
+  Ptr_b = 0.58637
+  Psucc_b = 0.075438
+  Normalized Throughput_b = 0.044234
+  Actual Throughput_b = 11.0586 Kbps
+  Throughput_b/N = 0.0014745 Kbps
+*0.2488 0.044234
+======================================================================
+  N_w = 15
+  N_b = 5
+The roots from the default "fsolve" are: 
+  alpha = 0.90079
+  Pc = 0.078937
+  Pf = 0.90079
+  tau_w = 0.0054497
+  tau_b = 7.2227e-005
+  Ptrw = 0.19074
+  Ptrb = 0.029685
+  Posw = 0.30117
+  Posb = 0.04767
+  channel busy prob = 0.96403
+  Ptr_w = 0.95819
+  Psucc_w = 0.15822
+  Normalized Throughput_w = 0.1516
+  Actual Throughput_w = 8.1865 Mbps
+  Throughput_w/N = 0.010107 Mbps
+  Ptr_b = 0.13987
+  Psucc_b = 0.036579
+  Normalized Throughput_b = 0.0051163
+  Actual Throughput_b = 1.2791 Kbps
+  Throughput_b/N = 0.0010233 Kbps
+*0.30321 0.0051163
+======================================================================
+  N_w = 15
+  N_b = 10
+The roots from the default "fsolve" are: 
+  alpha = 0.9061
+  Pc = 0.077025
+  Pf = 0.9061
+  tau_w = 0.0053005
+  tau_b = 6.5418e-005
+  Ptrw = 0.18552
+  Ptrb = 0.026887
+  Posw = 0.29354
+  Posb = 0.043176
+  channel busy prob = 0.96494
+  Ptr_w = 0.95395
+  Psucc_w = 0.14786
+  Normalized Throughput_w = 0.14105
+  Actual Throughput_w = 7.6169 Mbps
+  Throughput_w/N = 0.0094036 Mbps
+  Ptr_b = 0.23856
+  Psucc_b = 0.038201
+  Normalized Throughput_b = 0.0091133
+  Actual Throughput_b = 2.2783 Kbps
+  Throughput_b/N = 0.00091133 Kbps
+*0.28211 0.0091133
+======================================================================
+  N_w = 15
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.91036
+  Pc = 0.075399
+  Pf = 0.91036
+  tau_w = 0.0051754
+  tau_b = 6.0135e-005
+  Ptrw = 0.18114
+  Ptrb = 0.024715
+  Posw = 0.28711
+  Posb = 0.039689
+  channel busy prob = 0.96571
+  Ptr_w = 0.95009
+  Psucc_w = 0.13957
+  Normalized Throughput_w = 0.1326
+  Actual Throughput_w = 7.1605 Mbps
+  Throughput_w/N = 0.0088401 Mbps
+  Ptr_b = 0.31298
+  Psucc_b = 0.039538
+  Normalized Throughput_b = 0.012375
+  Actual Throughput_b = 3.0937 Kbps
+  Throughput_b/N = 0.00082497 Kbps
+*0.2652 0.012375
+======================================================================
+  N_w = 15
+  N_b = 20
+The roots from the default "fsolve" are: 
+  alpha = 0.9139
+  Pc = 0.073989
+  Pf = 0.9139
+  tau_w = 0.005067
+  tau_b = 5.5855e-005
+  Ptrw = 0.17734
+  Ptrb = 0.022957
+  Posw = 0.28152
+  Posb = 0.036865
+  channel busy prob = 0.96638
+  Ptr_w = 0.94651
+  Psucc_w = 0.13272
+  Normalized Throughput_w = 0.12562
+  Actual Throughput_w = 6.7836 Mbps
+  Throughput_w/N = 0.0083749 Mbps
+  Ptr_b = 0.37154
+  Psucc_b = 0.040683
+  Normalized Throughput_b = 0.015115
+  Actual Throughput_b = 3.7789 Kbps
+  Throughput_b/N = 0.00075577 Kbps
+*0.25125 0.015115
+======================================================================
+  N_w = 15
+  N_b = 25
+The roots from the default "fsolve" are: 
+  alpha = 0.91693
+  Pc = 0.072744
+  Pf = 0.91693
+  tau_w = 0.0049712
+  tau_b = 5.2292e-005
+  Ptrw = 0.17399
+  Ptrb = 0.021492
+  Posw = 0.27657
+  Posb = 0.034513
+  channel busy prob = 0.96697
+  Ptr_w = 0.94314
+  Psucc_w = 0.12694
+  Normalized Throughput_w = 0.11972
+  Actual Throughput_w = 6.465 Mbps
+  Throughput_w/N = 0.0079815 Mbps
+  Ptr_b = 0.41909
+  Psucc_b = 0.041683
+  Normalized Throughput_b = 0.017469
+  Actual Throughput_b = 4.3673 Kbps
+  Throughput_b/N = 0.00069876 Kbps
+*0.23944 0.017469
+======================================================================
+  N_w = 15
+  N_b = 30
+The roots from the default "fsolve" are: 
+  alpha = 0.91957
+  Pc = 0.071629
+  Pf = 0.91957
+  tau_w = 0.0048852
+  tau_b = 4.9263e-005
+  Ptrw = 0.17098
+  Ptrb = 0.020247
+  Posw = 0.27212
+  Posb = 0.032513
+  channel busy prob = 0.9675
+  Ptr_w = 0.93996
+  Psucc_w = 0.12196
+  Normalized Throughput_w = 0.11463
+  Actual Throughput_w = 6.1903 Mbps
+  Throughput_w/N = 0.0076423 Mbps
+  Ptr_b = 0.45862
+  Psucc_b = 0.042569
+  Normalized Throughput_b = 0.019523
+  Actual Throughput_b = 4.8808 Kbps
+  Throughput_b/N = 0.00065078 Kbps
+*0.22927 0.019523

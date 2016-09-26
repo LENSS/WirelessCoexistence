@@ -1,0 +1,193 @@
+All warnings have the state 'off'.
+**************************Markov Chain Model***************************
+******************************start************************************
+  Phi = 0.2
+  Wi = 310
+  BMAC packet size = 68
+  BMAC raw packet timeslots = 74
+  BMAC arrival rate = 1
+  WiFi packet size = 1540
+  WiFi raw packet timeslots = 30
+  WiFi arrival rate = 10
+======================================================================
+  N_w = 5
+  N_b = 20
+  Total Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+======================================================================
+  ########Trying W0=4
+  ########Trying Wc=4
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.99083
+  Pc = 0.51587
+  Pf = 0.99114
+  Wc = 14.7205
+  W0 = 19.6339
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 50 packets/s, or 0.616 Mbits/s
+  Arr_b = 20 packets/s, or 10.88 Kbits/s
+  mean_w = 71431.8901 us
+  mean_b = 53291.5345 us
+  capacity_w = 0.86236 Mbits/s
+  capacity_b = 204.16 Kbits/s
+  Srv_w = 0.00013999
+  Srv_b = 0.00018765
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.28568
+  Pb = 0.94671
+  b001 = 0.00011368
+  tau_w = 0.0070442
+  b000 = 0.0001543
+  tau_b = 0.034256
+  StdVar_w = 20517.9171
+  theta_w = -3.9993e-05
+  delta_w = 0.028724
+  Q_w = 10.3148
+  delay_w = 1031484.871 us
+  StdVar_b = 6582.8677
+  theta_b = -0.00017765
+  delta_b = 0.0039062
+  Q_b = 0.042946
+  delay_b = 42946.3017 us
+  aggrThr_trps_w = 0.616 Mbps
+  aggrThr_trps_b = 9.1288 Kbps
+  Throughput_all = 0.47664
+**************************Markov Chain Model***************************
+******************************start************************************
+  Phi = 0.2
+  Wi = 310
+  BMAC packet size = 68
+  BMAC raw packet timeslots = 74
+  BMAC arrival rate = 1
+  WiFi packet size = 1540
+  WiFi raw packet timeslots = 30
+  WiFi arrival rate = 10
+======================================================================
+  N_w = 10
+  N_b = 20
+  Total Arr_w = 100 packets/s, or 1.232 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+======================================================================
+  ########Trying W0=4
+  ########Trying Wc=4
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.98911
+  Pc = 0.44898
+  Pf = 0.9895
+  Wc = 24.2577
+  W0 = 39.6461
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 100 packets/s, or 1.232 Mbits/s
+  Arr_b = 20 packets/s, or 10.88 Kbits/s
+  mean_w = 87739.0876 us
+  mean_b = 71711.2402 us
+  capacity_w = 1.4042 Mbits/s
+  capacity_b = 151.7196 Kbits/s
+  Srv_w = 0.00011397
+  Srv_b = 0.00013945
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.12261
+  Pb = 0.92829
+  b001 = 0.00010116
+  tau_w = 0.0055075
+  b000 = 0.00012137
+  tau_b = 0.026944
+  StdVar_w = 29823.3249
+  theta_w = -1.3974e-05
+  delta_w = 0.033991
+  Q_w = 39.4274
+  delay_w = 3942744.5297 us
+  StdVar_b = 9192.9923
+  theta_b = -0.00012945
+  delta_b = 0.0040539
+  Q_b = 0.063477
+  delay_b = 63476.5735 us
+  aggrThr_trps_w = 1.232 Mbps
+  aggrThr_trps_b = 9.6025 Kbps
+  Throughput_all = 0.50611
+**************************Markov Chain Model***************************
+******************************start************************************
+  Phi = 0.2
+  Wi = 310
+  BMAC packet size = 68
+  BMAC raw packet timeslots = 74
+  BMAC arrival rate = 1
+  WiFi packet size = 1540
+  WiFi raw packet timeslots = 30
+  WiFi arrival rate = 10
+======================================================================
+  N_w = 20
+  N_b = 20
+  Total Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+======================================================================
+  ########Trying W0=4
+  ########Trying Wc=4
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.98818
+  Pc = 0.43857
+  Pf = 0.98862
+  Wc = 30.6324
+  W0 = 50.7222
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 20 packets/s, or 10.88 Kbits/s
+  mean_w = 98524.5797 us
+  mean_b = 82445.1188 us
+  capacity_w = 2.5009 Mbits/s
+  capacity_b = 131.9666 Kbits/s
+  Srv_w = 0.0001015
+  Srv_b = 0.00012129
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.014754
+  Pb = 0.91755
+  b001 = 9.1301e-05
+  tau_w = 0.0048787
+  b000 = 0.00010778
+  tau_b = 0.023926
+  StdVar_w = 35719.7811
+  theta_w = -1.4975e-06
+  delta_w = 0.036255
+  Q_w = 33.8307
+  delay_w = 3383074.1423 us
+  StdVar_b = 10714.9381
+  theta_b = -0.00011129
+  delta_b = 0.0041098
+  Q_b = 0.075884
+  delay_b = 75884.3706 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 9.6832 Kbps
+  Throughput_all = 0.50269

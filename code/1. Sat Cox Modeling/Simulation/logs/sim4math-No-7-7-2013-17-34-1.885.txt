@@ -1,0 +1,6 @@
+{Undefined function 'coexist_infocom' for input arguments of type 'double'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('autotest', 'F:\Dropbox\work\coexistence\simulation\autotest.m', 158)" style="font-weight:bold">autotest</a> (<a href="matlab: opentoline('F:\Dropbox\work\coexistence\simulation\autotest.m',158,0)">line 158</a>)
+         coexist_infocom(1000000, 10, 10, 10, 10, 5, 10, 1500, 310, 70, 128);
+} 
+autotest(10)

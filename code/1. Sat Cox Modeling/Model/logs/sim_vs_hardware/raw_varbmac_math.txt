@@ -1,0 +1,3121 @@
+***********************************************************************
+  run number = 1
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65214
+  Pc = 0.58108
+  Pf = 0.65214
+  tau_w = 0.0048734
+  tau_b = 0.0004073
+  Ptrw = 0.17057
+  Ptrb = 0.1674
+  Posw = 0.35214
+  Posb = 0.26882
+  channel busy prob = 0.65214
+  Ptr_w = 0.0097231
+  Psucc_w = 0.99593
+  Pcolli_w = 0.0040669
+  Posd_w = 1
+  Pbo_w = 0.2278
+  Throughput_w = 15.7889 Mbps
+  Throughput_w/N = 7.8945 Mbps
+  Ptr_b = 0.0016282
+  Psucc_b = 0.98967
+  Pcolli_b = 0.010328
+  Posd_b = 1
+  Pbo_b = 0.10103
+  Throughput_b = 80.7026 Kbps
+  Throughput_b/N = 20.1756 Kbps
+======================================================================
+15.7889 80.7026
+***********************************************************************
+  run number = 2
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65732
+  Pc = 0.59127
+  Pf = 0.65732
+  tau_w = 0.0046405
+  tau_b = 0.00042264
+  Ptrw = 0.16242
+  Ptrb = 0.17371
+  Posw = 0.3321
+  Posb = 0.27894
+  channel busy prob = 0.65732
+  Ptr_w = 0.0092595
+  Psucc_w = 0.99599
+  Pcolli_w = 0.0040112
+  Posd_w = 1
+  Pbo_w = 0.25552
+  Throughput_w = 15.2531 Mbps
+  Throughput_w/N = 7.6265 Mbps
+  Ptr_b = 0.0016895
+  Psucc_b = 0.99011
+  Pcolli_b = 0.0098876
+  Posd_b = 1
+  Pbo_b = 0.089755
+  Throughput_b = 82.4976 Kbps
+  Throughput_b/N = 20.6244 Kbps
+======================================================================
+15.2531 82.4976
+***********************************************************************
+  run number = 3
+  Wi = 160
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.66284
+  Pc = 0.60175
+  Pf = 0.66284
+  tau_w = 0.0044025
+  tau_b = 0.00043849
+  Ptrw = 0.15409
+  Ptrb = 0.18022
+  Posw = 0.31201
+  Posb = 0.2894
+  channel busy prob = 0.66284
+  Ptr_w = 0.0087857
+  Psucc_w = 0.99604
+  Pcolli_w = 0.0039551
+  Posd_w = 1
+  Pbo_w = 0.28506
+  Throughput_w = 14.6732 Mbps
+  Throughput_w/N = 7.3366 Mbps
+  Ptr_b = 0.0017528
+  Psucc_b = 0.99056
+  Pcolli_b = 0.0094377
+  Posd_b = 1
+  Pbo_b = 0.07913
+  Throughput_b = 84.1749 Kbps
+  Throughput_b/N = 21.0437 Kbps
+======================================================================
+14.6732 84.1749
+***********************************************************************
+  run number = 4
+  Wi = 80
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.6687
+  Pc = 0.61249
+  Pf = 0.6687
+  tau_w = 0.0041616
+  tau_b = 0.00045473
+  Ptrw = 0.14566
+  Ptrb = 0.18689
+  Posw = 0.29206
+  Posb = 0.30012
+  channel busy prob = 0.6687
+  Ptr_w = 0.0083059
+  Psucc_w = 0.9961
+  Pcolli_w = 0.003899
+  Posd_w = 1
+  Pbo_w = 0.31616
+  Throughput_w = 14.0541 Mbps
+  Throughput_w/N = 7.0271 Mbps
+  Ptr_b = 0.0018177
+  Psucc_b = 0.99102
+  Pcolli_b = 0.0089824
+  Posd_b = 1
+  Pbo_b = 0.069249
+  Throughput_b = 85.7175 Kbps
+  Throughput_b/N = 21.4294 Kbps
+======================================================================
+14.0541 85.7175
+***********************************************************************
+  run number = 5
+  Wi = 320
+  Wc = 60
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.66154
+  Pc = 0.59947
+  Pf = 0.66154
+  tau_w = 0.004455
+  tau_b = 0.00043851
+  Ptrw = 0.15592
+  Ptrb = 0.18023
+  Posw = 0.31632
+  Posb = 0.28942
+  channel busy prob = 0.66154
+  Ptr_w = 0.0088901
+  Psucc_w = 0.99602
+  Pcolli_w = 0.0039814
+  Posd_w = 1
+  Pbo_w = 0.27853
+  Throughput_w = 14.8024 Mbps
+  Throughput_w/N = 7.4012 Mbps
+  Ptr_b = 0.0017529
+  Psucc_b = 0.99046
+  Pcolli_b = 0.0095421
+  Posd_b = 1
+  Pbo_b = 0.079114
+  Throughput_b = 84.1684 Kbps
+  Throughput_b/N = 21.0421 Kbps
+======================================================================
+14.8024 84.1684
+***********************************************************************
+  run number = 6
+  Wi = 240
+  Wc = 60
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.66778
+  Pc = 0.61096
+  Pf = 0.66778
+  tau_w = 0.0041965
+  tau_b = 0.0004564
+  Ptrw = 0.14688
+  Ptrb = 0.18758
+  Posw = 0.29485
+  Posb = 0.30122
+  channel busy prob = 0.66778
+  Ptr_w = 0.0083754
+  Psucc_w = 0.99608
+  Pcolli_w = 0.0039232
+  Posd_w = 1
+  Pbo_w = 0.31167
+  Throughput_w = 14.1444 Mbps
+  Throughput_w/N = 7.0722 Mbps
+  Ptr_b = 0.0018243
+  Psucc_b = 0.99095
+  Pcolli_b = 0.0090543
+  Posd_b = 1
+  Pbo_b = 0.06829
+  Throughput_b = 85.8558 Kbps
+  Throughput_b/N = 21.4639 Kbps
+======================================================================
+14.1444 85.8558
+***********************************************************************
+  run number = 7
+  Wi = 160
+  Wc = 60
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.67446
+  Pc = 0.62277
+  Pf = 0.67446
+  tau_w = 0.0039349
+  tau_b = 0.00047486
+  Ptrw = 0.13772
+  Ptrb = 0.19517
+  Posw = 0.27358
+  Posb = 0.31341
+  channel busy prob = 0.67446
+  Ptr_w = 0.0078544
+  Psucc_w = 0.99613
+  Pcolli_w = 0.0038657
+  Posd_w = 1
+  Pbo_w = 0.34656
+  Throughput_w = 13.4423 Mbps
+  Throughput_w/N = 6.7212 Mbps
+  Ptr_b = 0.0018981
+  Psucc_b = 0.99144
+  Pcolli_b = 0.0085611
+  Posd_b = 1
+  Pbo_b = 0.058322
+  Throughput_b = 87.3861 Kbps
+  Throughput_b/N = 21.8465 Kbps
+======================================================================
+13.4423 87.3861
+***********************************************************************
+  run number = 8
+  Wi = 80
+  Wc = 60
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.68156
+  Pc = 0.63482
+  Pf = 0.68156
+  tau_w = 0.0036736
+  tau_b = 0.00049375
+  Ptrw = 0.12858
+  Ptrb = 0.20293
+  Posw = 0.25277
+  Posb = 0.32587
+  channel busy prob = 0.68156
+  Ptr_w = 0.0073338
+  Psucc_w = 0.99619
+  Pcolli_w = 0.0038101
+  Posd_w = 1
+  Pbo_w = 0.38273
+  Throughput_w = 12.7064 Mbps
+  Throughput_w/N = 6.3532 Mbps
+  Ptr_b = 0.0019735
+  Psucc_b = 0.99193
+  Pcolli_b = 0.0080691
+  Posd_b = 1
+  Pbo_b = 0.049296
+  Throughput_b = 88.7466 Kbps
+  Throughput_b/N = 22.1867 Kbps
+======================================================================
+12.7064 88.7466
+***********************************************************************
+  run number = 9
+  Wi = 320
+  Wc = 40
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.67426
+  Pc = 0.62256
+  Pf = 0.67426
+  tau_w = 0.0039403
+  tau_b = 0.00047799
+  Ptrw = 0.13791
+  Ptrb = 0.19645
+  Posw = 0.27394
+  Posb = 0.31547
+  channel busy prob = 0.67426
+  Ptr_w = 0.0078651
+  Psucc_w = 0.99612
+  Pcolli_w = 0.0038809
+  Posd_w = 1
+  Pbo_w = 0.34591
+  Throughput_w = 13.4559 Mbps
+  Throughput_w/N = 6.728 Mbps
+  Ptr_b = 0.0019106
+  Psucc_b = 0.99142
+  Pcolli_b = 0.0085765
+  Posd_b = 1
+  Pbo_b = 0.056746
+  Throughput_b = 87.6168 Kbps
+  Throughput_b/N = 21.9042 Kbps
+======================================================================
+13.4559 87.6168
+***********************************************************************
+  run number = 10
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.68215
+  Pc = 0.63592
+  Pf = 0.68215
+  tau_w = 0.0036508
+  tau_b = 0.00049956
+  Ptrw = 0.12778
+  Ptrb = 0.20532
+  Posw = 0.2509
+  Posb = 0.32971
+  channel busy prob = 0.68215
+  Ptr_w = 0.0072882
+  Psucc_w = 0.99618
+  Pcolli_w = 0.0038218
+  Posd_w = 1
+  Pbo_w = 0.38604
+  Throughput_w = 12.6391 Mbps
+  Throughput_w/N = 6.3196 Mbps
+  Ptr_b = 0.0019967
+  Psucc_b = 0.99197
+  Pcolli_b = 0.0080321
+  Posd_b = 1
+  Pbo_b = 0.046742
+  Throughput_b = 89.1166 Kbps
+  Throughput_b/N = 22.2792 Kbps
+======================================================================
+12.6391 89.1166
+***********************************************************************
+  run number = 11
+  Wi = 160
+  Wc = 40
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.69064
+  Pc = 0.64965
+  Pf = 0.69064
+  tau_w = 0.0033622
+  tau_b = 0.00052186
+  Ptrw = 0.11768
+  Ptrb = 0.21448
+  Posw = 0.22846
+  Posb = 0.34443
+  channel busy prob = 0.69064
+  Ptr_w = 0.0067131
+  Psucc_w = 0.99623
+  Pcolli_w = 0.0037662
+  Posd_w = 1
+  Pbo_w = 0.42753
+  Throughput_w = 11.7859 Mbps
+  Throughput_w/N = 5.8929 Mbps
+  Ptr_b = 0.0020858
+  Psucc_b = 0.99251
+  Pcolli_b = 0.0074907
+  Posd_b = 1
+  Pbo_b = 0.037854
+  Throughput_b = 90.4171 Kbps
+  Throughput_b/N = 22.6043 Kbps
+======================================================================
+11.7859 90.4171
+***********************************************************************
+  run number = 12
+  Wi = 80
+  Wc = 40
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.69967
+  Pc = 0.6636
+  Pf = 0.69967
+  tau_w = 0.0030796
+  tau_b = 0.00054462
+  Ptrw = 0.10779
+  Ptrb = 0.22384
+  Posw = 0.20697
+  Posb = 0.35945
+  channel busy prob = 0.69967
+  Ptr_w = 0.0061497
+  Psucc_w = 0.99628
+  Pcolli_w = 0.0037155
+  Posd_w = 1
+  Pbo_w = 0.46956
+  Throughput_w = 10.9148 Mbps
+  Throughput_w/N = 5.4574 Mbps
+  Ptr_b = 0.0021767
+  Psucc_b = 0.99304
+  Pcolli_b = 0.0069617
+  Posd_b = 1
+  Pbo_b = 0.030155
+  Throughput_b = 91.5143 Kbps
+  Throughput_b/N = 22.8786 Kbps
+======================================================================
+10.9148 91.5143
+***********************************************************************
+  run number = 13
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63919
+  Pc = 0.55383
+  Pf = 0.63919
+  tau_w = 0.0054969
+  tau_b = 0.00043091
+  Ptrw = 0.19239
+  Ptrb = 0.14995
+  Posw = 0.40784
+  Posb = 0.2844
+  channel busy prob = 0.63919
+  Ptr_w = 0.010964
+  Psucc_w = 0.99553
+  Pcolli_w = 0.0044738
+  Posd_w = 1
+  Pbo_w = 0.15981
+  Throughput_w = 17.058 Mbps
+  Throughput_w/N = 8.529 Mbps
+  Ptr_b = 0.0017225
+  Psucc_b = 0.9884
+  Pcolli_b = 0.011603
+  Posd_b = 1
+  Pbo_b = 0.10237
+  Throughput_b = 72.1325 Kbps
+  Throughput_b/N = 18.0331 Kbps
+======================================================================
+17.058 72.1325
+***********************************************************************
+  run number = 14
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.64409
+  Pc = 0.56438
+  Pf = 0.64409
+  tau_w = 0.0052557
+  tau_b = 0.00044907
+  Ptrw = 0.18395
+  Ptrb = 0.15628
+  Posw = 0.38597
+  Posb = 0.29638
+  channel busy prob = 0.64409
+  Ptr_w = 0.010484
+  Psucc_w = 0.99557
+  Pcolli_w = 0.0044251
+  Posd_w = 1
+  Pbo_w = 0.18497
+  Throughput_w = 16.5942 Mbps
+  Throughput_w/N = 8.2971 Mbps
+  Ptr_b = 0.0017951
+  Psucc_b = 0.98885
+  Pcolli_b = 0.01115
+  Posd_b = 1
+  Pbo_b = 0.089749
+  Throughput_b = 73.9331 Kbps
+  Throughput_b/N = 18.4833 Kbps
+======================================================================
+16.5942 73.9331
+***********************************************************************
+  run number = 15
+  Wi = 160
+  Wc = 80
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.64937
+  Pc = 0.57537
+  Pf = 0.64937
+  tau_w = 0.0050037
+  tau_b = 0.00046811
+  Ptrw = 0.17513
+  Ptrb = 0.1629
+  Posw = 0.36359
+  Posb = 0.30895
+  channel busy prob = 0.64937
+  Ptr_w = 0.0099824
+  Psucc_w = 0.99563
+  Pcolli_w = 0.0043746
+  Posd_w = 1
+  Pbo_w = 0.21278
+  Throughput_w = 16.0709 Mbps
+  Throughput_w/N = 8.0355 Mbps
+  Ptr_b = 0.0018711
+  Psucc_b = 0.98932
+  Pcolli_b = 0.010678
+  Posd_b = 1
+  Pbo_b = 0.077807
+  Throughput_b = 75.6204 Kbps
+  Throughput_b/N = 18.9051 Kbps
+======================================================================
+16.0709 75.6204
+***********************************************************************
+  run number = 16
+  Wi = 80
+  Wc = 80
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65506
+  Pc = 0.58676
+  Pf = 0.65506
+  tau_w = 0.0047428
+  tau_b = 0.00048794
+  Ptrw = 0.166
+  Ptrb = 0.1698
+  Posw = 0.34091
+  Posb = 0.32204
+  channel busy prob = 0.65506
+  Ptr_w = 0.0094631
+  Psucc_w = 0.99568
+  Pcolli_w = 0.0043227
+  Posd_w = 1
+  Pbo_w = 0.24314
+  Throughput_w = 15.4886 Mbps
+  Throughput_w/N = 7.7443 Mbps
+  Ptr_b = 0.0019503
+  Psucc_b = 0.98981
+  Pcolli_b = 0.010188
+  Posd_b = 1
+  Pbo_b = 0.066681
+  Throughput_b = 77.1721 Kbps
+  Throughput_b/N = 19.293 Kbps
+======================================================================
+15.4886 77.1721
+***********************************************************************
+  run number = 17
+  Wi = 320
+  Wc = 60
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.64715
+  Pc = 0.57095
+  Pf = 0.64715
+  tau_w = 0.0051058
+  tau_b = 0.00046452
+  Ptrw = 0.1787
+  Ptrb = 0.16165
+  Posw = 0.37251
+  Posb = 0.30658
+  channel busy prob = 0.64715
+  Ptr_w = 0.010186
+  Psucc_w = 0.99559
+  Pcolli_w = 0.0044115
+  Posd_w = 1
+  Pbo_w = 0.20141
+  Throughput_w = 16.2863 Mbps
+  Throughput_w/N = 8.1431 Mbps
+  Ptr_b = 0.0018568
+  Psucc_b = 0.98912
+  Pcolli_b = 0.010875
+  Posd_b = 1
+  Pbo_b = 0.07996
+  Throughput_b = 75.3094 Kbps
+  Throughput_b/N = 18.8273 Kbps
+======================================================================
+16.2863 75.3094
+***********************************************************************
+  run number = 18
+  Wi = 240
+  Wc = 60
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65303
+  Pc = 0.5829
+  Pf = 0.65303
+  tau_w = 0.0048319
+  tau_b = 0.00048586
+  Ptrw = 0.16912
+  Ptrb = 0.16908
+  Posw = 0.3485
+  Posb = 0.32067
+  channel busy prob = 0.65303
+  Ptr_w = 0.0096404
+  Psucc_w = 0.99564
+  Pcolli_w = 0.0043591
+  Posd_w = 1
+  Pbo_w = 0.23269
+  Throughput_w = 15.6904 Mbps
+  Throughput_w/N = 7.8452 Mbps
+  Ptr_b = 0.001942
+  Psucc_b = 0.98964
+  Pcolli_b = 0.010362
+  Posd_b = 1
+  Pbo_b = 0.067786
+  Throughput_b = 77.0095 Kbps
+  Throughput_b/N = 19.2524 Kbps
+======================================================================
+15.6904 77.0095
+***********************************************************************
+  run number = 19
+  Wi = 160
+  Wc = 60
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65942
+  Pc = 0.59537
+  Pf = 0.65942
+  tau_w = 0.0045475
+  tau_b = 0.00050829
+  Ptrw = 0.15916
+  Ptrb = 0.17689
+  Posw = 0.32416
+  Posb = 0.33547
+  channel busy prob = 0.65942
+  Ptr_w = 0.0090743
+  Psucc_w = 0.99569
+  Pcolli_w = 0.0043059
+  Posd_w = 1
+  Pbo_w = 0.26695
+  Throughput_w = 15.025 Mbps
+  Throughput_w/N = 7.5125 Mbps
+  Ptr_b = 0.0020316
+  Psucc_b = 0.99017
+  Pcolli_b = 0.0098299
+  Posd_b = 1
+  Pbo_b = 0.056547
+  Throughput_b = 78.5517 Kbps
+  Throughput_b/N = 19.6379 Kbps
+======================================================================
+15.025 78.5517
+***********************************************************************
+  run number = 20
+  Wi = 80
+  Wc = 60
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.66635
+  Pc = 0.60829
+  Pf = 0.66635
+  tau_w = 0.0042559
+  tau_b = 0.00053166
+  Ptrw = 0.14896
+  Ptrb = 0.18502
+  Posw = 0.29979
+  Posb = 0.3509
+  channel busy prob = 0.66635
+  Ptr_w = 0.0084936
+  Psucc_w = 0.99575
+  Pcolli_w = 0.0042529
+  Posd_w = 1
+  Pbo_w = 0.30389
+  Throughput_w = 14.2949 Mbps
+  Throughput_w/N = 7.1474 Mbps
+  Ptr_b = 0.0021249
+  Psucc_b = 0.99072
+  Pcolli_b = 0.0092844
+  Posd_b = 1
+  Pbo_b = 0.046387
+  Throughput_b = 79.9167 Kbps
+  Throughput_b/N = 19.9792 Kbps
+======================================================================
+14.2949 79.9167
+***********************************************************************
+  run number = 21
+  Wi = 320
+  Wc = 40
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65774
+  Pc = 0.59231
+  Pf = 0.65774
+  tau_w = 0.0046179
+  tau_b = 0.00050672
+  Ptrw = 0.16163
+  Ptrb = 0.17634
+  Posw = 0.33005
+  Posb = 0.33444
+  channel busy prob = 0.65774
+  Ptr_w = 0.0092146
+  Psucc_w = 0.99567
+  Pcolli_w = 0.004335
+  Posd_w = 1
+  Pbo_w = 0.25839
+  Throughput_w = 15.1928 Mbps
+  Throughput_w/N = 7.5964 Mbps
+  Ptr_b = 0.0020253
+  Psucc_b = 0.99003
+  Pcolli_b = 0.0099677
+  Posd_b = 1
+  Pbo_b = 0.057284
+  Throughput_b = 78.4435 Kbps
+  Throughput_b/N = 19.6109 Kbps
+======================================================================
+15.1928 78.4435
+***********************************************************************
+  run number = 22
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.66517
+  Pc = 0.60628
+  Pf = 0.66517
+  tau_w = 0.0043016
+  tau_b = 0.00053264
+  Ptrw = 0.15056
+  Ptrb = 0.18536
+  Posw = 0.30348
+  Posb = 0.35154
+  channel busy prob = 0.66517
+  Ptr_w = 0.0085847
+  Psucc_w = 0.99572
+  Pcolli_w = 0.0042797
+  Posd_w = 1
+  Pbo_w = 0.29807
+  Throughput_w = 14.4109 Mbps
+  Throughput_w/N = 7.2055 Mbps
+  Ptr_b = 0.0021288
+  Psucc_b = 0.99062
+  Pcolli_b = 0.0093768
+  Posd_b = 1
+  Pbo_b = 0.045995
+  Throughput_b = 79.9593 Kbps
+  Throughput_b/N = 19.9898 Kbps
+======================================================================
+14.4109 79.9593
+***********************************************************************
+  run number = 23
+  Wi = 160
+  Wc = 40
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.67333
+  Pc = 0.6209
+  Pf = 0.67333
+  tau_w = 0.0039765
+  tau_b = 0.00055999
+  Ptrw = 0.13918
+  Ptrb = 0.19488
+  Posw = 0.27689
+  Posb = 0.36959
+  channel busy prob = 0.67333
+  Ptr_w = 0.0079372
+  Psucc_w = 0.99577
+  Pcolli_w = 0.0042258
+  Posd_w = 1
+  Pbo_w = 0.34098
+  Throughput_w = 13.5508 Mbps
+  Throughput_w/N = 6.7754 Mbps
+  Ptr_b = 0.0022381
+  Psucc_b = 0.99123
+  Pcolli_b = 0.0087706
+  Posd_b = 1
+  Pbo_b = 0.035981
+  Throughput_b = 81.2676 Kbps
+  Throughput_b/N = 20.3169 Kbps
+======================================================================
+13.5508 81.2676
+***********************************************************************
+  run number = 24
+  Wi = 80
+  Wc = 40
+  BMAC packet size = 108
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.68224
+  Pc = 0.63603
+  Pf = 0.68224
+  tau_w = 0.0036482
+  tau_b = 0.00058854
+  Ptrw = 0.12769
+  Ptrb = 0.20481
+  Posw = 0.25073
+  Posb = 0.38844
+  channel busy prob = 0.68224
+  Ptr_w = 0.0072832
+  Psucc_w = 0.99582
+  Pcolli_w = 0.0041752
+  Posd_w = 1
+  Pbo_w = 0.38636
+  Throughput_w = 12.6278 Mbps
+  Throughput_w/N = 6.3139 Mbps
+  Ptr_b = 0.0023521
+  Psucc_b = 0.99184
+  Pcolli_b = 0.0081597
+  Posd_b = 1
+  Pbo_b = 0.027373
+  Throughput_b = 82.3584 Kbps
+  Throughput_b/N = 20.5896 Kbps
+======================================================================
+12.6278 82.3584
+***********************************************************************
+  run number = 25
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.62454
+  Pc = 0.52013
+  Pf = 0.62454
+  tau_w = 0.0062505
+  tau_b = 0.00045818
+  Ptrw = 0.21877
+  Ptrb = 0.12921
+  Posw = 0.47932
+  Posb = 0.3024
+  channel busy prob = 0.62454
+  Ptr_w = 0.012462
+  Psucc_w = 0.99504
+  Pcolli_w = 0.0049608
+  Posd_w = 1
+  Pbo_w = 0.091151
+  Throughput_w = 18.2604 Mbps
+  Throughput_w/N = 9.1302 Mbps
+  Ptr_b = 0.0018315
+  Psucc_b = 0.98686
+  Pcolli_b = 0.013141
+  Posd_b = 1
+  Pbo_b = 0.10437
+  Throughput_b = 62.4456 Kbps
+  Throughput_b/N = 15.6114 Kbps
+======================================================================
+18.2604 62.4456
+***********************************************************************
+  run number = 26
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.6291
+  Pc = 0.53086
+  Pf = 0.6291
+  tau_w = 0.0060139
+  tau_b = 0.00047983
+  Ptrw = 0.21049
+  Ptrb = 0.13531
+  Posw = 0.45641
+  Posb = 0.31669
+  channel busy prob = 0.6291
+  Ptr_w = 0.011992
+  Psucc_w = 0.99507
+  Pcolli_w = 0.0049282
+  Posd_w = 1
+  Pbo_w = 0.11096
+  Throughput_w = 17.9213 Mbps
+  Throughput_w/N = 8.9606 Mbps
+  Ptr_b = 0.001918
+  Psucc_b = 0.9873
+  Pcolli_b = 0.012703
+  Posd_b = 1
+  Pbo_b = 0.090181
+  Throughput_b = 64.1992 Kbps
+  Throughput_b/N = 16.0498 Kbps
+======================================================================
+17.9213 64.1992
+***********************************************************************
+  run number = 27
+  Wi = 160
+  Wc = 80
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63404
+  Pc = 0.5422
+  Pf = 0.63404
+  tau_w = 0.0057599
+  tau_b = 0.00050294
+  Ptrw = 0.2016
+  Ptrb = 0.14183
+  Posw = 0.43232
+  Posb = 0.33194
+  channel busy prob = 0.63404
+  Ptr_w = 0.011487
+  Psucc_w = 0.99511
+  Pcolli_w = 0.0048927
+  Posd_w = 1
+  Pbo_w = 0.13402
+  Throughput_w = 17.5161 Mbps
+  Throughput_w/N = 8.7581 Mbps
+  Ptr_b = 0.0020102
+  Psucc_b = 0.98777
+  Pcolli_b = 0.012232
+  Posd_b = 1
+  Pbo_b = 0.076686
+  Throughput_b = 65.8485 Kbps
+  Throughput_b/N = 16.4621 Kbps
+======================================================================
+17.5161 65.8485
+***********************************************************************
+  run number = 28
+  Wi = 80
+  Wc = 80
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63941
+  Pc = 0.55414
+  Pf = 0.63941
+  tau_w = 0.005489
+  tau_b = 0.00052747
+  Ptrw = 0.19211
+  Ptrb = 0.14875
+  Posw = 0.40722
+  Posb = 0.34813
+  channel busy prob = 0.63941
+  Ptr_w = 0.010948
+  Psucc_w = 0.99515
+  Pcolli_w = 0.0048545
+  Posd_w = 1
+  Pbo_w = 0.16053
+  Throughput_w = 17.038 Mbps
+  Throughput_w/N = 8.519 Mbps
+  Ptr_b = 0.0021082
+  Psucc_b = 0.98827
+  Pcolli_b = 0.01173
+  Posd_b = 1
+  Pbo_b = 0.064076
+  Throughput_b = 67.3659 Kbps
+  Throughput_b/N = 16.8415 Kbps
+======================================================================
+17.038 67.3659
+***********************************************************************
+  run number = 29
+  Wi = 320
+  Wc = 60
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63102
+  Pc = 0.5355
+  Pf = 0.63102
+  tau_w = 0.0059113
+  tau_b = 0.00049431
+  Ptrw = 0.2069
+  Ptrb = 0.13939
+  Posw = 0.4465
+  Posb = 0.32624
+  channel busy prob = 0.63102
+  Ptr_w = 0.011788
+  Psucc_w = 0.99507
+  Pcolli_w = 0.0049343
+  Posd_w = 1
+  Pbo_w = 0.12014
+  Throughput_w = 17.7612 Mbps
+  Throughput_w/N = 8.8806 Mbps
+  Ptr_b = 0.0019758
+  Psucc_b = 0.98748
+  Pcolli_b = 0.01252
+  Posd_b = 1
+  Pbo_b = 0.081536
+  Throughput_b = 65.2508 Kbps
+  Throughput_b/N = 16.3127 Kbps
+======================================================================
+17.7612 65.2508
+***********************************************************************
+  run number = 30
+  Wi = 240
+  Wc = 60
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63639
+  Pc = 0.54768
+  Pf = 0.63639
+  tau_w = 0.0056368
+  tau_b = 0.00051993
+  Ptrw = 0.19729
+  Ptrb = 0.14662
+  Posw = 0.42072
+  Posb = 0.34316
+  channel busy prob = 0.63639
+  Ptr_w = 0.011242
+  Psucc_w = 0.9951
+  Pcolli_w = 0.0048986
+  Posd_w = 1
+  Pbo_w = 0.14592
+  Throughput_w = 17.303 Mbps
+  Throughput_w/N = 8.6515 Mbps
+  Ptr_b = 0.0020781
+  Psucc_b = 0.98799
+  Pcolli_b = 0.012013
+  Posd_b = 1
+  Pbo_b = 0.06777
+  Throughput_b = 66.9155 Kbps
+  Throughput_b/N = 16.7289 Kbps
+======================================================================
+17.303 66.9155
+***********************************************************************
+  run number = 31
+  Wi = 160
+  Wc = 60
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.6423
+  Pc = 0.5606
+  Pf = 0.6423
+  tau_w = 0.0053424
+  tau_b = 0.00054744
+  Ptrw = 0.18698
+  Ptrb = 0.15438
+  Posw = 0.39375
+  Posb = 0.36131
+  channel busy prob = 0.6423
+  Ptr_w = 0.010656
+  Psucc_w = 0.99514
+  Pcolli_w = 0.0048604
+  Posd_w = 1
+  Pbo_w = 0.17579
+  Throughput_w = 16.7577 Mbps
+  Throughput_w/N = 8.3789 Mbps
+  Ptr_b = 0.002188
+  Psucc_b = 0.98853
+  Pcolli_b = 0.011469
+  Posd_b = 1
+  Pbo_b = 0.055018
+  Throughput_b = 68.4268 Kbps
+  Throughput_b/N = 17.1067 Kbps
+======================================================================
+16.7577 68.4268
+***********************************************************************
+  run number = 32
+  Wi = 80
+  Wc = 60
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.6488
+  Pc = 0.57424
+  Pf = 0.6488
+  tau_w = 0.0050298
+  tau_b = 0.00057678
+  Ptrw = 0.17604
+  Ptrb = 0.16265
+  Posw = 0.36585
+  Posb = 0.38067
+  channel busy prob = 0.6488
+  Ptr_w = 0.010034
+  Psucc_w = 0.99518
+  Pcolli_w = 0.0048205
+  Posd_w = 1
+  Pbo_w = 0.20986
+  Throughput_w = 16.1194 Mbps
+  Throughput_w/N = 8.0597 Mbps
+  Ptr_b = 0.0023051
+  Psucc_b = 0.98911
+  Pcolli_b = 0.010891
+  Posd_b = 1
+  Pbo_b = 0.043495
+  Throughput_b = 69.7584 Kbps
+  Throughput_b/N = 17.4396 Kbps
+======================================================================
+16.1194 69.7584
+***********************************************************************
+  run number = 33
+  Wi = 320
+  Wc = 40
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63941
+  Pc = 0.55451
+  Pf = 0.63941
+  tau_w = 0.0054823
+  tau_b = 0.00053926
+  Ptrw = 0.19188
+  Ptrb = 0.15207
+  Posw = 0.40639
+  Posb = 0.35591
+  channel busy prob = 0.63941
+  Ptr_w = 0.010935
+  Psucc_w = 0.9951
+  Pcolli_w = 0.0048981
+  Posd_w = 1
+  Pbo_w = 0.16139
+  Throughput_w = 17.0223 Mbps
+  Throughput_w/N = 8.5112 Mbps
+  Ptr_b = 0.0021553
+  Psucc_b = 0.98827
+  Pcolli_b = 0.011735
+  Posd_b = 1
+  Pbo_b = 0.058603
+  Throughput_b = 67.9983 Kbps
+  Throughput_b/N = 16.9996 Kbps
+======================================================================
+17.0223 67.9983
+***********************************************************************
+  run number = 34
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.64607
+  Pc = 0.56877
+  Pf = 0.64607
+  tau_w = 0.0051561
+  tau_b = 0.00057054
+  Ptrw = 0.18046
+  Ptrb = 0.16089
+  Posw = 0.37694
+  Posb = 0.37655
+  channel busy prob = 0.64607
+  Ptr_w = 0.010286
+  Psucc_w = 0.99514
+  Pcolli_w = 0.004859
+  Posd_w = 1
+  Pbo_w = 0.19589
+  Throughput_w = 16.383 Mbps
+  Throughput_w/N = 8.1915 Mbps
+  Ptr_b = 0.0022802
+  Psucc_b = 0.98887
+  Pcolli_b = 0.011133
+  Posd_b = 1
+  Pbo_b = 0.045777
+  Throughput_b = 69.4892 Kbps
+  Throughput_b/N = 17.3723 Kbps
+======================================================================
+16.383 69.4892
+***********************************************************************
+  run number = 35
+  Wi = 160
+  Wc = 40
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.65353
+  Pc = 0.58399
+  Pf = 0.65353
+  tau_w = 0.0048074
+  tau_b = 0.0006044
+  Ptrw = 0.16826
+  Ptrb = 0.17044
+  Posw = 0.34634
+  Posb = 0.3989
+  channel busy prob = 0.65353
+  Ptr_w = 0.0095917
+  Psucc_w = 0.99518
+  Pcolli_w = 0.0048191
+  Posd_w = 1
+  Pbo_w = 0.23561
+  Throughput_w = 15.6272 Mbps
+  Throughput_w/N = 7.8136 Mbps
+  Ptr_b = 0.0024154
+  Psucc_b = 0.98951
+  Pcolli_b = 0.01049
+  Posd_b = 1
+  Pbo_b = 0.034397
+  Throughput_b = 70.771 Kbps
+  Throughput_b/N = 17.6928 Kbps
+======================================================================
+15.6272 70.771
+***********************************************************************
+  run number = 36
+  Wi = 80
+  Wc = 40
+  BMAC packet size = 88
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.66189
+  Pc = 0.60013
+  Pf = 0.66189
+  tau_w = 0.00444
+  tau_b = 0.00064075
+  Ptrw = 0.1554
+  Ptrb = 0.18069
+  Posw = 0.31506
+  Posb = 0.42289
+  channel busy prob = 0.66189
+  Ptr_w = 0.0088602
+  Psucc_w = 0.99522
+  Pcolli_w = 0.0047798
+  Posd_w = 1
+  Pbo_w = 0.28041
+  Throughput_w = 14.7533 Mbps
+  Throughput_w/N = 7.3767 Mbps
+  Ptr_b = 0.0025605
+  Psucc_b = 0.99019
+  Pcolli_b = 0.009813
+  Posd_b = 1
+  Pbo_b = 0.024695
+  Throughput_b = 71.8256 Kbps
+  Throughput_b/N = 17.9564 Kbps
+======================================================================
+14.7533 71.8256
+***********************************************************************
+  run number = 37
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.60891
+  Pc = 0.48152
+  Pf = 0.60891
+  tau_w = 0.007055
+  tau_b = 0.0004875
+  Ptrw = 0.24692
+  Ptrb = 0.10676
+  Posw = 0.56118
+  Posb = 0.32175
+  channel busy prob = 0.60891
+  Ptr_w = 0.01406
+  Psucc_w = 0.99452
+  Pcolli_w = 0.0054817
+  Posd_w = 1
+  Pbo_w = 0.036824
+  Throughput_w = 19.1291 Mbps
+  Throughput_w/N = 9.5645 Mbps
+  Ptr_b = 0.0019486
+  Psucc_b = 0.98522
+  Pcolli_b = 0.014781
+  Posd_b = 1
+  Pbo_b = 0.10666
+  Throughput_b = 51.4445 Kbps
+  Throughput_b/N = 12.8611 Kbps
+======================================================================
+19.1291 51.4445
+***********************************************************************
+  run number = 38
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.61316
+  Pc = 0.49213
+  Pf = 0.61316
+  tau_w = 0.006842
+  tau_b = 0.00051308
+  Ptrw = 0.23947
+  Ptrb = 0.11236
+  Posw = 0.53896
+  Posb = 0.33863
+  channel busy prob = 0.61316
+  Ptr_w = 0.013637
+  Psucc_w = 0.99452
+  Pcolli_w = 0.0054764
+  Posd_w = 1
+  Pbo_w = 0.049095
+  Throughput_w = 18.9388 Mbps
+  Throughput_w/N = 9.4694 Mbps
+  Ptr_b = 0.0020507
+  Psucc_b = 0.9856
+  Pcolli_b = 0.014396
+  Posd_b = 1
+  Pbo_b = 0.090844
+  Throughput_b = 53.06 Kbps
+  Throughput_b/N = 13.265 Kbps
+======================================================================
+18.9388 53.06
+***********************************************************************
+  run number = 39
+  Wi = 160
+  Wc = 80
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.61777
+  Pc = 0.50351
+  Pf = 0.61777
+  tau_w = 0.0066061
+  tau_b = 0.00054086
+  Ptrw = 0.23121
+  Ptrb = 0.11845
+  Posw = 0.51485
+  Posb = 0.35696
+  channel busy prob = 0.61777
+  Ptr_w = 0.013168
+  Psucc_w = 0.99453
+  Pcolli_w = 0.0054685
+  Posd_w = 1
+  Pbo_w = 0.064487
+  Throughput_w = 18.6929 Mbps
+  Throughput_w/N = 9.3465 Mbps
+  Ptr_b = 0.0021617
+  Psucc_b = 0.98603
+  Pcolli_b = 0.013969
+  Posd_b = 1
+  Pbo_b = 0.075731
+  Throughput_b = 54.5844 Kbps
+  Throughput_b/N = 13.6461 Kbps
+======================================================================
+18.6929 54.5844
+***********************************************************************
+  run number = 40
+  Wi = 80
+  Wc = 80
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.62279
+  Pc = 0.5157
+  Pf = 0.62279
+  tau_w = 0.0063458
+  tau_b = 0.00057095
+  Ptrw = 0.2221
+  Ptrb = 0.12504
+  Posw = 0.48884
+  Posb = 0.37683
+  channel busy prob = 0.62279
+  Ptr_w = 0.012651
+  Psucc_w = 0.99454
+  Pcolli_w = 0.0054576
+  Posd_w = 1
+  Pbo_w = 0.083554
+  Throughput_w = 18.3789 Mbps
+  Throughput_w/N = 9.1894 Mbps
+  Ptr_b = 0.0022819
+  Psucc_b = 0.9865
+  Pcolli_b = 0.013497
+  Posd_b = 1
+  Pbo_b = 0.061572
+  Throughput_b = 55.9864 Kbps
+  Throughput_b/N = 13.9966 Kbps
+======================================================================
+18.3789 55.9864
+***********************************************************************
+  run number = 41
+  Wi = 320
+  Wc = 60
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.61413
+  Pc = 0.49475
+  Pf = 0.61413
+  tau_w = 0.0067891
+  tau_b = 0.00052585
+  Ptrw = 0.23762
+  Ptrb = 0.11516
+  Posw = 0.53337
+  Posb = 0.34706
+  channel busy prob = 0.61413
+  Ptr_w = 0.013532
+  Psucc_w = 0.9945
+  Pcolli_w = 0.0055007
+  Posd_w = 1
+  Pbo_w = 0.052446
+  Throughput_w = 18.8855 Mbps
+  Throughput_w/N = 9.4427 Mbps
+  Ptr_b = 0.0021017
+  Psucc_b = 0.98569
+  Pcolli_b = 0.01431
+  Posd_b = 1
+  Pbo_b = 0.083639
+  Throughput_b = 53.7837 Kbps
+  Throughput_b/N = 13.4459 Kbps
+======================================================================
+18.8855 53.7837
+***********************************************************************
+  run number = 42
+  Wi = 240
+  Wc = 60
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.61901
+  Pc = 0.50677
+  Pf = 0.61901
+  tau_w = 0.0065381
+  tau_b = 0.00055626
+  Ptrw = 0.22883
+  Ptrb = 0.12182
+  Posw = 0.50785
+  Posb = 0.36713
+  channel busy prob = 0.61901
+  Ptr_w = 0.013033
+  Psucc_w = 0.9945
+  Pcolli_w = 0.0054956
+  Posd_w = 1
+  Pbo_w = 0.069336
+  Throughput_w = 18.6136 Mbps
+  Throughput_w/N = 9.3068 Mbps
+  Ptr_b = 0.0022232
+  Psucc_b = 0.98614
+  Pcolli_b = 0.013857
+  Posd_b = 1
+  Pbo_b = 0.068211
+  Throughput_b = 55.3256 Kbps
+  Throughput_b/N = 13.8314 Kbps
+======================================================================
+18.6136 55.3256
+***********************************************************************
+  run number = 43
+  Wi = 160
+  Wc = 60
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.62437
+  Pc = 0.51973
+  Pf = 0.62437
+  tau_w = 0.0062591
+  tau_b = 0.00058958
+  Ptrw = 0.21907
+  Ptrb = 0.12912
+  Posw = 0.48016
+  Posb = 0.38912
+  channel busy prob = 0.62437
+  Ptr_w = 0.012479
+  Psucc_w = 0.99451
+  Pcolli_w = 0.0054882
+  Posd_w = 1
+  Pbo_w = 0.090466
+  Throughput_w = 18.2623 Mbps
+  Throughput_w/N = 9.1312 Mbps
+  Ptr_b = 0.0023562
+  Psucc_b = 0.98665
+  Pcolli_b = 0.013352
+  Posd_b = 1
+  Pbo_b = 0.053867
+  Throughput_b = 56.7264 Kbps
+  Throughput_b/N = 14.1816 Kbps
+======================================================================
+18.2623 56.7264
+***********************************************************************
+  run number = 44
+  Wi = 80
+  Wc = 60
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63031
+  Pc = 0.5337
+  Pf = 0.63031
+  tau_w = 0.0059507
+  tau_b = 0.000626
+  Ptrw = 0.20828
+  Ptrb = 0.13709
+  Posw = 0.45035
+  Posb = 0.41316
+  channel busy prob = 0.63031
+  Ptr_w = 0.011866
+  Psucc_w = 0.99452
+  Pcolli_w = 0.0054785
+  Posd_w = 1
+  Pbo_w = 0.11654
+  Throughput_w = 17.8143 Mbps
+  Throughput_w/N = 8.9071 Mbps
+  Ptr_b = 0.0025017
+  Psucc_b = 0.98721
+  Pcolli_b = 0.012794
+  Posd_b = 1
+  Pbo_b = 0.040912
+  Throughput_b = 57.9543 Kbps
+  Throughput_b/N = 14.4886 Kbps
+======================================================================
+17.8143 57.9543
+***********************************************************************
+  run number = 45
+  Wi = 320
+  Wc = 40
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.62066
+  Pc = 0.51096
+  Pf = 0.62066
+  tau_w = 0.0064494
+  tau_b = 0.00057312
+  Ptrw = 0.22573
+  Ptrb = 0.12551
+  Posw = 0.49886
+  Posb = 0.37826
+  channel busy prob = 0.62066
+  Ptr_w = 0.012857
+  Psucc_w = 0.99448
+  Pcolli_w = 0.0055183
+  Posd_w = 1
+  Pbo_w = 0.075848
+  Throughput_w = 18.5062 Mbps
+  Throughput_w/N = 9.2531 Mbps
+  Ptr_b = 0.0022905
+  Psucc_b = 0.98629
+  Pcolli_b = 0.013706
+  Posd_b = 1
+  Pbo_b = 0.060634
+  Throughput_b = 56.0643 Kbps
+  Throughput_b/N = 14.0161 Kbps
+======================================================================
+18.5062 56.0643
+***********************************************************************
+  run number = 46
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.62649
+  Pc = 0.52497
+  Pf = 0.62649
+  tau_w = 0.0061452
+  tau_b = 0.00061029
+  Ptrw = 0.21508
+  Ptrb = 0.13365
+  Posw = 0.46893
+  Posb = 0.40279
+  channel busy prob = 0.62649
+  Ptr_w = 0.012253
+  Psucc_w = 0.99449
+  Pcolli_w = 0.0055135
+  Posd_w = 1
+  Pbo_w = 0.099848
+  Throughput_w = 18.1025 Mbps
+  Throughput_w/N = 9.0513 Mbps
+  Ptr_b = 0.0024389
+  Psucc_b = 0.98684
+  Pcolli_b = 0.013157
+  Posd_b = 1
+  Pbo_b = 0.046175
+  Throughput_b = 57.4533 Kbps
+  Throughput_b/N = 14.3633 Kbps
+======================================================================
+18.1025 57.4533
+***********************************************************************
+  run number = 47
+  Wi = 160
+  Wc = 40
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.63306
+  Pc = 0.54023
+  Pf = 0.63306
+  tau_w = 0.0058054
+  tau_b = 0.00065154
+  Ptrw = 0.20319
+  Ptrb = 0.14269
+  Posw = 0.43644
+  Posb = 0.43002
+  channel busy prob = 0.63306
+  Ptr_w = 0.011577
+  Psucc_w = 0.99449
+  Pcolli_w = 0.0055072
+  Posd_w = 1
+  Pbo_w = 0.12987
+  Throughput_w = 17.5795 Mbps
+  Throughput_w/N = 8.7897 Mbps
+  Ptr_b = 0.0026036
+  Psucc_b = 0.98746
+  Pcolli_b = 0.012543
+  Posd_b = 1
+  Pbo_b = 0.033337
+  Throughput_b = 58.643 Kbps
+  Throughput_b/N = 14.6607 Kbps
+======================================================================
+17.5795 58.643
+***********************************************************************
+  run number = 48
+  Wi = 80
+  Wc = 40
+  BMAC packet size = 68
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.64051
+  Pc = 0.55681
+  Pf = 0.64051
+  tau_w = 0.0054293
+  tau_b = 0.00069718
+  Ptrw = 0.19002
+  Ptrb = 0.15268
+  Posw = 0.4016
+  Posb = 0.46014
+  channel busy prob = 0.64051
+  Ptr_w = 0.010829
+  Psucc_w = 0.9945
+  Pcolli_w = 0.0055002
+  Posd_w = 1
+  Pbo_w = 0.16677
+  Throughput_w = 16.9132 Mbps
+  Throughput_w/N = 8.4566 Mbps
+  Ptr_b = 0.0027858
+  Psucc_b = 0.98814
+  Pcolli_b = 0.011864
+  Posd_b = 1
+  Pbo_b = 0.022473
+  Throughput_b = 59.6081 Kbps
+  Throughput_b/N = 14.902 Kbps
+======================================================================
+16.9132 59.6081
+***********************************************************************
+  run number = 49
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.59006
+  Pc = 0.43416
+  Pf = 0.59006
+  tau_w = 0.0079083
+  tau_b = 0.0005219
+  Ptrw = 0.27679
+  Ptrb = 0.081416
+  Posw = 0.65495
+  Posb = 0.34445
+  channel busy prob = 0.59006
+  Ptr_w = 0.015754
+  Psucc_w = 0.99395
+  Pcolli_w = 0.0060475
+  Posd_w = 1
+  Pbo_w = 0.00466
+  Throughput_w = 19.5845 Mbps
+  Throughput_w/N = 9.7922 Mbps
+  Ptr_b = 0.002086
+  Psucc_b = 0.98348
+  Pcolli_b = 0.016525
+  Posd_b = 1
+  Pbo_b = 0.10865
+  Throughput_b = 38.939 Kbps
+  Throughput_b/N = 9.7347 Kbps
+======================================================================
+19.5845 38.939
+***********************************************************************
+  run number = 50
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.59411
+  Pc = 0.44416
+  Pf = 0.59411
+  tau_w = 0.0077423
+  tau_b = 0.00055226
+  Ptrw = 0.27098
+  Ptrb = 0.086152
+  Posw = 0.63615
+  Posb = 0.36449
+  channel busy prob = 0.59411
+  Ptr_w = 0.015425
+  Psucc_w = 0.99392
+  Pcolli_w = 0.0060848
+  Posd_w = 1
+  Pbo_w = 0.0086244
+  Throughput_w = 19.5298 Mbps
+  Throughput_w/N = 9.7649 Mbps
+  Ptr_b = 0.0022072
+  Psucc_b = 0.98376
+  Pcolli_b = 0.01624
+  Posd_b = 1
+  Pbo_b = 0.091079
+  Throughput_b = 40.2994 Kbps
+  Throughput_b/N = 10.0748 Kbps
+======================================================================
+19.5298 40.2994
+***********************************************************************
+  run number = 51
+  Wi = 160
+  Wc = 80
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.5985
+  Pc = 0.45508
+  Pf = 0.5985
+  tau_w = 0.0075517
+  tau_b = 0.00058578
+  Ptrw = 0.26431
+  Ptrb = 0.091381
+  Posw = 0.61495
+  Posb = 0.38661
+  channel busy prob = 0.5985
+  Ptr_w = 0.015046
+  Psucc_w = 0.99388
+  Pcolli_w = 0.0061223
+  Posd_w = 1
+  Pbo_w = 0.014579
+  Throughput_w = 19.4456 Mbps
+  Throughput_w/N = 9.7228 Mbps
+  Ptr_b = 0.002341
+  Psucc_b = 0.98409
+  Pcolli_b = 0.015912
+  Posd_b = 1
+  Pbo_b = 0.074251
+  Throughput_b = 41.5834 Kbps
+  Throughput_b/N = 10.3959 Kbps
+======================================================================
+19.4456 41.5834
+***********************************************************************
+  run number = 52
+  Wi = 80
+  Wc = 80
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.60327
+  Pc = 0.46703
+  Pf = 0.60327
+  tau_w = 0.0073328
+  tau_b = 0.00062282
+  Ptrw = 0.25665
+  Ptrb = 0.09716
+  Posw = 0.59105
+  Posb = 0.41106
+  channel busy prob = 0.60327
+  Ptr_w = 0.014612
+  Psucc_w = 0.99384
+  Pcolli_w = 0.0061597
+  Posd_w = 1
+  Pbo_w = 0.023195
+  Throughput_w = 19.3203 Mbps
+  Throughput_w/N = 9.6601 Mbps
+  Ptr_b = 0.002489
+  Psucc_b = 0.98447
+  Pcolli_b = 0.015532
+  Posd_b = 1
+  Pbo_b = 0.058489
+  Throughput_b = 42.7595 Kbps
+  Throughput_b/N = 10.6899 Kbps
+======================================================================
+19.3203 42.7595
+***********************************************************************
+  run number = 53
+  Wi = 320
+  Wc = 60
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.59425
+  Pc = 0.4447
+  Pf = 0.59425
+  tau_w = 0.0077338
+  tau_b = 0.0005621
+  Ptrw = 0.27068
+  Ptrb = 0.087688
+  Posw = 0.63506
+  Posb = 0.37099
+  channel busy prob = 0.59425
+  Ptr_w = 0.015408
+  Psucc_w = 0.99388
+  Pcolli_w = 0.0061197
+  Posd_w = 1
+  Pbo_w = 0.0088848
+  Throughput_w = 19.5255 Mbps
+  Throughput_w/N = 9.7628 Mbps
+  Ptr_b = 0.0022465
+  Psucc_b = 0.98376
+  Pcolli_b = 0.016238
+  Posd_b = 1
+  Pbo_b = 0.085867
+  Throughput_b = 40.6957 Kbps
+  Throughput_b/N = 10.1739 Kbps
+======================================================================
+19.5255 40.6957
+***********************************************************************
+  run number = 54
+  Wi = 240
+  Wc = 60
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.59875
+  Pc = 0.45595
+  Pf = 0.59875
+  tau_w = 0.007537
+  tau_b = 0.00059817
+  Ptrw = 0.26379
+  Ptrb = 0.093314
+  Posw = 0.61316
+  Posb = 0.39479
+  channel busy prob = 0.59875
+  Ptr_w = 0.015017
+  Psucc_w = 0.99384
+  Pcolli_w = 0.0061642
+  Posd_w = 1
+  Pbo_w = 0.01514
+  Throughput_w = 19.4368 Mbps
+  Throughput_w/N = 9.7184 Mbps
+  Ptr_b = 0.0023905
+  Psucc_b = 0.9841
+  Pcolli_b = 0.015901
+  Posd_b = 1
+  Pbo_b = 0.068663
+  Throughput_b = 41.999 Kbps
+  Throughput_b/N = 10.4998 Kbps
+======================================================================
+19.4368 41.999
+***********************************************************************
+  run number = 55
+  Wi = 160
+  Wc = 60
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.60368
+  Pc = 0.46833
+  Pf = 0.60368
+  tau_w = 0.0073093
+  tau_b = 0.00063848
+  Ptrw = 0.25583
+  Ptrb = 0.099603
+  Posw = 0.58833
+  Posb = 0.4214
+  channel busy prob = 0.60368
+  Ptr_w = 0.014565
+  Psucc_w = 0.99379
+  Pcolli_w = 0.0062102
+  Posd_w = 1
+  Pbo_w = 0.024288
+  Throughput_w = 19.3033 Mbps
+  Throughput_w/N = 9.6517 Mbps
+  Ptr_b = 0.0025515
+  Psucc_b = 0.98449
+  Pcolli_b = 0.015509
+  Posd_b = 1
+  Pbo_b = 0.052642
+  Throughput_b = 43.1806 Kbps
+  Throughput_b/N = 10.7952 Kbps
+======================================================================
+19.3033 43.1806
+***********************************************************************
+  run number = 56
+  Wi = 80
+  Wc = 60
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.60911
+  Pc = 0.48198
+  Pf = 0.60911
+  tau_w = 0.0070458
+  tau_b = 0.00068364
+  Ptrw = 0.2466
+  Ptrb = 0.10665
+  Posw = 0.56025
+  Posb = 0.4512
+  channel busy prob = 0.60911
+  Ptr_w = 0.014042
+  Psucc_w = 0.99374
+  Pcolli_w = 0.0062574
+  Posd_w = 1
+  Pbo_w = 0.037308
+  Throughput_w = 19.1067 Mbps
+  Throughput_w/N = 9.5534 Mbps
+  Ptr_b = 0.0027318
+  Psucc_b = 0.98495
+  Pcolli_b = 0.015053
+  Posd_b = 1
+  Pbo_b = 0.038219
+  Throughput_b = 44.2066 Kbps
+  Throughput_b/N = 11.0517 Kbps
+======================================================================
+19.1067 44.2066
+***********************************************************************
+  run number = 57
+  Wi = 320
+  Wc = 40
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.59929
+  Pc = 0.45748
+  Pf = 0.59929
+  tau_w = 0.0075102
+  tau_b = 0.00061107
+  Ptrw = 0.26286
+  Ptrb = 0.095326
+  Posw = 0.61008
+  Posb = 0.4033
+  channel busy prob = 0.59929
+  Ptr_w = 0.014964
+  Psucc_w = 0.9938
+  Pcolli_w = 0.0062021
+  Posd_w = 1
+  Pbo_w = 0.016145
+  Throughput_w = 19.4218 Mbps
+  Throughput_w/N = 9.7109 Mbps
+  Ptr_b = 0.002442
+  Psucc_b = 0.98413
+  Pcolli_b = 0.015867
+  Posd_b = 1
+  Pbo_b = 0.063187
+  Throughput_b = 42.4031 Kbps
+  Throughput_b/N = 10.6008 Kbps
+======================================================================
+19.4218 42.4031
+***********************************************************************
+  run number = 58
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.60445
+  Pc = 0.47048
+  Pf = 0.60445
+  tau_w = 0.0072695
+  tau_b = 0.00065498
+  Ptrw = 0.25443
+  Ptrb = 0.10218
+  Posw = 0.5839
+  Posb = 0.43229
+  channel busy prob = 0.60445
+  Ptr_w = 0.014486
+  Psucc_w = 0.99374
+  Pcolli_w = 0.0062558
+  Posd_w = 1
+  Pbo_w = 0.026137
+  Throughput_w = 19.2751 Mbps
+  Throughput_w/N = 9.6376 Mbps
+  Ptr_b = 0.0026173
+  Psucc_b = 0.98455
+  Pcolli_b = 0.015455
+  Posd_b = 1
+  Pbo_b = 0.04697
+  Throughput_b = 43.5842 Kbps
+  Throughput_b/N = 10.896 Kbps
+======================================================================
+19.2751 43.5842
+***********************************************************************
+  run number = 59
+  Wi = 160
+  Wc = 40
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.6102
+  Pc = 0.48494
+  Pf = 0.6102
+  tau_w = 0.0069879
+  tau_b = 0.00070487
+  Ptrw = 0.24458
+  Ptrb = 0.10996
+  Posw = 0.554
+  Posb = 0.46521
+  channel busy prob = 0.6102
+  Ptr_w = 0.013927
+  Psucc_w = 0.99369
+  Pcolli_w = 0.0063128
+  Posd_w = 1
+  Pbo_w = 0.040571
+  Throughput_w = 19.0557 Mbps
+  Throughput_w/N = 9.5278 Mbps
+  Ptr_b = 0.0028165
+  Psucc_b = 0.98503
+  Pcolli_b = 0.01497
+  Posd_b = 1
+  Pbo_b = 0.032572
+  Throughput_b = 44.5896 Kbps
+  Throughput_b/N = 11.1474 Kbps
+======================================================================
+19.0557 44.5896
+***********************************************************************
+  run number = 60
+  Wi = 80
+  Wc = 40
+  BMAC packet size = 48
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 2346
+***********************************************************************
+Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead. 
+> In fsolve at 324
+  In coexist_simplest at 71
+
+Equation solved, fsolve stalled.
+
+fsolve stopped because the relative size of the current step is less than the
+default value of the step size tolerance and the vector of function values
+is near zero as measured by the default value of the function tolerance.
+
+<stopping criteria details>
+
+======================================================================
+  N_w = 2
+  N_b = 4
+The roots from the default "fsolve" are: 
+  alpha = 0.61667
+  Pc = 0.50106
+  Pf = 0.61667
+  tau_w = 0.0066584
+  tau_b = 0.00076173
+  Ptrw = 0.23305
+  Ptrb = 0.11883
+  Posw = 0.52
+  Posb = 0.50274
+  channel busy prob = 0.61667
+  Ptr_w = 0.013273
+  Psucc_w = 0.99363
+  Pcolli_w = 0.0063736
+  Posd_w = 1
+  Pbo_w = 0.060986
+  Throughput_w = 18.7326 Mbps
+  Throughput_w/N = 9.3663 Mbps
+  Ptr_b = 0.0030435
+  Psucc_b = 0.9856
+  Pcolli_b = 0.0144
+  Posd_b = 1
+  Pbo_b = 0.020508
+  Throughput_b = 45.3902 Kbps
+  Throughput_b/N = 11.3475 Kbps
+======================================================================
+18.7326 45.3902
+>> 

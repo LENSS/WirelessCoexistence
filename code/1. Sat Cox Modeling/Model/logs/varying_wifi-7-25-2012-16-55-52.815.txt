@@ -1,0 +1,116 @@
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems; using
+Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010a\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Documents and Settings\mahima\My Documents\Dropbox\coexistence\model\new tests\with_timing.m',118,1)">with_timing at 118</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',4.297106e-008,'default',1.000000e-006,2.671565e-015,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 1
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 4
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.88497
+  Pc = 0.056922
+  Pf = 0.88497
+  tau_w = 0.0058843
+  tau_b = 9.3457e-005
+  Ptrw = 0.20595
+  Ptrb = 0.038411
+  Posw = 0.33296
+  Posb = 0.061682
+  channel busy prob = 0.94462
+  Ptr_w = 0.90035
+  Psucc_w = 0.15044
+  Normalized Throughput_w = 0.13545
+  Actual Throughput_w = 7.3144 Mbps
+  Throughput_w/N = 0.013545 Mbps
+  Ptr_b = 0.4443
+  Psucc_b = 0.070309
+  Normalized Throughput_b = 0.031238
+  Actual Throughput_b = 7.8095 Kbps
+  Throughput_b/N = 0.0020825 Kbps
+*0.2709 0.031238
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 2
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.86246
+  Pc = 0.044697
+  Pf = 0.86246
+  tau_w = 0.0045874
+  tau_b = 0.00012616
+  Ptrw = 0.16056
+  Ptrb = 0.051854
+  Posw = 0.26294
+  Posb = 0.083269
+  channel busy prob = 0.92183
+  Ptr_w = 0.82626
+  Psucc_w = 0.17286
+  Normalized Throughput_w = 0.14283
+  Actual Throughput_w = 7.7128 Mbps
+  Throughput_w/N = 0.014283 Mbps
+  Ptr_b = 0.55009
+  Psucc_b = 0.11114
+  Normalized Throughput_b = 0.061137
+  Actual Throughput_b = 15.2841 Kbps
+  Throughput_b/N = 0.0040758 Kbps
+*0.28566 0.061137
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 3
+  Wi = 320
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 6
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84063
+  Pc = 0.032729
+  Pf = 0.84063
+  tau_w = 0.0032896
+  tau_b = 0.00015931
+  Ptrw = 0.11514
+  Ptrb = 0.065476
+  Posw = 0.19092
+  Posb = 0.10514
+  channel busy prob = 0.89343
+  Ptr_w = 0.70572
+  Psucc_w = 0.19005
+  Normalized Throughput_w = 0.13412
+  Actual Throughput_w = 7.2427 Mbps
+  Throughput_w/N = 0.013412 Mbps
+  Ptr_b = 0.63787
+  Psucc_b = 0.16951
+  Normalized Throughput_b = 0.10813
+  Actual Throughput_b = 27.0314 Kbps
+  Throughput_b/N = 0.0072084 Kbps
+*0.26825 0.10813

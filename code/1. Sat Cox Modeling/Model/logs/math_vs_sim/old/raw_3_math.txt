@@ -1,0 +1,354 @@
+ 
+{Warning: Trust-region-dogleg algorithm of FSOLVE cannot handle non-square systems;
+using Levenberg-Marquardt algorithm instead.} 
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2010b\toolbox\optim\optim\fsolve.m',324,1)">fsolve at 324</a>
+  In <a href="matlab: opentoline('C:\Users\wei zhang\Dropbox\work\coexistence\model\new tests\with_timing.m',117,1)">with_timing at 117</a>
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and the vector of function values
+is near zero as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('levenbergMarquardt',4.000000e+000,true,true,'fsolve',9.437151e-007,'default',1.000000e-006,6.185092e-010,'default',1.000000e-003);">stopping criteria details</a>>
+
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 1
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.86311
+  Pc = 0.044597
+  Pf = 0.86311
+  tau_w = 0.0045749
+  tau_b = 0.00012745
+  Ptrw = 0.16012
+  Ptrb = 0.052381
+  Posw = 0.26225
+  Posb = 0.084115
+  channel busy prob = 0.92207
+  Ptr_w = 0.82535
+  Psucc_w = 0.18559
+  Normalized Throughput_w = 0.15318
+  Actual Throughput_w = 8.2715 Mbps
+  Throughput_w/N = 0.015318 Mbps
+  Ptr_b = 0.55382
+  Psucc_b = 0.11531
+  Normalized Throughput_b = 0.063861
+  Actual Throughput_b = 15.9653 Kbps
+  Throughput_b/N = 0.0042574 Kbps
+*0.30635 0.063861
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 2
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 128
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.88295
+  Pc = 0.041296
+  Pf = 0.88295
+  tau_w = 0.004173
+  tau_b = 0.00016894
+  Ptrw = 0.14606
+  Ptrb = 0.069434
+  Posw = 0.24004
+  Posb = 0.1115
+  channel busy prob = 0.92993
+  Ptr_w = 0.7938
+  Psucc_w = 0.1542
+  Normalized Throughput_w = 0.1224
+  Actual Throughput_w = 6.6097 Mbps
+  Throughput_w/N = 0.01224 Mbps
+  Ptr_b = 0.66021
+  Psucc_b = 0.11889
+  Normalized Throughput_b = 0.078489
+  Actual Throughput_b = 19.6223 Kbps
+  Throughput_b/N = 0.0052326 Kbps
+*0.2448 0.078489
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 3
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 108
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85742
+  Pc = 0.045772
+  Pf = 0.85742
+  tau_w = 0.004681
+  tau_b = 0.00013749
+  Ptrw = 0.16384
+  Ptrb = 0.047846
+  Posw = 0.26801
+  Posb = 0.090742
+  channel busy prob = 0.91992
+  Ptr_w = 0.83292
+  Psucc_w = 0.1948
+  Normalized Throughput_w = 0.16225
+  Actual Throughput_w = 8.7616 Mbps
+  Throughput_w/N = 0.016225 Mbps
+  Ptr_b = 0.5207
+  Psucc_b = 0.11416
+  Normalized Throughput_b = 0.059441
+  Actual Throughput_b = 14.8602 Kbps
+  Throughput_b/N = 0.0039627 Kbps
+*0.3245 0.059441
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 4
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 108
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.87697
+  Pc = 0.042724
+  Pf = 0.87697
+  tau_w = 0.0042987
+  tau_b = 0.00018423
+  Ptrw = 0.15045
+  Ptrb = 0.064111
+  Posw = 0.2469
+  Posb = 0.12159
+  channel busy prob = 0.92752
+  Ptr_w = 0.80418
+  Psucc_w = 0.16353
+  Normalized Throughput_w = 0.13151
+  Actual Throughput_w = 7.1014 Mbps
+  Throughput_w/N = 0.013151 Mbps
+  Ptr_b = 0.62986
+  Psucc_b = 0.1179
+  Normalized Throughput_b = 0.074261
+  Actual Throughput_b = 18.5652 Kbps
+  Throughput_b/N = 0.0049507 Kbps
+*0.26301 0.074261
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 5
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 88
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.85033
+  Pc = 0.047187
+  Pf = 0.85033
+  tau_w = 0.0048082
+  tau_b = 0.00015032
+  Ptrw = 0.16829
+  Ptrb = 0.042391
+  Posw = 0.27488
+  Posb = 0.099214
+  channel busy prob = 0.91729
+  Ptr_w = 0.84161
+  Psucc_w = 0.20638
+  Normalized Throughput_w = 0.17369
+  Actual Throughput_w = 9.3794 Mbps
+  Throughput_w/N = 0.017369 Mbps
+  Ptr_b = 0.47782
+  Psucc_b = 0.11267
+  Normalized Throughput_b = 0.053837
+  Actual Throughput_b = 13.4592 Kbps
+  Throughput_b/N = 0.0035891 Kbps
+*0.34739 0.053837
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 6
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 88
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.86933
+  Pc = 0.04449
+  Pf = 0.86933
+  tau_w = 0.0044527
+  tau_b = 0.00020419
+  Ptrw = 0.15585
+  Ptrb = 0.057582
+  Posw = 0.25528
+  Posb = 0.13477
+  channel busy prob = 0.92451
+  Ptr_w = 0.81625
+  Psucc_w = 0.1756
+  Normalized Throughput_w = 0.14334
+  Actual Throughput_w = 7.7401 Mbps
+  Throughput_w/N = 0.014334 Mbps
+  Ptr_b = 0.58918
+  Psucc_b = 0.1165
+  Normalized Throughput_b = 0.068642
+  Actual Throughput_b = 17.1605 Kbps
+  Throughput_b/N = 0.0045761 Kbps
+*0.28667 0.068642
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 7
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 68
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84206
+  Pc = 0.048773
+  Pf = 0.84206
+  tau_w = 0.00495
+  tau_b = 0.00016572
+  Ptrw = 0.17325
+  Ptrb = 0.036293
+  Posw = 0.28251
+  Posb = 0.10938
+  channel busy prob = 0.91431
+  Ptr_w = 0.85081
+  Psucc_w = 0.21999
+  Normalized Throughput_w = 0.18717
+  Actual Throughput_w = 10.1074 Mbps
+  Throughput_w/N = 0.018717 Mbps
+  Ptr_b = 0.42566
+  Psucc_b = 0.11088
+  Normalized Throughput_b = 0.047196
+  Actual Throughput_b = 11.7991 Kbps
+  Throughput_b/N = 0.0031464 Kbps
+*0.37435 0.047196
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 8
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 68
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.86011
+  Pc = 0.046529
+  Pf = 0.86011
+  tau_w = 0.0046291
+  tau_b = 0.00022874
+  Ptrw = 0.16202
+  Ptrb = 0.050095
+  Posw = 0.26482
+  Posb = 0.15097
+  channel busy prob = 0.92101
+  Ptr_w = 0.82926
+  Psucc_w = 0.19033
+  Normalized Throughput_w = 0.15783
+  Actual Throughput_w = 8.5229 Mbps
+  Throughput_w/N = 0.015783 Mbps
+  Ptr_b = 0.5374
+  Psucc_b = 0.11466
+  Normalized Throughput_b = 0.061618
+  Actual Throughput_b = 15.4046 Kbps
+  Throughput_b/N = 0.0041079 Kbps
+*0.31566 0.061618
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 9
+  Wi = 240
+  Wc = 80
+  BMAC packet size = 48
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.83161
+  Pc = 0.050674
+  Pf = 0.83161
+  tau_w = 0.0051202
+  tau_b = 0.00018579
+  Ptrw = 0.17921
+  Ptrb = 0.028983
+  Posw = 0.29165
+  Posb = 0.12262
+  channel busy prob = 0.91072
+  Ptr_w = 0.86122
+  Psucc_w = 0.23723
+  Normalized Throughput_w = 0.20431
+  Actual Throughput_w = 11.0325 Mbps
+  Throughput_w/N = 0.020431 Mbps
+  Ptr_b = 0.35672
+  Psucc_b = 0.10852
+  Normalized Throughput_b = 0.038711
+  Actual Throughput_b = 9.6779 Kbps
+  Throughput_b/N = 0.0025808 Kbps
+*0.40861 0.038711
+**************************Markov Chain Model***************************
+******************************start************************************
+  run number = 10
+  Wi = 240
+  Wc = 40
+  BMAC packet size = 48
+  aMinBE = 5
+  aMaxBE = 10
+  WiFi packet size = 1500
+======================================================================
+  N_w = 10
+  N_b = 15
+The roots from the default "fsolve" are: 
+  alpha = 0.84795
+  Pc = 0.049068
+  Pf = 0.84795
+  tau_w = 0.0048474
+  tau_b = 0.00026164
+  Ptrw = 0.16966
+  Ptrb = 0.040815
+  Posw = 0.27657
+  Posb = 0.17268
+  channel busy prob = 0.91661
+  Ptr_w = 0.8442
+  Psucc_w = 0.20995
+  Normalized Throughput_w = 0.17724
+  Actual Throughput_w = 9.5709 Mbps
+  Throughput_w/N = 0.017724 Mbps
+  Ptr_b = 0.46478
+  Psucc_b = 0.11203
+  Normalized Throughput_b = 0.052069
+  Actual Throughput_b = 13.0171 Kbps
+  Throughput_b/N = 0.0034712 Kbps
+*0.35448 0.052069

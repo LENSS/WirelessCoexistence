@@ -1,0 +1,1032 @@
+All warnings have the state 'off'.
+**************************Markov Chain Model***************************
+******************************start************************************
+  Phi = 5
+  Wi = 310
+  BMAC packet size = 68
+  BMAC raw packet timeslots = 74
+  BMAC arrival rate = 1
+  WiFi packet size = 1540
+  WiFi raw packet timeslots = 30
+  WiFi arrival rate = 10
+======================================================================
+  N_w = 20
+  N_b = 5
+  Total Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Total Arr_b = 5 packets/s, or 2.72 Kbits/s
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=50
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.89971
+  Pc = 0.2257
+  Pf = 0.90218
+  Wc = 3312.8623
+  W0 = 319.6277
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 29850.2873 us
+  mean_b = 857750.0272 us
+  capacity_w = 8.2545 Mbits/s
+  capacity_b = 3.1711 Kbits/s
+  Srv_w = 0.00033501
+  Srv_b = 1.1658e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.7015
+  Pb = 0.14225
+  b001 = 0.00032792
+  tau_w = 0.012705
+  b000 = 1.1564e-05
+  tau_b = 0.0025671
+  StdVar_w = 8664.9698
+  theta_w = -0.00023501
+  delta_w = 0.029028
+  Q_w = 1.7928
+  delay_w = 179279.1152 us
+  StdVar_b = 122655.0976
+  theta_b = -1.6584e-06
+  delta_b = 0.0045219
+  Q_b = 6.1649
+  delay_b = 6164931.7967 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.712 Kbps
+  Throughput_all = 0.58935
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=70
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.89158
+  Pc = 0.20733
+  Pf = 0.89415
+  Wc = 3999.9995
+  W0 = 396.7501
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32174.1139 us
+  mean_b = 945362.1581 us
+  capacity_w = 7.6583 Mbits/s
+  capacity_b = 2.8772 Kbits/s
+  Srv_w = 0.00031081
+  Srv_b = 1.0578e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67826
+  Pb = 0.054638
+  b001 = 0.00030512
+  tau_w = 0.011548
+  b000 = 1.05e-05
+  tau_b = 0.0023311
+  StdVar_w = 8646.414
+  theta_w = -0.00021081
+  delta_w = 0.026874
+  Q_w = 1.7129
+  delay_w = 171293.1449 us
+  StdVar_b = 135524.0324
+  theta_b = -5.7796e-07
+  delta_b = 0.0045333
+  Q_b = 17.7763
+  delay_b = 17776310.2922 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59319
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=90
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.94489
+  Pc = 0.41976
+  Pf = 0.94681
+  Wc = 779.9852
+  W0 = 44.3488
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 17237.8717 us
+  mean_b = 397382.41 us
+  capacity_w = 14.2941 Mbits/s
+  capacity_b = 6.8448 Kbits/s
+  Srv_w = 0.00058012
+  Srv_b = 2.5165e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.82762
+  Pb = 0.60262
+  b001 = 0.00051901
+  tau_w = 0.026834
+  b000 = 2.4705e-05
+  tau_b = 0.0054845
+  StdVar_w = 5745.0206
+  theta_w = -0.00048012
+  delta_w = 0.033328
+  Q_w = 1.1567
+  delay_w = 115674.5678 us
+  StdVar_b = 55778.2575
+  theta_b = -1.5165e-05
+  delta_b = 0.0044387
+  Q_b = 0.64961
+  delay_b = 649605.1309 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.6886 Kbps
+  Throughput_all = 0.5093
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=110
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.94868
+  Pc = 0.45019
+  Pf = 0.95056
+  Wc = 654.1613
+  W0 = 33.1482
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 16084.1992 us
+  mean_b = 360593.811 us
+  capacity_w = 15.3194 Mbits/s
+  capacity_b = 7.5431 Kbits/s
+  Srv_w = 0.00062173
+  Srv_b = 2.7732e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.83916
+  Pb = 0.63941
+  b001 = 0.00053971
+  tau_w = 0.029449
+  b000 = 2.717e-05
+  tau_b = 0.0060318
+  StdVar_w = 5087.4881
+  theta_w = -0.00052173
+  delta_w = 0.03163
+  Q_w = 0.95881
+  delay_w = 95881.2391 us
+  StdVar_b = 50487.268
+  theta_b = -1.7732e-05
+  delta_b = 0.0044276
+  Q_b = 0.55276
+  delay_b = 552762.5877 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.683 Kbps
+  Throughput_all = 0.49263
+======================================================================
+  ########Trying W0=64
+  ########Trying Wc=130
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.95482
+  Pc = 0.50882
+  Pf = 0.95663
+  Wc = 475.5456
+  W0 = 18.9774
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 14097.246 us
+  mean_b = 301609.0267 us
+  capacity_w = 17.4786 Mbits/s
+  capacity_b = 9.0183 Kbits/s
+  Srv_w = 0.00070936
+  Srv_b = 3.3156e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.85903
+  Pb = 0.69839
+  b001 = 0.00057138
+  tau_w = 0.034899
+  b000 = 3.2343e-05
+  tau_b = 0.0071802
+  StdVar_w = 3915.5555
+  theta_w = -0.00060936
+  delta_w = 0.027775
+  Q_w = 0.63302
+  delay_w = 63301.7064 us
+  StdVar_b = 42020.1758
+  theta_b = -2.3156e-05
+  delta_b = 0.0044057
+  Q_b = 0.41912
+  delay_b = 419124.2437 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.6704 Kbps
+  Throughput_all = 0.45814
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=50
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.8916
+  Pc = 0.20737
+  Pf = 0.89417
+  Wc = 3998.5418
+  W0 = 396.5869
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32169.4106 us
+  mean_b = 945184.8345 us
+  capacity_w = 7.6595 Mbits/s
+  capacity_b = 2.8777 Kbits/s
+  Srv_w = 0.00031085
+  Srv_b = 1.058e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67831
+  Pb = 0.054815
+  b001 = 0.00030516
+  tau_w = 0.01155
+  b000 = 1.0502e-05
+  tau_b = 0.0023315
+  StdVar_w = 8646.5099
+  theta_w = -0.00021085
+  delta_w = 0.026878
+  Q_w = 1.7131
+  delay_w = 171310.1122 us
+  StdVar_b = 135497.9401
+  theta_b = -5.7994e-07
+  delta_b = 0.0045333
+  Q_b = 17.7154
+  delay_b = 17715404.6435 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59318
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=70
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.89158
+  Pc = 0.20733
+  Pf = 0.89415
+  Wc = 3999.9426
+  W0 = 396.7438
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32173.9302 us
+  mean_b = 945355.2362 us
+  capacity_w = 7.6584 Mbits/s
+  capacity_b = 2.8772 Kbits/s
+  Srv_w = 0.00031081
+  Srv_b = 1.0578e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67826
+  Pb = 0.054645
+  b001 = 0.00030512
+  tau_w = 0.011548
+  b000 = 1.05e-05
+  tau_b = 0.0023311
+  StdVar_w = 8646.4177
+  theta_w = -0.00021081
+  delta_w = 0.026874
+  Q_w = 1.7129
+  delay_w = 171293.8083 us
+  StdVar_b = 135523.0138
+  theta_b = -5.7803e-07
+  delta_b = 0.0045333
+  Q_b = 17.7739
+  delay_b = 17773925.4608 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59319
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=90
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.89211
+  Pc = 0.20844
+  Pf = 0.89467
+  Wc = 3953.3204
+  W0 = 391.52
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32023.0402 us
+  mean_b = 939668.6956 us
+  capacity_w = 7.6945 Mbits/s
+  capacity_b = 2.8946 Kbits/s
+  Srv_w = 0.00031228
+  Srv_b = 1.0642e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67977
+  Pb = 0.060331
+  b001 = 0.00030651
+  tau_w = 0.011616
+  b000 = 1.0563e-05
+  tau_b = 0.0023451
+  StdVar_w = 8649.4152
+  theta_w = -0.00021228
+  delta_w = 0.02701
+  Q_w = 1.7184
+  delay_w = 171837.9931 us
+  StdVar_b = 134686.3551
+  theta_b = -6.4205e-07
+  delta_b = 0.0045326
+  Q_b = 15.9984
+  delay_b = 15998449.4265 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59299
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=110
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.89166
+  Pc = 0.20749
+  Pf = 0.89422
+  Wc = 3993.3779
+  W0 = 396.0083
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32152.7382 us
+  mean_b = 944556.6063 us
+  capacity_w = 7.6634 Mbits/s
+  capacity_b = 2.8797 Kbits/s
+  Srv_w = 0.00031102
+  Srv_b = 1.0587e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67847
+  Pb = 0.055443
+  b001 = 0.00030531
+  tau_w = 0.011557
+  b000 = 1.0509e-05
+  tau_b = 0.002333
+  StdVar_w = 8646.8511
+  theta_w = -0.00021102
+  delta_w = 0.026893
+  Q_w = 1.7137
+  delay_w = 171370.3465 us
+  StdVar_b = 135405.5
+  theta_b = -5.8698e-07
+  delta_b = 0.0045332
+  Q_b = 17.5027
+  delay_b = 17502734.6198 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59316
+======================================================================
+  ########Trying W0=128
+  ########Trying Wc=130
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.92407
+  Pc = 0.30325
+  Pf = 0.92625
+  Wc = 1696.0303
+  W0 = 139.028
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 23092.7913 us
+  mean_b = 604146.7373 us
+  capacity_w = 10.67 Mbits/s
+  capacity_b = 4.5022 Kbits/s
+  Srv_w = 0.00043304
+  Srv_b = 1.6552e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.76907
+  Pb = 0.39585
+  b001 = 0.00041567
+  tau_w = 0.017898
+  b000 = 1.6358e-05
+  tau_b = 0.0036315
+  StdVar_w = 8036.2732
+  theta_w = -0.00033304
+  delta_w = 0.0348
+  Q_w = 1.8182
+  delay_w = 181817.5934 us
+  StdVar_b = 85661.0003
+  theta_b = -6.5523e-06
+  delta_b = 0.0044837
+  Q_b = 1.5341
+  delay_b = 1534121.0323 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7049 Kbps
+  Throughput_all = 0.56413
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=50
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.8919
+  Pc = 0.20799
+  Pf = 0.89446
+  Wc = 3972.0514
+  W0 = 393.6189
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32083.7687 us
+  mean_b = 941957.383 us
+  capacity_w = 7.6799 Mbits/s
+  capacity_b = 2.8876 Kbits/s
+  Srv_w = 0.00031168
+  Srv_b = 1.0616e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67916
+  Pb = 0.058043
+  b001 = 0.00030595
+  tau_w = 0.011589
+  b000 = 1.0538e-05
+  tau_b = 0.0023394
+  StdVar_w = 8648.2314
+  theta_w = -0.00021168
+  delta_w = 0.026955
+  Q_w = 1.7162
+  delay_w = 171619.1136 us
+  StdVar_b = 135023.0661
+  theta_b = -6.1619e-07
+  delta_b = 0.0045329
+  Q_b = 16.6714
+  delay_b = 16671430.4363 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59307
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=70
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.91704
+  Pc = 0.2764
+  Pf = 0.9193
+  Wc = 2098.4744
+  W0 = 183.4647
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 25021.49 us
+  mean_b = 676008.7743 us
+  capacity_w = 9.8475 Mbits/s
+  capacity_b = 4.0236 Kbits/s
+  Srv_w = 0.00039966
+  Srv_b = 1.4793e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.74979
+  Pb = 0.32399
+  b001 = 0.00038689
+  tau_w = 0.01604
+  b000 = 1.4639e-05
+  tau_b = 0.0032498
+  StdVar_w = 8373.576
+  theta_w = -0.00029966
+  delta_w = 0.033466
+  Q_w = 1.8687
+  delay_w = 186871.0248 us
+  StdVar_b = 96105.2934
+  theta_b = -4.7927e-06
+  delta_b = 0.0044957
+  Q_b = 2.1085
+  delay_b = 2108526.3868 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7077 Kbps
+  Throughput_all = 0.5742
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=90
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.89252
+  Pc = 0.20931
+  Pf = 0.89508
+  Wc = 3916.8311
+  W0 = 387.4305
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 31904.3133 us
+  mean_b = 935193.9694 us
+  capacity_w = 7.7231 Mbits/s
+  capacity_b = 2.9085 Kbits/s
+  Srv_w = 0.00031344
+  Srv_b = 1.0693e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.68096
+  Pb = 0.064806
+  b001 = 0.00030761
+  tau_w = 0.011671
+  b000 = 1.0614e-05
+  tau_b = 0.0023562
+  StdVar_w = 8651.6268
+  theta_w = -0.00021344
+  delta_w = 0.027117
+  Q_w = 1.7226
+  delay_w = 172264.8057 us
+  StdVar_b = 134028.1258
+  theta_b = -6.9297e-07
+  delta_b = 0.004532
+  Q_b = 14.8196
+  delay_b = 14819587.116 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7132 Kbps
+  Throughput_all = 0.59283
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=110
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.89162
+  Pc = 0.20741
+  Pf = 0.89419
+  Wc = 3996.7684
+  W0 = 396.3882
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32163.6856 us
+  mean_b = 944969.1633 us
+  capacity_w = 7.6608 Mbits/s
+  capacity_b = 2.8784 Kbits/s
+  Srv_w = 0.00031091
+  Srv_b = 1.0582e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67836
+  Pb = 0.055031
+  b001 = 0.00030521
+  tau_w = 0.011552
+  b000 = 1.0505e-05
+  tau_b = 0.002332
+  StdVar_w = 8646.6277
+  theta_w = -0.00021091
+  delta_w = 0.026883
+  Q_w = 1.7133
+  delay_w = 171330.8127 us
+  StdVar_b = 135466.2049
+  theta_b = -5.8236e-07
+  delta_b = 0.0045333
+  Q_b = 17.6419
+  delay_b = 17641851.9736 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59317
+======================================================================
+  ########Trying W0=256
+  ########Trying Wc=130
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.89856
+  Pc = 0.22293
+  Pf = 0.90105
+  Wc = 3405.2225
+  W0 = 330.0069
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 30176.132 us
+  mean_b = 870037.8159 us
+  capacity_w = 8.1654 Mbits/s
+  capacity_b = 3.1263 Kbits/s
+  Srv_w = 0.00033139
+  Srv_b = 1.1494e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.69824
+  Pb = 0.12996
+  b001 = 0.00032453
+  tau_w = 0.012529
+  b000 = 1.1402e-05
+  tau_b = 0.0025312
+  StdVar_w = 8666.4813
+  theta_w = -0.00023139
+  delta_w = 0.02872
+  Q_w = 1.7823
+  delay_w = 178233.0103 us
+  StdVar_b = 124457.2354
+  theta_b = -1.4938e-06
+  delta_b = 0.0045236
+  Q_b = 6.8494
+  delay_b = 6849441.6913 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7122 Kbps
+  Throughput_all = 0.59
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=50
+  *************fmincon error!!!
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=110
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+Active inequalities (to within options.TolCon = 1e-06):
+  lower      upper     ineqlin   ineqnonlin
+               4                      
+ exitflag = 5
+  alpha = 0.89158
+  Pc = 0.20733
+  Pf = 0.89415
+  Wc = 4000
+  W0 = 396.7501
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32174.1083 us
+  mean_b = 945362.2556 us
+  capacity_w = 7.6583 Mbits/s
+  capacity_b = 2.8772 Kbits/s
+  Srv_w = 0.00031081
+  Srv_b = 1.0578e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67826
+  Pb = 0.054638
+  b001 = 0.00030512
+  tau_w = 0.011548
+  b000 = 1.05e-05
+  tau_b = 0.0023311
+  StdVar_w = 8646.411
+  theta_w = -0.00021081
+  delta_w = 0.026874
+  Q_w = 1.7129
+  delay_w = 171293.0433 us
+  StdVar_b = 135524.0465
+  theta_b = -5.7796e-07
+  delta_b = 0.0045333
+  Q_b = 17.7763
+  delay_b = 17776343.8466 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59319
+======================================================================
+  ########Trying W0=512
+  ########Trying Wc=130
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.89159
+  Pc = 0.20734
+  Pf = 0.89415
+  Wc = 3999.8283
+  W0 = 396.731
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 32173.5615 us
+  mean_b = 945341.343 us
+  capacity_w = 7.6585 Mbits/s
+  capacity_b = 2.8773 Kbits/s
+  Srv_w = 0.00031081
+  Srv_b = 1.0578e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.67826
+  Pb = 0.054659
+  b001 = 0.00030512
+  tau_w = 0.011548
+  b000 = 1.0501e-05
+  tau_b = 0.0023311
+  StdVar_w = 8646.4253
+  theta_w = -0.00021081
+  delta_w = 0.026874
+  Q_w = 1.713
+  delay_w = 171295.1401 us
+  StdVar_b = 135520.9695
+  theta_b = -5.7819e-07
+  delta_b = 0.0045333
+  Q_b = 17.7691
+  delay_b = 17769140.591 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7133 Kbps
+  Throughput_all = 0.59319
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=50
+
+No feasible solution found.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance but constraints 
+are not satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+ exitflag = -2
+  *************No feasible point was found.
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=70
+
+No feasible solution found.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance but constraints are not 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+ exitflag = -2
+  *************No feasible point was found.
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=90
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current search direction is less than
+twice the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 4
+  alpha = 0.90852
+  Pc = 0.24917
+  Pf = 0.91089
+  Wc = 2654.3675
+  W0 = 245.6309
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 27376.4844 us
+  mean_b = 764496.2087 us
+  capacity_w = 9.0004 Mbits/s
+  capacity_b = 3.5579 Kbits/s
+  Srv_w = 0.00036528
+  Srv_b = 1.3081e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.72624
+  Pb = 0.2355
+  b001 = 0.00035596
+  tau_w = 0.014223
+  b000 = 1.2961e-05
+  tau_b = 0.0028773
+  StdVar_w = 8590.9423
+  theta_w = -0.00026528
+  delta_w = 0.031381
+  Q_w = 1.8561
+  delay_w = 185607.9867 us
+  StdVar_b = 109007.6359
+  theta_b = -3.0805e-06
+  delta_b = 0.004509
+  Q_b = 3.3
+  delay_b = 3299974.6766 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7101 Kbps
+  Throughput_all = 0.58306
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=110
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.90619
+  Pc = 0.24255
+  Pf = 0.90858
+  Wc = 2820.0097
+  W0 = 264.2318
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 28026.3298 us
+  mean_b = 788979.6721 us
+  capacity_w = 8.7917 Mbits/s
+  capacity_b = 3.4475 Kbits/s
+  Srv_w = 0.00035681
+  Srv_b = 1.2675e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.71974
+  Pb = 0.21102
+  b001 = 0.00034818
+  tau_w = 0.01379
+  b000 = 1.2562e-05
+  tau_b = 0.0027888
+  StdVar_w = 8622.801
+  theta_w = -0.00025681
+  delta_w = 0.030767
+  Q_w = 1.843
+  delay_w = 184300.6454 us
+  StdVar_b = 112585.7371
+  theta_b = -2.6746e-06
+  delta_b = 0.0045125
+  Q_b = 3.8067
+  delay_b = 3806682.436 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7107 Kbps
+  Throughput_all = 0.58498
+======================================================================
+  ########Trying W0=1024
+  ########Trying Wc=130
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the predicted change in the objective function
+is less than the default value of the function tolerance and constraints 
+are satisfied to within the default value of the constraint tolerance.
+
+<stopping criteria details>
+
+No active inequalities.
+ exitflag = 5
+  alpha = 0.90946
+  Pc = 0.25193
+  Pf = 0.91181
+  Wc = 2589.2404
+  W0 = 238.3233
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Arr_b = 5 packets/s, or 2.72 Kbits/s
+  mean_w = 27115.1567 us
+  mean_b = 754655.706 us
+  capacity_w = 9.0872 Mbits/s
+  capacity_b = 3.6043 Kbits/s
+  Srv_w = 0.0003688
+  Srv_b = 1.3251e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.72885
+  Pb = 0.24534
+  b001 = 0.00035918
+  tau_w = 0.014404
+  b000 = 1.3128e-05
+  tau_b = 0.0029144
+  StdVar_w = 8575.1453
+  theta_w = -0.0002688
+  delta_w = 0.031625
+  Q_w = 1.8604
+  delay_w = 186038.8469 us
+  StdVar_b = 107570.5088
+  theta_b = -3.2511e-06
+  delta_b = 0.0045076
+  Q_b = 3.1249
+  delay_b = 3124867.6508 us
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 2.7099 Kbps
+  Throughput_all = 0.58224  
+  
+  

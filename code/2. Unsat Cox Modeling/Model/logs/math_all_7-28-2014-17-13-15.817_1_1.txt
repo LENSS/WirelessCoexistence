@@ -1,0 +1,850 @@
+**************************Markov Chain Model***************************
+******************************start************************************
+***************************unsaturated*********************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 68
+  BMAC raw packet size = 68
+  BMAC timeslots per raw packet = 74
+  BMAC arrival rate = 0
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1540
+  WiFi raw packet size = 1540
+  WiFi timeslots per raw packet = 30
+  WiFi arrival rate = 0
+======================================================================
+  N_w = 10
+  N_b = 20
+======================================================================
+  Total Arr_w = 10 packets/s, or 0.1232 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',7.691287e-07,'default',1.000000e-06,4.925053e-15,'default',1.000000e-03,4.925053e-15,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98398
+  Pc = 0.40286
+  Pf = 0.9845
+  mean_w = 19258.089 us
+  mean_b = 134232.3417 us
+  capacity_w = 6.3973 Mbits/s
+  capacity_b = 81.0535 Kbits/s
+  Srv_w = 0.00051926
+  Srv_b = 7.4498e-05
+  Arr_w = 1e-05
+  Arr_b = 1e-05
+  Pw = 0.98074
+  Pb = 0.86577
+  b001 = 0.00044583
+  tau_w = 0.022399
+  b000 = 6.9666e-05
+  tau_b = 0.015466
+  StdVar_w = 5119.7838
+  theta_w = -0.00050926
+  delta_w = 0.0084069
+  Q_w = 0.069391
+  delay_w = 69391.3481 us
+  StdVar_b = 18065.1832
+  theta_b = -6.4498e-05
+  delta_b = 0.0042558
+  Q_b = 0.14041
+  delay_b = 140409.4111 us
+  Pi = 0.58376
+  Psw = 0.13375
+  Psb = 0.1834
+  Pcw = 0.014667
+  Pcb = 0.030131
+  Pcbw = 0.054289
+  aggrThr_trr_w = 0.085775
+  aggrThr_trp_w = 0.065761
+  aggrThr_trr_b = 0.91154
+  aggrThr_trp_b = 0.64054
+  aggrThr_trps_w = 0.1232 Mbps
+  aggrThr_trps_b = 9.9615 Kbps
+======================================================================
+  Total Arr_w = 100 packets/s, or 1.232 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.133831e-08,'default',1.000000e-06,2.206436e-17,'default',1.000000e-03,2.206436e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98399
+  Pc = 0.40459
+  Pf = 0.9845
+  mean_w = 19423.3849 us
+  mean_b = 134306.1798 us
+  capacity_w = 6.3429 Mbits/s
+  capacity_b = 81.0089 Kbits/s
+  Srv_w = 0.00051484
+  Srv_b = 7.4457e-05
+  Arr_w = 0.0001
+  Arr_b = 1e-05
+  Pw = 0.80577
+  Pb = 0.86569
+  b001 = 0.00045114
+  tau_w = 0.022731
+  b000 = 6.9629e-05
+  tau_b = 0.015458
+  StdVar_w = 5171.8658
+  theta_w = -0.00041484
+  delta_w = 0.026627
+  Q_w = 0.85454
+  delay_w = 85453.6391 us
+  StdVar_b = 18075.6243
+  theta_b = -6.4457e-05
+  delta_b = 0.004256
+  Q_b = 0.14051
+  delay_b = 140506.4638 us
+  Pi = 0.58187
+  Psw = 0.13534
+  Psb = 0.18271
+  Pcw = 0.015082
+  Pcb = 0.03
+  Pcbw = 0.05499
+  aggrThr_trr_w = 0.086896
+  aggrThr_trp_w = 0.06662
+  aggrThr_trr_b = 0.91061
+  aggrThr_trp_b = 0.63989
+  aggrThr_trps_w = 1.232 Mbps
+  aggrThr_trps_b = 9.9553 Kbps
+======================================================================
+  Total Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.500961e-08,'default',1.000000e-06,2.534131e-17,'default',1.000000e-03,2.534131e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98399
+  Pc = 0.40469
+  Pf = 0.98451
+  mean_w = 19432.5842 us
+  mean_b = 134310.2685 us
+  capacity_w = 6.3399 Mbits/s
+  capacity_b = 81.0065 Kbits/s
+  Srv_w = 0.0005146
+  Srv_b = 7.4454e-05
+  Arr_w = 0.0002
+  Arr_b = 1e-05
+  Pw = 0.61135
+  Pb = 0.86569
+  b001 = 0.00045144
+  tau_w = 0.02275
+  b000 = 6.9627e-05
+  tau_b = 0.015457
+  StdVar_w = 5174.76
+  theta_w = -0.0003146
+  delta_w = 0.03766
+  Q_w = 2.254
+  delay_w = 112701.8782 us
+  StdVar_b = 18076.2025
+  theta_b = -6.4454e-05
+  delta_b = 0.004256
+  Q_b = 0.14051
+  delay_b = 140511.8386 us
+  Pi = 0.58177
+  Psw = 0.13543
+  Psb = 0.18267
+  Pcw = 0.015105
+  Pcb = 0.029992
+  Pcbw = 0.055029
+  aggrThr_trr_w = 0.086958
+  aggrThr_trp_w = 0.066668
+  aggrThr_trr_b = 0.91056
+  aggrThr_trp_b = 0.63985
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 9.955 Kbps
+======================================================================
+  Total Arr_w = 300 packets/s, or 3.696 Mbits/s
+  Total Arr_b = 20 packets/s, or 10.88 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.831901e-08,'default',1.000000e-06,2.848526e-17,'default',1.000000e-03,2.848526e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98399
+  Pc = 0.40472
+  Pf = 0.98451
+  mean_w = 19435.6509 us
+  mean_b = 134311.6312 us
+  capacity_w = 6.3389 Mbits/s
+  capacity_b = 81.0056 Kbits/s
+  Srv_w = 0.00051452
+  Srv_b = 7.4454e-05
+  Arr_w = 0.0003
+  Arr_b = 1e-05
+  Pw = 0.41693
+  Pb = 0.86569
+  b001 = 0.00045153
+  tau_w = 0.022756
+  b000 = 6.9626e-05
+  tau_b = 0.015457
+  StdVar_w = 5175.7248
+  theta_w = -0.00021452
+  delta_w = 0.046125
+  Q_w = 4.9587
+  delay_w = 165291.1584 us
+  StdVar_b = 18076.3952
+  theta_b = -6.4454e-05
+  delta_b = 0.004256
+  Q_b = 0.14051
+  delay_b = 140513.6299 us
+  Pi = 0.58173
+  Psw = 0.13546
+  Psb = 0.18266
+  Pcw = 0.015113
+  Pcb = 0.02999
+  Pcbw = 0.055042
+  aggrThr_trr_w = 0.086979
+  aggrThr_trp_w = 0.066684
+  aggrThr_trr_b = 0.91054
+  aggrThr_trp_b = 0.63984
+  aggrThr_trps_w = 3.696 Mbps
+  aggrThr_trps_b = 9.9549 Kbps
+======================================================================
+  Total Arr_w = 10 packets/s, or 0.1232 Mbits/s
+  Total Arr_b = 40 packets/s, or 21.76 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',4.665292e-13,'default',1.000000e-06,1.809943e-27,'default',1.000000e-03,1.809943e-27,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98399
+  Pc = 0.4029
+  Pf = 0.9845
+  mean_w = 19267.6854 us
+  mean_b = 134275.7866 us
+  capacity_w = 6.3941 Mbits/s
+  capacity_b = 81.0273 Kbits/s
+  Srv_w = 0.000519
+  Srv_b = 7.4474e-05
+  Arr_w = 1e-05
+  Arr_b = 2e-05
+  Pw = 0.98073
+  Pb = 0.73145
+  b001 = 0.00044562
+  tau_w = 0.022389
+  b000 = 6.9698e-05
+  tau_b = 0.015473
+  StdVar_w = 5122.5321
+  theta_w = -0.000509
+  delta_w = 0.0084073
+  Q_w = 0.069432
+  delay_w = 69431.9472 us
+  StdVar_b = 18071.3265
+  theta_b = -5.4474e-05
+  delta_b = 0.0060188
+  Q_b = 0.33251
+  delay_b = 166252.6804 us
+  Pi = 0.58373
+  Psw = 0.13368
+  Psb = 0.18348
+  Pcw = 0.014653
+  Pcb = 0.030159
+  Pcbw = 0.05429
+  aggrThr_trr_w = 0.085713
+  aggrThr_trp_w = 0.065713
+  aggrThr_trr_b = 0.9116
+  aggrThr_trp_b = 0.64059
+  aggrThr_trps_w = 0.1232 Mbps
+  aggrThr_trps_b = 19.9224 Kbps
+======================================================================
+  Total Arr_w = 100 packets/s, or 1.232 Mbits/s
+  Total Arr_b = 40 packets/s, or 21.76 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',9.704212e-08,'default',1.000000e-06,7.846130e-17,'default',1.000000e-03,7.846130e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40463
+  Pf = 0.98451
+  mean_w = 19432.8346 us
+  mean_b = 134349.5112 us
+  capacity_w = 6.3398 Mbits/s
+  capacity_b = 80.9828 Kbits/s
+  Srv_w = 0.00051459
+  Srv_b = 7.4433e-05
+  Arr_w = 0.0001
+  Arr_b = 2e-05
+  Pw = 0.80567
+  Pb = 0.7313
+  b001 = 0.00045092
+  tau_w = 0.022721
+  b000 = 6.9662e-05
+  tau_b = 0.015465
+  StdVar_w = 5174.5652
+  theta_w = -0.00041459
+  delta_w = 0.026628
+  Q_w = 0.85511
+  delay_w = 85511.2983 us
+  StdVar_b = 18081.7517
+  theta_b = -5.4433e-05
+  delta_b = 0.0060189
+  Q_b = 0.33277
+  delay_b = 166386.7581 us
+  Pi = 0.58185
+  Psw = 0.13528
+  Psb = 0.18279
+  Pcw = 0.015067
+  Pcb = 0.030028
+  Pcbw = 0.054991
+  aggrThr_trr_w = 0.086832
+  aggrThr_trp_w = 0.066571
+  aggrThr_trr_b = 0.91068
+  aggrThr_trp_b = 0.63993
+  aggrThr_trps_w = 1.232 Mbps
+  aggrThr_trps_b = 19.91 Kbps
+======================================================================
+  Total Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Total Arr_b = 40 packets/s, or 21.76 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.028142e-07,'default',1.000000e-06,8.810159e-17,'default',1.000000e-03,8.810159e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40472
+  Pf = 0.98451
+  mean_w = 19442.0255 us
+  mean_b = 134353.592 us
+  capacity_w = 6.3368 Mbits/s
+  capacity_b = 80.9803 Kbits/s
+  Srv_w = 0.00051435
+  Srv_b = 7.443e-05
+  Arr_w = 0.0002
+  Arr_b = 2e-05
+  Pw = 0.61116
+  Pb = 0.73129
+  b001 = 0.00045121
+  tau_w = 0.02274
+  b000 = 6.966e-05
+  tau_b = 0.015465
+  StdVar_w = 5177.4567
+  theta_w = -0.00031435
+  delta_w = 0.037661
+  Q_w = 2.256
+  delay_w = 112799.4255 us
+  StdVar_b = 18082.3287
+  theta_b = -5.443e-05
+  delta_b = 0.0060189
+  Q_b = 0.33279
+  delay_b = 166394.1811 us
+  Pi = 0.58174
+  Psw = 0.13536
+  Psb = 0.18275
+  Pcw = 0.01509
+  Pcb = 0.030021
+  Pcbw = 0.055029
+  aggrThr_trr_w = 0.086894
+  aggrThr_trp_w = 0.066619
+  aggrThr_trr_b = 0.91062
+  aggrThr_trp_b = 0.6399
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 19.9093 Kbps
+======================================================================
+  Total Arr_w = 300 packets/s, or 3.696 Mbits/s
+  Total Arr_b = 40 packets/s, or 21.76 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.068088e-07,'default',1.000000e-06,9.509084e-17,'default',1.000000e-03,9.509084e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40475
+  Pf = 0.98451
+  mean_w = 19445.0895 us
+  mean_b = 134354.952 us
+  capacity_w = 6.3358 Mbits/s
+  capacity_b = 80.9795 Kbits/s
+  Srv_w = 0.00051427
+  Srv_b = 7.443e-05
+  Arr_w = 0.0003
+  Arr_b = 2e-05
+  Pw = 0.41665
+  Pb = 0.73129
+  b001 = 0.00045131
+  tau_w = 0.022746
+  b000 = 6.9659e-05
+  tau_b = 0.015464
+  StdVar_w = 5178.4205
+  theta_w = -0.00021427
+  delta_w = 0.046126
+  Q_w = 4.9649
+  delay_w = 165495.4671 us
+  StdVar_b = 18082.521
+  theta_b = -5.443e-05
+  delta_b = 0.0060189
+  Q_b = 0.33279
+  delay_b = 166396.655 us
+  Pi = 0.58171
+  Psw = 0.13539
+  Psb = 0.18274
+  Pcw = 0.015098
+  Pcb = 0.030019
+  Pcbw = 0.055042
+  aggrThr_trr_w = 0.086915
+  aggrThr_trp_w = 0.066635
+  aggrThr_trr_b = 0.91061
+  aggrThr_trp_b = 0.63989
+  aggrThr_trps_w = 3.696 Mbps
+  aggrThr_trps_b = 19.9091 Kbps
+======================================================================
+  Total Arr_w = 10 packets/s, or 0.1232 Mbits/s
+  Total Arr_b = 60 packets/s, or 32.64 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.851168e-13,'default',1.000000e-06,2.840861e-27,'default',1.000000e-03,2.840861e-27,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98399
+  Pc = 0.40291
+  Pf = 0.98451
+  mean_w = 19270.8867 us
+  mean_b = 134290.2774 us
+  capacity_w = 6.3931 Mbits/s
+  capacity_b = 81.0185 Kbits/s
+  Srv_w = 0.00051892
+  Srv_b = 7.4466e-05
+  Arr_w = 1e-05
+  Arr_b = 3e-05
+  Pw = 0.98073
+  Pb = 0.59713
+  b001 = 0.00044554
+  tau_w = 0.022386
+  b000 = 6.9709e-05
+  tau_b = 0.015475
+  StdVar_w = 5123.4489
+  theta_w = -0.00050892
+  delta_w = 0.0084074
+  Q_w = 0.069445
+  delay_w = 69445.4905 us
+  StdVar_b = 18073.3756
+  theta_b = -4.4466e-05
+  delta_b = 0.0073715
+  Q_b = 0.61102
+  delay_b = 203674.0492 us
+  Pi = 0.58372
+  Psw = 0.13366
+  Psb = 0.18351
+  Pcw = 0.014649
+  Pcb = 0.030169
+  Pcbw = 0.054291
+  aggrThr_trr_w = 0.085692
+  aggrThr_trp_w = 0.065697
+  aggrThr_trr_b = 0.91163
+  aggrThr_trp_b = 0.6406
+  aggrThr_trps_w = 0.1232 Mbps
+  aggrThr_trps_b = 29.8832 Kbps
+======================================================================
+  Total Arr_w = 100 packets/s, or 1.232 Mbits/s
+  Total Arr_b = 60 packets/s, or 32.64 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',2.770260e-07,'default',1.000000e-06,6.385130e-16,'default',1.000000e-03,6.385130e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40464
+  Pf = 0.98451
+  mean_w = 19435.9864 us
+  mean_b = 134363.9629 us
+  capacity_w = 6.3388 Mbits/s
+  capacity_b = 80.9741 Kbits/s
+  Srv_w = 0.00051451
+  Srv_b = 7.4425e-05
+  Arr_w = 0.0001
+  Arr_b = 3e-05
+  Pw = 0.80564
+  Pb = 0.59691
+  b001 = 0.00045085
+  tau_w = 0.022718
+  b000 = 6.9673e-05
+  tau_b = 0.015467
+  StdVar_w = 5175.4656
+  theta_w = -0.00041451
+  delta_w = 0.026628
+  Q_w = 0.85531
+  delay_w = 85530.5322 us
+  StdVar_b = 18083.7952
+  theta_b = -4.4425e-05
+  delta_b = 0.0073717
+  Q_b = 0.61162
+  delay_b = 203872.6088 us
+  Pi = 0.58184
+  Psw = 0.13525
+  Psb = 0.18282
+  Pcw = 0.015062
+  Pcb = 0.030038
+  Pcbw = 0.054991
+  aggrThr_trr_w = 0.086811
+  aggrThr_trp_w = 0.066555
+  aggrThr_trr_b = 0.9107
+  aggrThr_trp_b = 0.63995
+  aggrThr_trps_w = 1.232 Mbps
+  aggrThr_trps_b = 29.8647 Kbps
+======================================================================
+  Total Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Total Arr_b = 60 packets/s, or 32.64 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.197582e-07,'default',1.000000e-06,1.193440e-16,'default',1.000000e-03,1.193440e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40473
+  Pf = 0.98451
+  mean_w = 19445.1735 us
+  mean_b = 134368.0319 us
+  capacity_w = 6.3358 Mbits/s
+  capacity_b = 80.9716 Kbits/s
+  Srv_w = 0.00051427
+  Srv_b = 7.4422e-05
+  Arr_w = 0.0002
+  Arr_b = 3e-05
+  Pw = 0.6111
+  Pb = 0.5969
+  b001 = 0.00045114
+  tau_w = 0.022736
+  b000 = 6.9671e-05
+  tau_b = 0.015467
+  StdVar_w = 5178.3559
+  theta_w = -0.00031427
+  delta_w = 0.037661
+  Q_w = 2.2566
+  delay_w = 112831.9652 us
+  StdVar_b = 18084.3706
+  theta_b = -4.4422e-05
+  delta_b = 0.0073717
+  Q_b = 0.61165
+  delay_b = 203883.578 us
+  Pi = 0.58173
+  Psw = 0.13534
+  Psb = 0.18278
+  Pcw = 0.015085
+  Pcb = 0.030031
+  Pcbw = 0.055029
+  aggrThr_trr_w = 0.086873
+  aggrThr_trp_w = 0.066603
+  aggrThr_trr_b = 0.91065
+  aggrThr_trp_b = 0.63991
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 29.8636 Kbps
+======================================================================
+  Total Arr_w = 300 packets/s, or 3.696 Mbits/s
+  Total Arr_b = 60 packets/s, or 32.64 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.235249e-07,'default',1.000000e-06,1.269832e-16,'default',1.000000e-03,1.269832e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40476
+  Pf = 0.98451
+  mean_w = 19448.2366 us
+  mean_b = 134369.391 us
+  capacity_w = 6.3348 Mbits/s
+  capacity_b = 80.9708 Kbits/s
+  Srv_w = 0.00051419
+  Srv_b = 7.4422e-05
+  Arr_w = 0.0003
+  Arr_b = 3e-05
+  Pw = 0.41655
+  Pb = 0.59689
+  b001 = 0.00045124
+  tau_w = 0.022742
+  b000 = 6.967e-05
+  tau_b = 0.015467
+  StdVar_w = 5179.3194
+  theta_w = -0.00021419
+  delta_w = 0.046127
+  Q_w = 4.9669
+  delay_w = 165563.6531 us
+  StdVar_b = 18084.5628
+  theta_b = -4.4422e-05
+  delta_b = 0.0073717
+  Q_b = 0.61166
+  delay_b = 203887.2419 us
+  Pi = 0.5817
+  Psw = 0.13537
+  Psb = 0.18277
+  Pcw = 0.015093
+  Pcb = 0.030028
+  Pcbw = 0.055042
+  aggrThr_trr_w = 0.086894
+  aggrThr_trp_w = 0.066618
+  aggrThr_trr_b = 0.91063
+  aggrThr_trp_b = 0.6399
+  aggrThr_trps_w = 3.696 Mbps
+  aggrThr_trps_b = 29.8633 Kbps
+======================================================================
+  Total Arr_w = 10 packets/s, or 0.1232 Mbits/s
+  Total Arr_b = 80 packets/s, or 43.52 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',6.487405e-13,'default',1.000000e-06,3.488799e-27,'default',1.000000e-03,3.488799e-27,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.98399
+  Pc = 0.40292
+  Pf = 0.98451
+  mean_w = 19272.4874 us
+  mean_b = 134297.5226 us
+  capacity_w = 6.3925 Mbits/s
+  capacity_b = 81.0142 Kbits/s
+  Srv_w = 0.00051887
+  Srv_b = 7.4462e-05
+  Arr_w = 1e-05
+  Arr_b = 4e-05
+  Pw = 0.98073
+  Pb = 0.46281
+  b001 = 0.00044551
+  tau_w = 0.022384
+  b000 = 6.9715e-05
+  tau_b = 0.015477
+  StdVar_w = 5123.9073
+  theta_w = -0.00050887
+  delta_w = 0.0084074
+  Q_w = 0.069452
+  delay_w = 69452.263 us
+  StdVar_b = 18074.4001
+  theta_b = -3.4462e-05
+  delta_b = 0.0085119
+  Q_b = 1.0512
+  delay_b = 262801.0759 us
+  Pi = 0.58372
+  Psw = 0.13365
+  Psb = 0.18352
+  Pcw = 0.014646
+  Pcb = 0.030174
+  Pcbw = 0.054291
+  aggrThr_trr_w = 0.085682
+  aggrThr_trp_w = 0.065689
+  aggrThr_trr_b = 0.91164
+  aggrThr_trp_b = 0.64061
+  aggrThr_trps_w = 0.1232 Mbps
+  aggrThr_trps_b = 39.8441 Kbps
+======================================================================
+  Total Arr_w = 100 packets/s, or 1.232 Mbits/s
+  Total Arr_b = 80 packets/s, or 43.52 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',9.657706e-07,'default',1.000000e-06,7.760483e-15,'default',1.000000e-03,7.760483e-15,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40464
+  Pf = 0.98451
+  mean_w = 19437.566 us
+  mean_b = 134371.2033 us
+  capacity_w = 6.3382 Mbits/s
+  capacity_b = 80.9697 Kbits/s
+  Srv_w = 0.00051447
+  Srv_b = 7.4421e-05
+  Arr_w = 0.0001
+  Arr_b = 4e-05
+  Pw = 0.80562
+  Pb = 0.46252
+  b001 = 0.00045081
+  tau_w = 0.022716
+  b000 = 6.9678e-05
+  tau_b = 0.015469
+  StdVar_w = 5175.9168
+  theta_w = -0.00041447
+  delta_w = 0.026628
+  Q_w = 0.8554
+  delay_w = 85540.1727 us
+  StdVar_b = 18084.8191
+  theta_b = -3.4421e-05
+  delta_b = 0.0085121
+  Q_b = 1.0525
+  delay_b = 263127.4376 us
+  Pi = 0.58183
+  Psw = 0.13524
+  Psb = 0.18283
+  Pcw = 0.01506
+  Pcb = 0.030043
+  Pcbw = 0.054991
+  aggrThr_trr_w = 0.0868
+  aggrThr_trp_w = 0.066547
+  aggrThr_trr_b = 0.91071
+  aggrThr_trp_b = 0.63996
+  aggrThr_trps_w = 1.232 Mbps
+  aggrThr_trps_b = 39.8193 Kbps
+======================================================================
+  Total Arr_w = 200 packets/s, or 2.464 Mbits/s
+  Total Arr_b = 80 packets/s, or 43.52 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.436571e-07,'default',1.000000e-06,1.715981e-16,'default',1.000000e-03,1.715981e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40474
+  Pf = 0.98451
+  mean_w = 19446.7478 us
+  mean_b = 134375.2526 us
+  capacity_w = 6.3352 Mbits/s
+  capacity_b = 80.9673 Kbits/s
+  Srv_w = 0.00051422
+  Srv_b = 7.4418e-05
+  Arr_w = 0.0002
+  Arr_b = 4e-05
+  Pw = 0.61107
+  Pb = 0.4625
+  b001 = 0.0004511
+  tau_w = 0.022735
+  b000 = 6.9676e-05
+  tau_b = 0.015468
+  StdVar_w = 5178.8056
+  theta_w = -0.00031422
+  delta_w = 0.037662
+  Q_w = 2.257
+  delay_w = 112848.2404 us
+  StdVar_b = 18085.3916
+  theta_b = -3.4418e-05
+  delta_b = 0.0085121
+  Q_b = 1.0526
+  delay_b = 263145.3854 us
+  Pi = 0.58173
+  Psw = 0.13533
+  Psb = 0.18279
+  Pcw = 0.015083
+  Pcb = 0.030035
+  Pcbw = 0.05503
+  aggrThr_trr_w = 0.086862
+  aggrThr_trp_w = 0.066594
+  aggrThr_trr_b = 0.91066
+  aggrThr_trp_b = 0.63992
+  aggrThr_trps_w = 2.464 Mbps
+  aggrThr_trps_b = 39.818 Kbps
+======================================================================
+  Total Arr_w = 300 packets/s, or 3.696 Mbits/s
+  Total Arr_b = 80 packets/s, or 43.52 Kbits/s
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.341487e-07,'default',1.000000e-06,1.496473e-16,'default',1.000000e-03,1.496473e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.984
+  Pc = 0.40477
+  Pf = 0.98451
+  mean_w = 19449.8103 us
+  mean_b = 134376.6105 us
+  capacity_w = 6.3343 Mbits/s
+  capacity_b = 80.9665 Kbits/s
+  Srv_w = 0.00051414
+  Srv_b = 7.4418e-05
+  Arr_w = 0.0003
+  Arr_b = 4e-05
+  Pw = 0.41651
+  Pb = 0.46249
+  b001 = 0.0004512
+  tau_w = 0.022741
+  b000 = 6.9676e-05
+  tau_b = 0.015468
+  StdVar_w = 5179.7689
+  theta_w = -0.00021414
+  delta_w = 0.046127
+  Q_w = 4.9679
+  delay_w = 165597.7619 us
+  StdVar_b = 18085.5837
+  theta_b = -3.4418e-05
+  delta_b = 0.0085121
+  Q_b = 1.0526
+  delay_b = 263151.4045 us
+  Pi = 0.58169
+  Psw = 0.13536
+  Psb = 0.18278
+  Pcw = 0.015091
+  Pcb = 0.030033
+  Pcbw = 0.055042
+  aggrThr_trr_w = 0.086883
+  aggrThr_trp_w = 0.06661
+  aggrThr_trr_b = 0.91064
+  aggrThr_trp_b = 0.63991
+  aggrThr_trps_w = 3.696 Mbps
+  aggrThr_trps_b = 39.8175 Kbps

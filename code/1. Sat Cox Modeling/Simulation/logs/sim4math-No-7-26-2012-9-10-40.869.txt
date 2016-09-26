@@ -1,0 +1,22 @@
+*******test start******* at  9:10:40.916 7/26/2012
+round: 1 9:10:40.932 7/26/2012
+======================================================================
+wifi: 10, bmac: 30
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 1.1216Mbps
+wifi total throughput: 11.216Mbps
+bmac average throughput: 2.4219Kbps
+bmac total throughput: 72.6562Kbps
+alpha: 0.92934
+tau_w: 0.00083287
+Ptr_w: 0.030816
+tau_b: 4.0878e-005
+Ptr_b: 0.021379
+Pcoll_w: 0.28247
+Pcoll_b: 0.42142
+normalize_w: 0.39254
+normalize_b: 0.58062
+*11.216 72.6562
+======================================================================
+*******test end******* at  10:38:31.619 7/26/2012

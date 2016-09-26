@@ -1,0 +1,21 @@
+m=4;
+n=3;
+xguess=[0 0 0]';
+xvect = fsolve('coexist_math', xguess);
+alpha = xvect(1);
+beta = xvect(2);
+Px = xvect(3);
+disp('The roots from the default "fsolve" are: ')
+disp(['  alpha = ', num2str(alpha) ])
+disp(['  beta = ', num2str(beta) ])
+disp(['  Px = ', num2str(Px) ])
+x = alpha+(1-alpha)*beta;
+% y = Pcoll*(1-x^(m+1));
+% disp(['  x = ', num2str(x) ])
+% disp(['  y = ', num2str(y) ])
+% Pcf = (x^(m+1))*(1-y^(n+1))/(1-y);
+% Pcr = y^(n+1);
+% R = 1-Pcf-Pcr;
+% disp(['  Pcf = ', num2str(Pcf) ])
+% disp(['  Pcr = ', num2str(Pcr) ])
+% disp(['  R = ', num2str(R) ])

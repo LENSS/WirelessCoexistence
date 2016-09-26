@@ -1,0 +1,14 @@
+[1 @ 0 us] wait packet to arrive at 4374
+[2 @ 0 us] wait node to wakeup at 14406
+[3 @ 0 us] wait packet to arrive at 45381
+[4 @ 0 us] wait node to wakeup at 6047
+[5 @ 0 us] wait packet to arrive at 9595
+[6 @ 0 us] wait node to wakeup at 1847
+[7 @ 0 us] wait packet to arrive at 8404
+[8 @ 0 us] wait node to wakeup at 6911
+Pe: 0.257576
+
+Throughput: 0.742424
+
+Energy: 0.0002465
+

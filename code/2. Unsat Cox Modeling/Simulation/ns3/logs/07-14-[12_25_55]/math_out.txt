@@ -1,0 +1,306 @@
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.262300e-07,'default',1.000000e-06,5.668973e-15,'default',1.000000e-03,5.668973e-15,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.85704
+  Pc = 0.080014
+  Pf = 0.8543
+  tau_w = 0.0082257
+  tau_b = 0.00045291
+  aggrThr_trr_w = 0.39664
+  aggrThr_trp_w = 0.15657
+  aggrThr_trr_b = 0.43005
+  aggrThr_trp_b = 0.34551
+  aggrThr_trps_w = 0.1607
+  aggrThr_trps_b = 0.33011
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 50
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',9.155458e-13,'default',1.000000e-06,2.836785e-25,'default',1.000000e-03,2.836785e-25,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.86509
+  Pc = 0.079195
+  Pf = 0.86334
+  tau_w = 0.0079551
+  tau_b = 0.00053108
+  aggrThr_trr_w = 0.3602
+  aggrThr_trp_w = 0.14218
+  aggrThr_trr_b = 0.47553
+  aggrThr_trp_b = 0.38205
+  aggrThr_trps_w = 0.14633
+  aggrThr_trps_b = 0.36457
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 30
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 16
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',9.461418e-11,'default',1.000000e-06,2.920897e-21,'default',1.000000e-03,2.920897e-21,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.87676
+  Pc = 0.078107
+  Pf = 0.8762
+  tau_w = 0.0075392
+  tau_b = 0.00066059
+  aggrThr_trr_w = 0.30975
+  aggrThr_trp_w = 0.12227
+  aggrThr_trr_b = 0.5397
+  aggrThr_trp_b = 0.4336
+  aggrThr_trps_w = 0.12627
+  aggrThr_trps_b = 0.41313
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 32
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',4.896209e-08,'default',1.000000e-06,7.096813e-16,'default',1.000000e-03,7.096813e-16,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.84619
+  Pc = 0.060737
+  Pf = 0.84543
+  tau_w = 0.0058173
+  tau_b = 0.00050745
+  aggrThr_trr_w = 0.30047
+  aggrThr_trp_w = 0.11861
+  aggrThr_trr_b = 0.51814
+  aggrThr_trp_b = 0.41628
+  aggrThr_trps_w = 0.12398
+  aggrThr_trps_b = 0.40447
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 50
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 32
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.980259e-07,'default',1.000000e-06,1.032059e-13,'default',1.000000e-03,1.032059e-13,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.85566
+  Pc = 0.060014
+  Pf = 0.85574
+  tau_w = 0.0055573
+  tau_b = 0.00058657
+  aggrThr_trr_w = 0.26816
+  aggrThr_trp_w = 0.10585
+  aggrThr_trr_b = 0.56166
+  aggrThr_trp_b = 0.45124
+  aggrThr_trps_w = 0.1109
+  aggrThr_trps_b = 0.43795
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 30
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 32
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',5.458694e-11,'default',1.000000e-06,8.636600e-22,'default',1.000000e-03,8.636600e-22,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.86909
+  Pc = 0.059176
+  Pf = 0.87014
+  tau_w = 0.0051726
+  tau_b = 0.00071597
+  aggrThr_trr_w = 0.22504
+  aggrThr_trp_w = 0.088831
+  aggrThr_trr_b = 0.62107
+  aggrThr_trp_b = 0.49898
+  aggrThr_trps_w = 0.093334
+  aggrThr_trps_b = 0.48358
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 70
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 64
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',8.134348e-09,'default',1.000000e-06,1.675517e-17,'default',1.000000e-03,1.675517e-17,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.83591
+  Pc = 0.043916
+  Pf = 0.83745
+  tau_w = 0.0037395
+  tau_b = 0.00055938
+  aggrThr_trr_w = 0.2048
+  aggrThr_trp_w = 0.080843
+  aggrThr_trr_b = 0.60905
+  aggrThr_trp_b = 0.48933
+  aggrThr_trps_w = 0.085939
+  aggrThr_trps_b = 0.48183
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 50
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 64
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',2.156118e-07,'default',1.000000e-06,1.179021e-14,'default',1.000000e-03,1.179021e-14,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.84691
+  Pc = 0.043591
+  Pf = 0.84904
+  tau_w = 0.0035284
+  tau_b = 0.00063769
+  aggrThr_trr_w = 0.17962
+  aggrThr_trp_w = 0.070901
+  aggrThr_trr_b = 0.64732
+  aggrThr_trp_b = 0.52007
+  aggrThr_trps_w = 0.075488
+  aggrThr_trps_b = 0.51149
+**************************Markov Chain Model***************************
+******************************start************************************
+  Wi = 310
+  Wc = 30
+  BMAC packet size = 108
+  BMAC raw packet timeslots = 117
+  aMinBE = 64
+  aMaxBE = 1024
+  WiFi packet size = 1020
+  WiFi raw packet timeslots = 38
+======================================================================
+  N_w = 10
+  N_b = 20
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg('trustnleqn',1.000000e+00,true,true,'fsolve',1.581584e-11,'default',1.000000e-06,6.592249e-23,'default',1.000000e-03,6.592249e-23,'default',1.000000e-03);">stopping criteria details</a>>
+
+The roots from the default "fsolve" are: 
+  alpha = 0.86219
+  Pc = 0.043423
+  Pf = 0.86491
+  tau_w = 0.0032274
+  tau_b = 0.00076473
+  aggrThr_trr_w = 0.14719
+  aggrThr_trp_w = 0.058103
+  aggrThr_trr_b = 0.69802
+  aggrThr_trp_b = 0.5608
+  aggrThr_trps_w = 0.061964
+  aggrThr_trps_b = 0.5507

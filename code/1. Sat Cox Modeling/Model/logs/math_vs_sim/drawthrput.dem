@@ -1,0 +1,427 @@
+#
+# Example of using histogram modes
+#
+#reset
+#
+#load 'style.gp'
+#
+#
+#set term postscript eps color blacktext "Helvetica" 24
+##set title ""
+#set out "result_varbmac.eps"
+##set key top left Left reverse horiz samplen 2
+#
+#set auto x
+##set ylabel "WiFi Throughput (Mbps)" offset +2,0
+#set xlabel "Number of experiments" offset +2,0
+#set yrange [0:1]
+##set xrange [0:8]
+#set y2range [0:1]
+#
+#set ytics 0.1 nomirror #tc lt 1
+#set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+#
+#set y2tics 0.1 nomirror #tc lt 2
+#set y2label 'BoX-MAC Throughput (Kbps)' # tc lt 2
+#set style data linespoints
+##set style data histogram
+##set style histogram cluster gap 2
+##set style fill solid border -1
+##set style fill pattern border -1
+##set boxwidth 0.9
+##set xtic rotate by 90 scale 0
+##set bmargin 10 
+##plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+##plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+#plot 'varying_bmac-math.txt' using ($1) ti col w lp ls 1,	'' u ($2) ti col w lp ls 1 axes x1y2 #, \ 
+##                       '' u ($4/1.5) ti col w lp ls 1, '' u ($6) ti col w lp ls 1 axes x1y2 #, \
+##                      '' u ($10) ti col w lp ls 1, '' u ($11) ti col w lp ls 1 axes x1y2
+#set out
+#
+#set out "result_varwifi.eps"
+##set key top left Left reverse horiz samplen 2
+#
+##set auto x
+##set ylabel "WiFi Throughput (Mbps)" offset +2,0
+#set xlabel "Number of experiments" offset +2,0
+#set yrange [0:1]
+##set xrange [0:8]
+#set y2range [0:1]
+#
+#set ytics 0.1 nomirror #tc lt 1
+#set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+#
+#set y2tics 0.1 nomirror #tc lt 2
+#set y2label 'BoX-MAC Throughput (Kbps)' # tc lt 2
+#set style data linespoints
+##set style data histogram
+##set style histogram cluster gap 2
+##set style fill solid border -1
+##set style fill pattern border -1
+##set boxwidth 0.9
+##set xtic rotate by 90 scale 0
+##set bmargin 10 
+##plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+##plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+#plot 'varying_wifi-math.txt' using ($1) ti col w lp ls 1,	'' u ($2) ti col w lp ls 1 axes x1y2 #, \
+##      '' u ($6) ti col w lp ls 1, '' u ($7) ti col w lp ls 1 axes x1y2 #, \
+##      '' u ($8) ti col w lp ls 1, '' u ($9) ti col w lp ls 1 axes x1y2
+##										'' u ($*100*8/1000/60) ti col w lp ls 1
+##set out
+##
+reset
+
+load 'style.gp'
+
+
+set out "result_varnumber.eps"
+#set key top left Left reverse horiz samplen 2
+
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+set auto x
+set xlabel "Wi of BoX-MAC with fixed Wc=80" offset +2,0
+set yrange [0:1]
+#set xrange [0:8]
+#set y2range [0:190]
+
+set ytics 0.1 # nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+#set y2tics 20 nomirror #tc lt 2
+#set y2label 'BoX-MAC Throughput (Kbps)' # tc lt 2
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 270 # scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varnumber.txt' using ($3/1.4):xtic(1) ti col w lp ls 1,	'' u ($5/54) ti col w lp ls 2, \
+      '' u ($7/1.4) ti col w lp ls 3, '' u ($9/54) ti col w lp ls 4
+
+#set out "result_varbmac_wib1.eps"
+
+set size 0.75,0.75
+set origin 0.75,0.0
+
+
+set yrange [0:1]
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoX-MAC Throughput (Kbps)' # tc lt 2
+
+plot 'ex_varnumber.txt' using ($4*2.2):xtic(1) ti col w lp ls 1,	'' u ($6/250) ti col w lp ls 2, \
+      '' u ($8*2.2) ti col w lp ls 3, '' u ($10/250) ti col w lp ls 4
+
+unset multiplot
+
+set out
+
+
+
+set out "result_varbmac_wib1.eps"
+#set key top left Left reverse horiz samplen 2
+
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+set auto x
+set xlabel "Wi of BoX-MAC with fixed Wc=80" offset +2,0
+set yrange [0:1.0]
+#set xrange [0:8]
+#set y2range [0:190]
+
+set ytics 0.1 # nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+#set y2tics 20 nomirror #tc lt 2
+#set y2label 'BoX-MAC Throughput (Kbps)' # tc lt 2
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 270 # scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varbmac_wib.txt' using ($4/1.4):xtic(1) ti col w lp ls 1,	'' u ($6/54) ti col w lp ls 2, \
+      '' u ($8/1.4) ti col w lp ls 3, '' u ($10/54) ti col w lp ls 4
+
+#set out "result_varbmac_wib1.eps"
+
+set size 0.75,0.75
+set origin 0.75,0.0
+
+
+set yrange [0:1]
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoX-MAC Throughput (Kbps)' # tc lt 2
+
+plot 'ex_varbmac_wib.txt' using ($5*2.6):xtic(1) ti col w lp ls 1,	'' u ($7/250) ti col w lp ls 2, \
+      '' u ($9*2.6) ti col w lp ls 3, '' u ($11/250) ti col w lp ls 4
+
+unset multiplot
+
+set out
+
+
+set out "result_varbmac_wcb1.eps"
+#set key top left Left reverse horiz samplen 2
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+
+#set auto x
+set xlabel "Wc of BoX-MAC with fixed P=88" offset +2,0
+set yrange [0:1]
+#set xrange [0:8]
+#set y2range [0:190]
+
+set ytics 0.1 #nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 270 scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varbmac_wcb.txt' using ($4/1.4):xtic(2) ti col w lp ls 1,	'' u ($6/54) ti col w lp ls 2, \
+      '' u ($8/1.4) ti col w lp ls 3, '' u ($10/54) ti col w lp ls 4
+      
+set size 0.75,0.75
+set origin 0.75,0.0
+
+set yrange [0:1]
+#set out "result_varbmac_wcb1.eps"
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoX-MAC Throughput (Kbps)' # tc lt 2
+plot 'ex_varbmac_wcb.txt' using ($5*2.6):xtic(2) ti col w lp ls 1,	'' u ($7/250) ti col w lp ls 2, \
+      '' u ($9*2.6) ti col w lp ls 3, '' u ($11/250) ti col w lp ls 4
+
+unset multiplot
+
+set out
+#pause -1
+
+
+set out "result_varbmac_pb1.eps"
+#set key top left Left reverse horiz samplen 2
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+#set auto x
+#set ylabel "WiFi Throughput (Mbps)" offset +2,0
+set xlabel "P of BoX-MAC with fixed Wi=240" offset +2,0
+set yrange [0:1]
+#set xrange [0:8]
+
+set ytics 0.1 #nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 270 scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varbmac_pb.txt' using ($4/1.4):xtic(3) ti col w lp ls 1,	'' u ($6/54) ti col w lp ls 2, \
+      '' u ($8/1.4) ti col w lp ls 3, '' u ($10/54) ti col w lp ls 4
+
+
+#set out "result_varbmac_pb1.eps"
+set size 0.75,0.75
+set origin 0.75,0.0
+
+set yrange [0:1]
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoX-MAC Throughput (Kbps)' # tc lt 2
+plot 'ex_varbmac_pb.txt' using ($5*2.6):xtic(3) ti col w lp ls 1,	'' u ($7/250) ti col w lp ls 2, \
+      '' u ($9*2.6) ti col w lp ls 3, '' u ($11/250) ti col w lp ls 4
+unset multiplot
+set out
+#pause -1
+
+
+set out "result_varwifi_w0w1.eps"
+#set key top left Left reverse horiz samplen 2
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+
+#set auto x
+#set ylabel "WiFi Throughput (Mbps)" offset +2,0
+set xlabel "W0 of 802.11 with fixed Wm=1024" offset +2,0
+set yrange [0:1]
+#set xrange [0:8]
+
+set ytics 0.1 #nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 270 scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varwifi_w0w.txt' using ($4/1.4):xtic(1) ti col w lp ls 1,	'' u ($6/54) ti col w lp ls 2, \
+      '' u ($8/1.4) ti col w lp ls 3, '' u ($10/54) ti col w lp ls 4
+     
+#set out "result_varwifi_w0w1.eps"
+
+set size 0.75,0.75
+set origin 0.75,0.0
+
+
+
+set yrange [0:1]
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoX-MAC Throughput (Kbps)' # tc lt 2
+plot 'ex_varwifi_w0w.txt' using ($5*2.2):xtic(1) ti col w lp ls 1,	'' u ($7/250) ti col w lp ls 2, \
+      '' u ($9*2.6) ti col w lp ls 3, '' u ($11/250) ti col w lp ls 4
+
+unset multiplot
+
+set out
+#pause -1
+
+
+set out "result_varwifi_wmw1.eps"
+#set key top left Left reverse horiz samplen 2
+
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+
+set auto x
+#set ylabel "WiFi Throughput (Mbps)" offset +2,0
+set xlabel "Wm of 802.11 with fixed P=1000" offset +2,0
+set yrange [0:1]
+#set xrange [0:8]
+
+set ytics 0.1 #nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 90 scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varwifi_wmw.txt' using ($4/1.4):xtic(2) ti col w lp ls 1,	'' u ($6/54) ti col w lp ls 2, \
+      '' u ($8/1.4) ti col w lp ls 3, '' u ($10/54) ti col w lp ls 4
+
+#set out "result_varwifi_wmw1.eps"
+
+set size 0.75,0.75
+set origin 0.75,0.0
+
+
+set yrange [0:1]
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoX-MAC Throughput (Kbps)' # tc lt 2
+plot 'ex_varwifi_wmw.txt' using ($5*2.6):xtic(2) ti col w lp ls 1,	'' u ($7/250) ti col w lp ls 2, \
+      '' u ($9*2.2) ti col w lp ls 3, '' u ($11/250) ti col w lp ls 4
+
+
+unset multiplot
+
+set out
+#pause -1
+
+
+set out "result_varwifi_pw1.eps"
+#set key top left Left reverse horiz samplen 2
+
+
+set size 1.5,0.75
+set origin 0.0, 0.0
+set multiplot
+set size 0.75,0.75
+set origin 0.0,0.0
+
+
+set auto x
+#set ylabel "WiFi Throughput (Mbps)" offset +2,0
+set xlabel "P of 802.11 with fixed W0=32" offset +2,0
+set yrange [0:1]
+#set xrange [0:8]
+
+set ytics 0.1 #nomirror #tc lt 1
+set ylabel '802.11 Throughput (Mbps)' # tc lt 1
+
+set style data linespoints
+#set style data histogram
+#set style histogram cluster gap 2
+#set style fill solid border -1
+#set style fill pattern border -1
+#set boxwidth 0.9
+#set xtic rotate by 90 scale 0
+#set bmargin 10 
+#plot 'immigration.dat' using 6:xtic(1) ti col, '' u 12 ti col, '' u 13 ti col, '' u 14 ti col
+#plot 'immigration.dat' using 6:xtic(1) ti col w lp ls 1, '' u 12 ti col w lp ls 1, '' u 13 ti col w lp ls 1, '' u 14 ti col w lp ls 1
+plot 'ex_varwifi_pw.txt' using ($4/1.4):xtic(3) ti col w lp ls 1,	'' u ($6/54) ti col w lp ls 2, \
+      '' u ($8/1.4) ti col w lp ls 3, '' u ($10/54) ti col w lp ls 4
+
+#set out "result_varwifi_pw1.eps"
+
+set size 0.75,0.75
+set origin 0.75,0.0
+
+
+set yrange [0:1]
+set ytics 0.1 #nomirror #tc lt 2
+set ylabel 'BoXMAC Throughput (Kbps)' # tc lt 2
+plot 'ex_varwifi_pw.txt' using ($5*2.6):xtic(3) ti col w lp ls 1,	'' u ($7/250) ti col w lp ls 2, \
+      '' u ($9*2.6) ti col w lp ls 3, '' u ($11/250) ti col w lp ls 4
+
+unset multiplot
+
+set out
+#pause -1

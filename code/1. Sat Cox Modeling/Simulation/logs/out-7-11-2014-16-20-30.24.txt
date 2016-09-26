@@ -1,0 +1,918 @@
+*******test start******* at  16:20:30.24 7/11/2014
+round: 1 16:20:30.305 7/11/2014
+======================================================================
+wifi: 40, bmac: 40
+Wi_b: 320, Wc_b: 80, Packet_b: 68, LDATA_b: 218, OSD_b: 660
+aMinBE_w: 16, aMaxBE_w: 1024, Packet_w: 2346, LDATA_w: 35, OSD_w: 30, DIFS: 6
+10  [68] wifi collision happen
+10  [69] wifi collision happen
+10  [80] wifi collision happen
+96  [55] cw increased to 32 pick 31
+96  [68] cw increased to 32 pick 11
+96  [69] cw increased to 32 pick 26
+140  [54] wifi collision happen
+140  [70] wifi collision happen
+140  [72] wifi collision happen
+140  [74] wifi collision happen
+140  [80] wifi collision happen
+405  [45] cw increased to 32 pick 34
+405  [54] cw increased to 32 pick 5
+405  [70] cw increased to 32 pick 16
+405  [72] cw increased to 32 pick 5
+405  [74] cw increased to 32 pick 33
+406  [60] wifi collision happen
+406  [62] wifi collision happen
+406  [80] wifi collision happen
+449  [78] wifi collision happen
+449  [80] wifi collision happen
+449  [80] wifi collision happen
+492  [51] cw increased to 32 pick 7
+492  [60] cw increased to 32 pick 6
+492  [62] cw increased to 32 pick 30
+535  [76] cw increased to 32 pick 29
+535  [78] cw increased to 32 pick 22
+535  [80] cw increased to 32 pick 13
+580  [63] wifi collision happen
+580  [72] wifi collision happen
+580  [80] wifi collision happen
+846  [42] cw increased to 32 pick 30
+846  [63] cw increased to 32 pick 20
+846  [72] cw increased to 64 pick 42
+847  [47] wifi collision happen
+847  [67] wifi collision happen
+847  [80] wifi collision happen
+1114  [41] cw increased to 32 pick 22
+1114  [47] cw increased to 32 pick 30
+1114  [67] cw increased to 32 pick 28
+1562  [54] wifi collision happen
+1562  [56] wifi collision happen
+1562  [59] wifi collision happen
+1562  [80] wifi collision happen
+1605  [64] wifi collision happen
+1605  [71] wifi collision happen
+1605  [73] wifi collision happen
+1605  [80] wifi collision happen
+1648  [46] cw increased to 32 pick 23
+1648  [54] cw increased to 64 pick 46
+1648  [56] cw increased to 32 pick 4
+1648  [59] cw increased to 32 pick 10
+1691  [60] cw increased to 64 pick 2
+1691  [64] cw increased to 32 pick 17
+1691  [71] cw increased to 32 pick 16
+1691  [73] cw increased to 32 pick 17
+1692  [75] wifi collision happen
+1692  [79] wifi collision happen
+1692  [80] wifi collision happen
+1957  [68] cw increased to 64 pick 42
+1957  [75] cw increased to 32 pick 27
+1957  [79] cw increased to 32 pick 33
+2404  [53] wifi collision happen
+2404  [60] wifi collision happen
+2404  [61] wifi collision happen
+2404  [80] wifi collision happen
+2668  [48] cw increased to 32 pick 11
+2668  [53] cw increased to 32 pick 15
+2668  [60] cw increased to 128 pick 61
+2668  [61] cw increased to 32 pick 26
+2669  [51] wifi collision happen
+2669  [52] wifi collision happen
+2669  [58] wifi collision happen
+2669  [65] wifi collision happen
+2669  [80] wifi collision happen
+2935  [49] cw increased to 32 pick 4
+2935  [51] cw increased to 64 pick 7
+2935  [52] cw increased to 32 pick 5
+2935  [58] cw increased to 32 pick 28
+2935  [65] cw increased to 32 pick 32
+2936  [50] wifi collision happen
+2936  [56] wifi collision happen
+2936  [66] wifi collision happen
+2936  [80] wifi collision happen
+2936  [80] wifi collision happen
+3201  [43] cw increased to 32 pick 6
+3201  [50] cw increased to 32 pick 5
+3201  [56] cw increased to 64 pick 3
+3201  [66] cw increased to 32 pick 16
+3201  [80] cw increased to 64 pick 44
+3425  [4] bmac collision happen
+3425  [80] bmac collision happen
+3918  [56] wifi collision happen
+3918  [57] wifi collision happen
+3918  [70] wifi collision happen
+3918  [80] wifi collision happen
+3958  [28] bmac collision happen
+3958  [80] bmac collision happen
+4626  [49] cw increased to 64 pick 37
+4626  [56] cw increased to 128 pick 90
+4626  [57] cw increased to 32 pick 31
+4626  [70] cw increased to 64 pick 6
+4671  [59] wifi collision happen
+4671  [80] wifi collision happen
+4935  [50] cw increased to 64 pick 52
+4935  [59] cw increased to 64 pick 60
+5426  [70] wifi collision happen
+5426  [80] wifi collision happen
+5466  [13] bmac collision happen
+5466  [80] bmac collision happen
+5912  [43] cw increased to 64 pick 54
+5912  [70] cw increased to 128 pick 95
+5957  [51] wifi collision happen
+5957  [80] wifi collision happen
+5997  [28] bmac collision happen
+5997  [80] bmac collision happen
+6665  [48] cw increased to 64 pick 28
+6665  [51] cw increased to 32 pick 32
+6666  [71] wifi collision happen
+6666  [80] wifi collision happen
+6749  [20] bmac collision happen
+6749  [80] bmac collision happen
+6973  [69] cw increased to 64 pick 52
+6973  [71] cw increased to 64 pick 30
+6974  [63] wifi collision happen
+6974  [64] wifi collision happen
+6974  [77] wifi collision happen
+6974  [80] wifi collision happen
+7465  [53] cw increased to 64 pick 65
+7465  [63] cw increased to 64 pick 17
+7465  [64] cw increased to 64 pick 36
+7465  [77] cw increased to 32 pick 4
+7691  [31] bmac collision happen
+7691  [80] wifi collision happen
+7915  [66] cw increased to 64 pick 52
+8183  [34] bmac collision happen
+8183  [80] wifi collision happen
+8406  [30] bmac collision happen
+8406  [80] bmac collision happen
+8630  [77] cw increased to 64 pick 44
+8631  [78] wifi collision happen
+8631  [80] wifi collision happen
+9343  [74] cw increased to 64 pick 50
+9343  [78] cw increased to 32 pick 24
+9344  [33] bmac collision happen
+9344  [80] bmac collision happen
+9569  [44] wifi collision happen
+9569  [62] wifi collision happen
+9569  [80] wifi collision happen
+9878  [41] cw increased to 64 pick 54
+9878  [44] cw increased to 32 pick 6
+9878  [62] cw increased to 64 pick 58
+9879  [55] wifi collision happen
+9879  [67] wifi collision happen
+9879  [80] wifi collision happen
+10144  [46] cw increased to 64 pick 4
+10144  [55] cw increased to 64 pick 33
+10144  [67] cw increased to 64 pick 20
+10145  [75] wifi collision happen
+10145  [80] wifi collision happen
+10185  [36] bmac collision happen
+10185  [80] bmac collision happen
+10408  [35] bmac collision happen
+10408  [80] bmac collision happen
+10632  [52] cw increased to 32 pick 19
+10632  [75] cw increased to 64 pick 21
+10632  [24] bmac collision happen
+10632  [80] bmac collision happen
+11082  [73] wifi collision happen
+11082  [79] wifi collision happen
+11082  [80] wifi collision happen
+11346  [61] cw increased to 64 pick 7
+11346  [73] cw increased to 32 pick 32
+11346  [79] cw increased to 64 pick 5
+11347  [22] bmac collision happen
+11347  [80] wifi collision happen
+11571  [46] cw increased to 128 pick 129
+11572  [76] wifi collision happen
+11572  [80] wifi collision happen
+11616  [45] wifi collision happen
+11616  [47] wifi collision happen
+11616  [58] wifi collision happen
+11616  [80] wifi collision happen
+11657  [26] bmac collision happen
+11657  [80] bmac collision happen
+12103  [42] cw increased to 64 pick 4
+12103  [44] cw increased to 64 pick 40
+12103  [45] cw increased to 64 pick 41
+12103  [47] cw increased to 64 pick 35
+12103  [58] cw increased to 64 pick 2
+12103  [76] cw increased to 32 pick 24
+13304  [65] wifi collision happen
+13304  [10] bmac collision happen
+13304  [80] wifi collision happen
+13528  [63] cw increased to 128 pick 51
+13528  [65] cw increased to 64 pick 12
+13529  [61] wifi collision happen
+13529  [1] bmac collision happen
+13529  [80] wifi collision happen
+13753  [42] cw increased to 128 pick 125
+13753  [61] cw increased to 128 pick 98
+13796  [29] bmac collision happen
+13796  [80] bmac collision happen
+14377  [72] wifi collision happen
+14377  [80] wifi collision happen
+14421  [78] wifi collision happen
+14421  [80] wifi collision happen
+14464  [68] cw increased to 128 pick 44
+14464  [72] cw increased to 32 pick 21
+14507  [48] cw increased to 128 pick 21
+14507  [78] cw increased to 64 pick 26
+14733  [67] wifi collision happen
+14733  [71] wifi collision happen
+14733  [36] bmac collision happen
+14733  [80] wifi collision happen
+14957  [52] cw increased to 64 pick 57
+14957  [67] cw increased to 128 pick 82
+14957  [71] cw increased to 128 pick 25
+14958  [54] wifi collision happen
+14958  [57] wifi collision happen
+14958  [58] wifi collision happen
+14958  [65] wifi collision happen
+14958  [75] wifi collision happen
+14958  [80] wifi collision happen
+15225  [49] cw increased to 128 pick 12
+15225  [54] cw increased to 128 pick 48
+15225  [57] cw increased to 32 pick 29
+15225  [58] cw increased to 32 pick 9
+15225  [65] cw increased to 128 pick 103
+15225  [75] cw increased to 128 pick 86
+16167  [76] wifi collision happen
+16167  [80] wifi collision happen
+16254  [64] cw increased to 128 pick 114
+16254  [76] cw increased to 64 pick 40
+16255  [79] wifi collision happen
+16255  [80] wifi collision happen
+16301  [55] wifi collision happen
+16301  [80] wifi collision happen
+16789  [49] cw increased to 256 pick 84
+16789  [55] cw increased to 128 pick 79
+16789  [58] cw increased to 64 pick 60
+16789  [79] cw increased to 32 pick 24
+17101  [2] bmac collision happen
+17101  [80] wifi collision happen
+17325  [80] cw increased to 32 pick 18
+17326  [60] wifi collision happen
+17326  [80] wifi collision happen
+17814  [50] cw increased to 128 pick 22
+17814  [60] cw increased to 256 pick 65
+17815  [51] wifi collision happen
+17815  [72] wifi collision happen
+17815  [80] wifi collision happen
+18082  [48] cw increased to 256 pick 57
+18082  [51] cw increased to 32 pick 2
+18082  [72] cw increased to 64 pick 58
+18349  [51] wifi collision happen
+18349  [4] bmac collision happen
+18349  [26] bmac collision happen
+18349  [80] wifi collision happen
+18795  [47] cw increased to 128 pick 69
+18795  [51] cw increased to 64 pick 33
+19242  [69] wifi collision happen
+19242  [78] wifi collision happen
+19242  [1] bmac collision happen
+19242  [80] wifi collision happen
+19688  [43] cw increased to 128 pick 103
+19688  [69] cw increased to 128 pick 74
+19688  [78] cw increased to 32 pick 14
+20850  [71] wifi collision happen
+20850  [73] wifi collision happen
+20850  [80] wifi collision happen
+21157  [59] cw increased to 128 pick 67
+21157  [71] cw increased to 256 pick 57
+21157  [73] cw increased to 32 pick 13
+21158  [66] wifi collision happen
+21158  [80] wifi collision happen
+21467  [44] cw increased to 128 pick 34
+21467  [66] cw increased to 128 pick 11
+22181  [57] wifi collision happen
+22181  [80] wifi collision happen
+22181  [34] bmac collision happen
+22181  [80] wifi collision happen
+22627  [45] cw increased to 32 pick 4
+22627  [57] cw increased to 32 pick 31
+22627  [80] cw increased to 64 pick 20
+22628  [79] wifi collision happen
+22628  [80] wifi collision happen
+22893  [41] cw increased to 128 pick 15
+22893  [79] cw increased to 64 pick 3
+23159  [37] bmac collision happen
+23159  [80] bmac collision happen
+23385  [74] wifi collision happen
+23385  [79] wifi collision happen
+23385  [80] wifi collision happen
+23872  [45] cw increased to 64 pick 53
+23872  [74] cw increased to 32 pick 30
+23872  [79] cw increased to 128 pick 74
+23873  [73] wifi collision happen
+23873  [80] wifi collision happen
+23959  [62] cw increased to 128 pick 67
+23959  [73] cw increased to 64 pick 49
+24631  [66] wifi collision happen
+24631  [80] wifi collision happen
+24676  [63] wifi collision happen
+24676  [68] wifi collision happen
+24676  [12] bmac collision happen
+24676  [80] wifi collision happen
+24900  [50] cw increased to 256 pick 55
+24900  [53] cw increased to 128 pick 16
+24900  [63] cw increased to 256 pick 147
+24900  [66] cw increased to 256 pick 72
+24900  [68] cw increased to 256 pick 20
+27975  [80] wifi collision happen
+27975  [3] bmac collision happen
+27975  [23] bmac collision happen
+27975  [27] bmac collision happen
+27975  [80] wifi collision happen
+28419  [28] bmac collision happen
+28419  [80] bmac collision happen
+28643  [54] cw increased to 256 pick 69
+28643  [80] cw increased to 128 pick 115
+28645  [76] wifi collision happen
+28645  [80] wifi collision happen
+28954  [41] cw increased to 32 pick 8
+28954  [76] cw increased to 32 pick 24
+28955  [19] bmac collision happen
+28955  [80] wifi collision happen
+29179  [56] cw increased to 256 pick 205
+29181  [78] wifi collision happen
+29181  [31] bmac collision happen
+29181  [80] wifi collision happen
+29851  [51] cw increased to 128 pick 43
+29851  [78] cw increased to 32 pick 29
+30564  [4] bmac collision happen
+30564  [80] wifi collision happen
+30788  [52] cw increased to 128 pick 101
+31010  [33] bmac collision happen
+31010  [80] bmac collision happen
+31235  [12] bmac collision happen
+31235  [24] bmac collision happen
+31235  [27] bmac collision happen
+31235  [80] wifi collision happen
+31459  [77] cw increased to 32 pick 5
+31947  [22] bmac collision happen
+31947  [37] bmac collision happen
+31947  [80] bmac collision happen
+32172  [70] wifi collision happen
+32172  [31] bmac collision happen
+32172  [80] wifi collision happen
+32396  [68] cw increased to 512 pick 425
+32396  [70] cw increased to 256 pick 37
+32844  [35] bmac collision happen
+32844  [80] wifi collision happen
+33068  [44] cw increased to 256 pick 5
+33070  [77] wifi collision happen
+33070  [80] wifi collision happen
+33556  [57] cw increased to 64 pick 51
+33556  [77] cw increased to 64 pick 48
+33556  [10] bmac collision happen
+33556  [80] bmac collision happen
+34004  [22] bmac collision happen
+34004  [80] wifi collision happen
+34228  [74] cw increased to 64 pick 26
+34900  [6] bmac collision happen
+34900  [80] wifi collision happen
+35345  [26] bmac collision happen
+35345  [80] bmac collision happen
+35569  [44] cw increased to 512 pick 53
+35881  [31] bmac collision happen
+35881  [80] bmac collision happen
+36997  [72] wifi collision happen
+36997  [76] wifi collision happen
+36997  [80] wifi collision happen
+37261  [41] cw increased to 32 pick 24
+37261  [72] cw increased to 128 pick 95
+37261  [76] cw increased to 64 pick 46
+38241  [71] wifi collision happen
+38241  [80] wifi collision happen
+38729  [67] cw increased to 256 pick 25
+38729  [71] cw increased to 512 pick 353
+39217  [37] bmac collision happen
+39217  [80] bmac collision happen
+40112  [32] bmac collision happen
+40112  [80] bmac collision happen
+40337  [60] wifi collision happen
+40337  [78] wifi collision happen
+40337  [80] wifi collision happen
+40601  [48] cw increased to 32 pick 18
+40601  [60] cw increased to 512 pick 211
+40601  [78] cw increased to 64 pick 7
+41355  [23] bmac collision happen
+41355  [80] bmac collision happen
+41582  [73] wifi collision happen
+41582  [80] wifi collision happen
+41668  [61] cw increased to 256 pick 79
+41668  [73] cw increased to 32 pick 21
+41668  [38] bmac collision happen
+41668  [80] wifi collision happen
+41892  [78] cw increased to 128 pick 115
+43053  [75] wifi collision happen
+43053  [80] wifi collision happen
+43097  [53] wifi collision happen
+43097  [9] bmac collision happen
+43097  [80] wifi collision happen
+43321  [45] cw increased to 128 pick 6
+43321  [47] cw increased to 256 pick 149
+43321  [53] cw increased to 32 pick 20
+43321  [75] cw increased to 32 pick 26
+43546  [16] bmac collision happen
+43546  [80] wifi collision happen
+43770  [59] cw increased to 256 pick 175
+43770  [31] bmac collision happen
+43770  [80] bmac collision happen
+43995  [11] bmac collision happen
+43995  [13] bmac collision happen
+43995  [18] bmac collision happen
+43995  [35] bmac collision happen
+43995  [80] wifi collision happen
+44219  [55] cw increased to 256 pick 119
+45018  [51] wifi collision happen
+45018  [58] wifi collision happen
+45018  [69] wifi collision happen
+45018  [80] wifi collision happen
+45283  [45] cw increased to 256 pick 68
+45283  [51] cw increased to 256 pick 215
+45283  [58] cw increased to 32 pick 4
+45283  [69] cw increased to 32 pick 11
+45284  [74] wifi collision happen
+45284  [80] wifi collision happen
+45549  [49] cw increased to 512 pick 451
+45549  [74] cw increased to 32 pick 5
+45551  [70] wifi collision happen
+45551  [80] wifi collision happen
+45860  [41] cw increased to 64 pick 9
+45860  [70] cw increased to 32 pick 4
+45861  [58] wifi collision happen
+45861  [80] wifi collision happen
+46126  [48] cw increased to 64 pick 27
+46126  [58] cw increased to 64 pick 29
+46390  [38] bmac collision happen
+46390  [80] bmac collision happen
+47727  [65] wifi collision happen
+47727  [79] wifi collision happen
+47727  [80] wifi collision happen
+47771  [67] wifi collision happen
+47771  [70] wifi collision happen
+47771  [80] wifi collision happen
+47813  [79] cw increased to 32 pick 26
+48035  [37] bmac collision happen
+48035  [80] bmac collision happen
+48705  [50] cw increased to 32 pick 10
+48705  [62] cw increased to 256 pick 242
+48705  [65] cw increased to 256 pick 207
+48705  [67] cw increased to 512 pick 392
+48705  [70] cw increased to 64 pick 6
+49995  [70] wifi collision happen
+49995  [80] wifi collision happen
+50747  [53] cw increased to 64 pick 36
+50747  [70] cw increased to 128 pick 22
+50748  [74] wifi collision happen
+50748  [18] bmac collision happen
+50748  [32] bmac collision happen
+50748  [80] wifi collision happen
+50972  [69] cw increased to 32 pick 20
+50972  [74] cw increased to 32 pick 15
+50973  [76] wifi collision happen
+50973  [25] bmac collision happen
+50973  [80] wifi collision happen
+51197  [75] cw increased to 64 pick 40
+51197  [76] cw increased to 128 pick 128
+51198  [50] wifi collision happen
+51198  [57] wifi collision happen
+51198  [80] wifi collision happen
+51464  [46] cw increased to 256 pick 103
+51464  [50] cw increased to 64 pick 54
+51464  [57] cw increased to 128 pick 70
+52134  [66] wifi collision happen
+52134  [23] bmac collision happen
+52134  [80] wifi collision happen
+52581  [42] cw increased to 256 pick 139
+52581  [66] cw increased to 32 pick 30
+53741  [73] wifi collision happen
+53741  [80] wifi collision happen
+54896  [25] bmac collision happen
+54896  [80] bmac collision happen
+55564  [44] cw increased to 1024 pick 386
+55564  [73] cw increased to 32 pick 14
+55609  [19] bmac collision happen
+55609  [80] wifi collision happen
+55833  [64] cw increased to 256 pick 57
+56231  [77] wifi collision happen
+56231  [80] wifi collision happen
+56496  [43] cw increased to 256 pick 148
+56496  [77] cw increased to 32 pick 20
+56496  [29] bmac collision happen
+56496  [80] bmac collision happen
+56946  [19] bmac collision happen
+56946  [80] wifi collision happen
+57170  [48] cw increased to 128 pick 129
+57171  [58] wifi collision happen
+57171  [80] wifi collision happen
+57660  [41] cw increased to 32 pick 23
+57660  [58] cw increased to 128 pick 67
+58374  [79] wifi collision happen
+58374  [80] wifi collision happen
+58639  [70] cw increased to 256 pick 83
+58639  [79] cw increased to 32 pick 29
+58640  [73] wifi collision happen
+58640  [80] wifi collision happen
+59574  [69] cw increased to 32 pick 19
+59574  [73] cw increased to 64 pick 55
+59664  [7] bmac collision happen
+59664  [80] bmac collision happen
+60789  [77] wifi collision happen
+60789  [80] wifi collision happen
+61054  [20] bmac collision happen
+61054  [80] bmac collision happen
+61276  [25] bmac collision happen
+61276  [80] bmac collision happen
+61500  [66] cw increased to 64 pick 62
+61500  [77] cw increased to 64 pick 47
+62346  [20] bmac collision happen
+62346  [80] wifi collision happen
+62570  [69] cw increased to 64 pick 7
+64303  [7] bmac collision happen
+64303  [80] wifi collision happen
+64527  [79] cw increased to 64 pick 38
+64529  [69] wifi collision happen
+64529  [80] wifi collision happen
+64569  [32] bmac collision happen
+64569  [80] bmac collision happen
+64793  [52] cw increased to 256 pick 70
+64793  [69] cw increased to 128 pick 69
+64838  [11] bmac collision happen
+64838  [24] bmac collision happen
+64838  [80] wifi collision happen
+65062  [41] cw increased to 32 pick 13
+65287  [5] bmac collision happen
+65287  [80] bmac collision happen
+66758  [53] wifi collision happen
+66758  [54] wifi collision happen
+66758  [27] bmac collision happen
+66758  [80] wifi collision happen
+67205  [45] cw increased to 512 pick 47
+67205  [53] cw increased to 32 pick 21
+67205  [54] cw increased to 32 pick 15
+67655  [74] wifi collision happen
+67655  [80] wifi collision happen
+67701  [80] wifi collision happen
+67701  [80] wifi collision happen
+67744  [50] cw increased to 128 pick 13
+67744  [74] cw increased to 32 pick 8
+67969  [61] cw increased to 32 pick 23
+67969  [80] cw increased to 32 pick 12
+68235  [25] bmac collision happen
+68235  [35] bmac collision happen
+68235  [80] wifi collision happen
+68459  [75] cw increased to 32 pick 23
+68685  [4] bmac collision happen
+68685  [80] wifi collision happen
+69132  [64] cw increased to 512 pick 193
+69175  [38] bmac collision happen
+69175  [80] bmac collision happen
+72164  [72] wifi collision happen
+72164  [80] wifi collision happen
+72207  [80] wifi collision happen
+72207  [80] wifi collision happen
+72473  [57] cw increased to 256 pick 91
+72473  [72] cw increased to 32 pick 31
+72473  [78] cw increased to 256 pick 38
+72473  [80] cw increased to 64 pick 56
+72920  [16] bmac collision happen
+72920  [80] wifi collision happen
+74700  [23] bmac collision happen
+74700  [80] bmac collision happen
+74924  [63] cw increased to 512 pick 54
+74925  [73] wifi collision happen
+74925  [74] wifi collision happen
+74925  [77] wifi collision happen
+74925  [36] bmac collision happen
+74925  [80] wifi collision happen
+75147  [12] bmac collision happen
+75147  [35] bmac collision happen
+75147  [80] bmac collision happen
+75594  [50] cw increased to 256 pick 19
+75594  [73] cw increased to 128 pick 129
+75594  [74] cw increased to 32 pick 8
+75594  [77] cw increased to 128 pick 61
+78317  [61] wifi collision happen
+78317  [80] wifi collision happen
+78403  [58] cw increased to 256 pick 99
+78403  [61] cw increased to 64 pick 19
+78405  [79] wifi collision happen
+78405  [7] bmac collision happen
+78405  [80] wifi collision happen
+78629  [54] cw increased to 32 pick 15
+78629  [79] cw increased to 32 pick 13
+79569  [31] bmac collision happen
+79569  [80] bmac collision happen
+79794  [53] wifi collision happen
+79794  [80] wifi collision happen
+80058  [41] cw increased to 32 pick 33
+80058  [53] cw increased to 32 pick 4
+80060  [75] wifi collision happen
+80060  [80] wifi collision happen
+80325  [50] cw increased to 512 pick 276
+80325  [75] cw increased to 32 pick 23
+81259  [19] bmac collision happen
+81259  [27] bmac collision happen
+81259  [80] wifi collision happen
+81483  [53] cw increased to 64 pick 60
+81711  [79] wifi collision happen
+81711  [80] wifi collision happen
+81798  [79] cw increased to 64 pick 61
+81799  [55] cw increased to 512 pick 486
+82024  [54] wifi collision happen
+82024  [70] wifi collision happen
+82024  [72] wifi collision happen
+82024  [80] wifi collision happen
+82289  [45] cw increased to 1024 pick 304
+82289  [54] cw increased to 64 pick 12
+82289  [70] cw increased to 512 pick 133
+82289  [72] cw increased to 64 pick 64
+83627  [30] bmac collision happen
+83627  [80] bmac collision happen
+84074  [66] wifi collision happen
+84074  [5] bmac collision happen
+84074  [32] bmac collision happen
+84074  [80] wifi collision happen
+84298  [61] cw increased to 128 pick 65
+84298  [66] cw increased to 32 pick 16
+86265  [75] wifi collision happen
+86265  [80] wifi collision happen
+86529  [54] cw increased to 128 pick 15
+86529  [75] cw increased to 64 pick 61
+87691  [69] wifi collision happen
+87691  [80] wifi collision happen
+88178  [52] cw increased to 512 pick 460
+88178  [69] cw increased to 32 pick 11
+88179  [80] wifi collision happen
+88179  [80] wifi collision happen
+88223  [78] wifi collision happen
+88223  [80] wifi collision happen
+88488  [46] cw increased to 32 pick 32
+88488  [66] cw increased to 64 pick 37
+88488  [78] cw increased to 32 pick 10
+88488  [80] cw increased to 128 pick 5
+89067  [76] wifi collision happen
+89067  [80] wifi collision happen
+89332  [63] cw increased to 1024 pick 391
+89332  [76] cw increased to 32 pick 3
+89600  [69] wifi collision happen
+89600  [76] wifi collision happen
+89600  [78] wifi collision happen
+89600  [80] wifi collision happen
+89864  [54] cw increased to 256 pick 186
+89864  [69] cw increased to 64 pick 56
+89864  [76] cw increased to 64 pick 19
+89864  [78] cw increased to 64 pick 32
+89865  [39] bmac collision happen
+89865  [80] wifi collision happen
+90311  [47] cw increased to 512 pick 400
+92497  [74] wifi collision happen
+92497  [80] wifi collision happen
+92539  [26] bmac collision happen
+92539  [80] bmac collision happen
+93208  [41] cw increased to 32 pick 8
+93208  [74] cw increased to 32 pick 23
+94413  [77] wifi collision happen
+94413  [80] wifi collision happen
+94457  [48] wifi collision happen
+94457  [80] wifi collision happen
+94499  [77] cw increased to 32 pick 10
+94500  [42] cw increased to 512 pick 278
+94543  [41] cw increased to 64 pick 24
+94543  [48] cw increased to 256 pick 54
+94994  [80] wifi collision happen
+94994  [80] wifi collision happen
+95039  [56] wifi collision happen
+95039  [80] wifi collision happen
+95525  [46] cw increased to 64 pick 42
+95525  [56] cw increased to 32 pick 25
+95525  [76] cw increased to 32 pick 24
+95525  [80] cw increased to 32 pick 3
+95570  [77] wifi collision happen
+95570  [79] wifi collision happen
+95570  [80] wifi collision happen
+95570  [80] wifi collision happen
+95836  [53] cw increased to 128 pick 65
+95836  [77] cw increased to 64 pick 17
+95836  [79] cw increased to 128 pick 28
+95836  [80] cw increased to 64 pick 18
+95837  [20] bmac collision happen
+95837  [80] wifi collision happen
+96061  [66] cw increased to 128 pick 63
+97492  [3] bmac collision happen
+97492  [80] wifi collision happen
+97716  [57] cw increased to 512 pick 259
+98605  [77] wifi collision happen
+98605  [80] wifi collision happen
+98691  [59] cw increased to 32 pick 21
+98691  [77] cw increased to 128 pick 126
+98916  [75] wifi collision happen
+98916  [80] wifi collision happen
+99402  [74] cw increased to 32 pick 5
+99402  [75] cw increased to 128 pick 37
+99981  [40] bmac collision happen
+99981  [80] bmac collision happen
+100203  [13] bmac collision happen
+100203  [80] bmac collision happen
+101100  [74] wifi collision happen
+101100  [79] wifi collision happen
+101100  [4] bmac collision happen
+101100  [80] wifi collision happen
+101324  [56] cw increased to 64 pick 40
+101324  [74] cw increased to 32 pick 12
+101324  [79] cw increased to 256 pick 94
+101546  [39] bmac collision happen
+101546  [80] bmac collision happen
+101769  [14] bmac collision happen
+101769  [17] bmac collision happen
+101769  [80] bmac collision happen
+102218  [7] bmac collision happen
+102218  [80] wifi collision happen
+102442  [43] cw increased to 32 pick 6
+102443  [78] wifi collision happen
+102443  [9] bmac collision happen
+102443  [80] wifi collision happen
+102667  [60] cw increased to 1024 pick 132
+102667  [78] cw increased to 32 pick 27
+102670  [72] wifi collision happen
+102670  [80] wifi collision happen
+102756  [69] cw increased to 128 pick 10
+102756  [72] cw increased to 32 pick 4
+103066  [61] wifi collision happen
+103066  [80] wifi collision happen
+103332  [43] cw increased to 64 pick 26
+103332  [61] cw increased to 32 pick 20
+103333  [76] wifi collision happen
+103333  [80] wifi collision happen
+103821  [58] cw increased to 32 pick 23
+103821  [76] cw increased to 32 pick 9
+103866  [74] wifi collision happen
+103866  [7] bmac collision happen
+103866  [80] wifi collision happen
+104090  [41] cw increased to 32 pick 9
+104090  [74] cw increased to 64 pick 25
+104180  [80] wifi collision happen
+104180  [80] wifi collision happen
+104222  [24] bmac collision happen
+104222  [80] bmac collision happen
+104446  [76] cw increased to 64 pick 15
+104446  [80] cw increased to 32 pick 27
+104448  [72] wifi collision happen
+104448  [34] bmac collision happen
+104448  [80] wifi collision happen
+104672  [65] cw increased to 512 pick 293
+104672  [72] cw increased to 32 pick 12
+104673  [73] wifi collision happen
+104673  [80] wifi collision happen
+105205  [46] cw increased to 128 pick 108
+105205  [73] cw increased to 256 pick 251
+105657  [7] bmac collision happen
+105657  [80] wifi collision happen
+105881  [78] cw increased to 64 pick 11
+106106  [51] wifi collision happen
+106106  [75] wifi collision happen
+106106  [12] bmac collision happen
+106106  [80] wifi collision happen
+106328  [15] bmac collision happen
+106328  [80] bmac collision happen
+106552  [48] cw increased to 512 pick 305
+106552  [51] cw increased to 512 pick 113
+106552  [75] cw increased to 256 pick 175
+106864  [76] wifi collision happen
+106864  [80] wifi collision happen
+107350  [72] cw increased to 64 pick 35
+107350  [76] cw increased to 128 pick 73
+108412  [78] wifi collision happen
+108412  [80] wifi collision happen
+108677  [58] cw increased to 64 pick 48
+108677  [78] cw increased to 128 pick 80
+110108  [80] wifi collision happen
+110108  [80] wifi collision happen
+110373  [66] cw increased to 256 pick 156
+110373  [80] cw increased to 64 pick 9
+110641  [61] wifi collision happen
+110641  [80] wifi collision happen
+110905  [56] cw increased to 128 pick 107
+110905  [61] cw increased to 32 pick 20
+111352  [69] wifi collision happen
+111352  [74] wifi collision happen
+111352  [80] wifi collision happen
+111392  [10] bmac collision happen
+111392  [35] bmac collision happen
+111392  [80] bmac collision happen
+111616  [41] cw increased to 32 pick 22
+111616  [69] cw increased to 32 pick 13
+111616  [74] cw increased to 32 pick 30
+113536  [62] wifi collision happen
+113536  [80] wifi collision happen
+114023  [43] cw increased to 32 pick 16
+114023  [62] cw increased to 512 pick 128
+114245  [34] bmac collision happen
+114245  [80] bmac collision happen
+114957  [12] bmac collision happen
+114957  [80] wifi collision happen
+115181  [80] cw increased to 32 pick 9
+115232  [72] wifi collision happen
+115232  [80] wifi collision happen
+115232  [80] wifi collision happen
+115276  [61] wifi collision happen
+115276  [80] wifi collision happen
+115318  [72] cw increased to 128 pick 108
+115318  [80] cw increased to 64 pick 66
+115542  [53] cw increased to 32 pick 12
+115542  [59] cw increased to 32 pick 20
+115542  [61] cw increased to 64 pick 14
+115806  [15] bmac collision happen
+115806  [80] bmac collision happen
+116743  [43] wifi collision happen
+116743  [26] bmac collision happen
+116743  [80] wifi collision happen
+117189  [36] bmac collision happen
+117189  [80] bmac collision happen
+117413  [41] cw increased to 32 pick 32
+117413  [43] cw increased to 64 pick 34
+119063  [27] bmac collision happen
+119063  [80] wifi collision happen
+119287  [74] cw increased to 64 pick 44
+119419  [13] bmac collision happen
+119419  [80] bmac collision happen
+119953  [15] bmac collision happen
+119953  [80] bmac collision happen
+120218  [20] bmac collision happen
+120218  [80] bmac collision happen
+120666  [69] wifi collision happen
+120666  [79] wifi collision happen
+120666  [19] bmac collision happen
+120666  [80] wifi collision happen
+121112  [64] cw increased to 32 pick 2
+121112  [69] cw increased to 32 pick 27
+121112  [79] cw increased to 512 pick 83
+121334  [30] bmac collision happen
+121334  [80] bmac collision happen
+122004  [70] wifi collision happen
+122004  [2] bmac collision happen
+122004  [80] wifi collision happen
+122228  [64] cw increased to 64 pick 51
+122228  [70] cw increased to 32 pick 11
+122498  [58] wifi collision happen
+122498  [80] wifi collision happen
+122984  [53] cw increased to 32 pick 3
+122984  [58] cw increased to 32 pick 4
+123030  [32] bmac collision happen
+123030  [80] wifi collision happen
+123254  [53] cw increased to 64 pick 46
+123479  [59] wifi collision happen
+123479  [80] wifi collision happen
+123565  [58] cw increased to 64 pick 2
+123565  [59] cw increased to 32 pick 13
+123565  [76] wifi collision happen
+123565  [29] bmac collision happen
+123565  [80] wifi collision happen
+124012  [70] cw increased to 64 pick 31
+124012  [76] cw increased to 256 pick 49
+124014  [35] bmac collision happen
+124014  [80] wifi collision happen
+124238  [58] cw increased to 128 pick 110
+124239  [32] bmac collision happen
+124239  [80] bmac collision happen
+124690  [34] bmac collision happen
+124690  [80] wifi collision happen
+125582  [41] cw increased to 64 pick 24
+125808  [77] wifi collision happen
+125808  [80] wifi collision happen
+126073  [43] cw increased to 128 pick 126
+126073  [77] cw increased to 256 pick 227
+126073  [40] bmac collision happen
+126073  [80] bmac collision happen
+126385  [15] bmac collision happen
+126385  [80] bmac collision happen
+126833  [69] wifi collision happen
+126833  [80] wifi collision happen
+127987  [59] cw increased to 64 pick 3
+127987  [69] cw increased to 64 pick 20
+128882  [74] wifi collision happen
+128882  [80] wifi collision happen
+128926  [1] bmac collision happen
+128926  [80] wifi collision happen
+129150  [59] cw increased to 128 pick 42
+129150  [74] cw increased to 128 pick 35
+129150  [78] cw increased to 32 pick 4
+131160  [71] wifi collision happen
+131160  [4] bmac collision happen
+131160  [80] wifi collision happen
+131829  [41] cw increased to 128 pick 107
+131829  [71] cw increased to 1024 pick 284
+131877  [78] wifi collision happen
+131877  [80] wifi collision happen
+132184  [61] cw increased to 32 pick 16
+132184  [78] cw increased to 32 pick 25
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('int2str', 'C:\Program Files (x86)\MATLAB\R2013a\toolbox\matlab\strfun\int2str.m', 0)" style="font-weight:bold">int2str</a>
+
+
+In <a href="matlab:helpUtils.errorDocCallback('num2str', 'C:\Program Files (x86)\MATLAB\R2013a\toolbox\matlab\strfun\num2str.m', 68)" style="font-weight:bold">num2str</a> (<a href="matlab: opentoline('C:\Program Files (x86)\MATLAB\R2013a\toolbox\matlab\strfun\num2str.m',68,0)">line 68</a>)
+                s = int2str(x); % Enhance the performance
+
+In <a href="matlab:helpUtils.errorDocCallback('coexist', 'E:\weizhang\Dropbox\work\coexistence\simulation\coexist.m', 521)" style="font-weight:bold">coexist</a> (<a href="matlab: opentoline('E:\weizhang\Dropbox\work\coexistence\simulation\coexist.m',521,0)">line 521</a>)
+                                    zw_disp(['[', num2str(j), '] bmac sensed busy backoff at ', num2str(i)]);
+} 
+coexist

@@ -1,0 +1,66 @@
+*******test start******* at  18:45:17.721 12/13/2012
+round: 1 18:45:17.721 12/13/2012
+======================================================================
+wifi: 5, bmac: 0
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 6.3296Mbps
+wifi total throughput: 31.6479Mbps
+bmac average throughput: NaNKbps
+bmac total throughput: 0Kbps
+alpha: 0.79581
+tau_w: 0.0038907
+Ptr_w: 0.14396
+tau_b: NaN
+Ptr_b: NaN
+Pcoll_w: 0.13318
+Pcoll_b: NaN
+normalize_w: 0.79581
+normalize_b: 0
+*31.6479 0
+======================================================================
+*******test end******* at  19:2:21.471 12/13/2012
+*******test start******* at  19:2:21.474 12/13/2012
+round: 1 19:2:21.477 12/13/2012
+======================================================================
+wifi: 10, bmac: 0
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 2.6934Mbps
+wifi total throughput: 26.9336Mbps
+bmac average throughput: NaNKbps
+bmac total throughput: 0Kbps
+alpha: 0.85017
+tau_w: 0.00193
+Ptr_w: 0.071409
+tau_b: NaN
+Ptr_b: NaN
+Pcoll_w: 0.25642
+Pcoll_b: NaN
+normalize_w: 0.85017
+normalize_b: 0
+*26.9336 0
+======================================================================
+*******test end******* at  19:33:44.911 12/13/2012
+*******test start******* at  19:33:44.913 12/13/2012
+round: 1 19:33:44.916 12/13/2012
+======================================================================
+wifi: 15, bmac: 0
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 1.6215Mbps
+wifi total throughput: 24.322Mbps
+bmac average throughput: NaNKbps
+bmac total throughput: 0Kbps
+alpha: 0.86864
+tau_w: 0.001274
+Ptr_w: 0.047137
+tau_b: NaN
+Ptr_b: NaN
+Pcoll_w: 0.32184
+Pcoll_b: NaN
+normalize_w: 0.86864
+normalize_b: 0
+*24.322 0
+======================================================================
+*******test end******* at  20:16:49.508 12/13/2012

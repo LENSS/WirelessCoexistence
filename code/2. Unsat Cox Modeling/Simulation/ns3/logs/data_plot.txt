@@ -1,0 +1,6 @@
+"Contention Window Sizes - WIFI" "ZIGBEE_CW_SIZE" "802.11-throughput-NS3" "BoX-MAC througput-NS3" "Analytical-throughput-802.11" "Analytical throughput-Bmac"
+1	70	  .237 	  .131 
+2	70	  .237 	  .088 
+3	70	  .237 	  .063 
+4	70	  .237 	  .051 
+5	70	  .237 	  .043 

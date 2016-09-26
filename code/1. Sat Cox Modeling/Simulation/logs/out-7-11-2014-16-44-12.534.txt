@@ -1,0 +1,27 @@
+*******test start******* at  16:44:12.534 7/11/2014
+round: 1 16:44:12.572 7/11/2014
+======================================================================
+wifi: 10, bmac: 20
+Wi_b: 320, Wc_b: 80, Packet_b: 108, LDATA_b: 346, OSD_b: 660
+aMinBE_w: 16, aMaxBE_w: 1024, Packet_w: 1846, LDATA_w: 28, OSD_w: 30, DIFS: 6
+500000 16:47:46.278 7/11/2014
+1000000 16:51:15.979 7/11/2014
+tau: 0.0032219
+tau2: 0.00011507
+Pcoll_w: 0.40035
+phi: 0.0039763
+alpha: 0.96135
+beta: 0.40629
+Pcoll_b: 0.24224
+normalize_all_w: 0.08604
+normalize_all_b: 0.88995
+normalize_trr_w: 0.10356
+normalize_trr_b: 0.947
+normalize_trrs_w: 0.0621
+normalize_trrs_b: 0.7176
+normalize_trp_w: 0.05178
+normalize_trp_b: 0.77183
+normalize_trps_w: 0.03519
+normalize_trps_b: 0.58487
+======================================================================
+*******test end******* at  16:51:15.996 7/11/2014

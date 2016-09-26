@@ -1,0 +1,135 @@
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:16
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:70
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  5460
+No. of Zigbee Packets Successfully Transmitted:  1920
+Wifi Throughput:  .129 bps
+Zigbee Throughput:  .540 bps
+Average Collision rate per node:  .367
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:16
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:50
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  4545
+No. of Zigbee Packets Successfully Transmitted:  2077
+Wifi Throughput:  .107 bps
+Zigbee Throughput:  .584 bps
+Average Collision rate per node:  .365
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:16
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:30
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  3418
+No. of Zigbee Packets Successfully Transmitted:  2280
+Wifi Throughput:  .081 bps
+Zigbee Throughput:  .642 bps
+Average Collision rate per node:  .357
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:32
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:70
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  5618
+No. of Zigbee Packets Successfully Transmitted:  1928
+Wifi Throughput:  .133 bps
+Zigbee Throughput:  .542 bps
+Average Collision rate per node:  .286
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:32
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:50
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  4520
+No. of Zigbee Packets Successfully Transmitted:  2114
+Wifi Throughput:  .107 bps
+Zigbee Throughput:  .595 bps
+Average Collision rate per node:  .285
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:32
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:30
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  3407
+No. of Zigbee Packets Successfully Transmitted:  2308
+Wifi Throughput:  .080 bps
+Zigbee Throughput:  .649 bps
+Average Collision rate per node:  .275
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:64
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:70
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  5584
+No. of Zigbee Packets Successfully Transmitted:  1955
+Wifi Throughput:  .132 bps
+Zigbee Throughput:  .550 bps
+Average Collision rate per node:  .193
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:64
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:50
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  4627
+No. of Zigbee Packets Successfully Transmitted:  2124
+Wifi Throughput:  .109 bps
+Zigbee Throughput:  .598 bps
+Average Collision rate per node:  .184
+
+-----PARAMETERS ------
+ 
+WIFI_NODES:20
+WIFI_CW_SIZE:64
+WIFI_PCKT_SIZE:1600
+ZIGBEE_NODES:40
+ZIGBEE_CW_SIZE:30
+ZIGBEE_PCKT_SIZE:88
+
+No. of Wifi Packets Successfully Transmitted:  3334
+No. of Zigbee Packets Successfully Transmitted:  2325
+Wifi Throughput:  .079 bps
+Zigbee Throughput:  .654 bps
+Average Collision rate per node:  .193

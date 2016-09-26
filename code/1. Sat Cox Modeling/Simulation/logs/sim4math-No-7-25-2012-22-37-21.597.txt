@@ -1,0 +1,110 @@
+*******test start******* at  22:37:21.66 7/25/2012
+round: 1 22:37:21.66 7/25/2012
+======================================================================
+wifi: 15, bmac: 5
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 1.4002Mbps
+wifi total throughput: 21.003Mbps
+bmac average throughput: 3.2266Kbps
+bmac total throughput: 16.1331Kbps
+alpha: 0.8842
+tau_w: 0.0011087
+Ptr_w: 0.041022
+tau_b: 5.155e-005
+Ptr_b: 0.026961
+Pcoll_w: 0.32709
+Pcoll_b: 0.38875
+normalize_w: 0.76392
+normalize_b: 0.13308
+*21.003 16.1331
+======================================================================
+*******test end******* at  0:27:50.252 7/26/2012
+*******test start******* at  0:27:50.252 7/26/2012
+round: 1 0:27:50.252 7/26/2012
+======================================================================
+wifi: 15, bmac: 10
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 1.2531Mbps
+wifi total throughput: 18.7965Mbps
+bmac average throughput: 2.6732Kbps
+bmac total throughput: 26.7315Kbps
+alpha: 0.89517
+tau_w: 0.00099474
+Ptr_w: 0.036806
+tau_b: 4.502e-005
+Ptr_b: 0.023545
+Pcoll_w: 0.32879
+Pcoll_b: 0.42015
+normalize_w: 0.68995
+normalize_b: 0.22756
+*18.7965 26.7315
+======================================================================
+*******test end******* at  2:21:16.7 7/26/2012
+*******test start******* at  2:21:16.7 7/26/2012
+round: 1 2:21:16.7 7/26/2012
+======================================================================
+wifi: 15, bmac: 15
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 1.1292Mbps
+wifi total throughput: 16.9379Mbps
+bmac average throughput: 2.3433Kbps
+bmac total throughput: 35.1488Kbps
+alpha: 0.90417
+tau_w: 0.00089977
+Ptr_w: 0.033292
+tau_b: 4.0697e-005
+Ptr_b: 0.021284
+Pcoll_w: 0.33132
+Pcoll_b: 0.43771
+normalize_w: 0.62976
+normalize_b: 0.30415
+*16.9379 35.1488
+======================================================================
+*******test end******* at  4:9:23.222 7/26/2012
+*******test start******* at  4:9:23.222 7/26/2012
+round: 1 4:9:23.222 7/26/2012
+======================================================================
+wifi: 15, bmac: 20
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 1.0255Mbps
+wifi total throughput: 15.382Mbps
+bmac average throughput: 2.1105Kbps
+bmac total throughput: 42.2093Kbps
+alpha: 0.91135
+tau_w: 0.0008228
+Ptr_w: 0.030443
+tau_b: 3.7335e-005
+Ptr_b: 0.019526
+Pcoll_w: 0.33594
+Pcoll_b: 0.44797
+normalize_w: 0.58075
+normalize_b: 0.36526
+*15.382 42.2093
+======================================================================
+*******test end******* at  5:54:41.717 7/26/2012
+*******test start******* at  5:54:41.733 7/26/2012
+round: 1 5:54:41.733 7/26/2012
+======================================================================
+wifi: 15, bmac: 25
+Wi_b: 320, Wc_b: 80, Packet_b: 128, LDATA_b: 523, OSD_b: 660
+aMinBE_w: 5, aMaxBE_w: 10, Packet_w: 2346, LDATA_w: 35, OSD_w: 40, DIFS: 6
+wifi average throughput: 0.96507Mbps
+wifi total throughput: 14.476Mbps
+bmac average throughput: 1.8694Kbps
+bmac total throughput: 46.7354Kbps
+alpha: 0.91586
+tau_w: 0.00077506
+Ptr_w: 0.028677
+tau_b: 3.3432e-005
+Ptr_b: 0.017485
+Pcoll_w: 0.33656
+Pcoll_b: 0.45394
+normalize_w: 0.54922
+normalize_b: 0.40428
+*14.476 46.7354
+======================================================================
+*******test end******* at  7:41:40.832 7/26/2012

@@ -1,0 +1,1659 @@
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 0.000000
+mu: < 50.000000
+Elapsed time is 2.652437 seconds.
+Elapsed time is 2.662085 seconds.
+Elapsed time is 2.667930 seconds.
+Elapsed time is 2.664339 seconds.
+Elapsed time is 2.675596 seconds.
+Elapsed time is 2.651811 seconds.
+Elapsed time is 2.663099 seconds.
+Elapsed time is 2.661808 seconds.
+Elapsed time is 2.674281 seconds.
+Elapsed time is 2.658615 seconds.
+Elapsed time is 2.657332 seconds.
+Elapsed time is 2.635841 seconds.
+Elapsed time is 2.647509 seconds.
+Elapsed time is 2.654154 seconds.
+Elapsed time is 2.652866 seconds.
+Elapsed time is 2.647709 seconds.
+Elapsed time is 2.648197 seconds.
+Elapsed time is 2.663832 seconds.
+Elapsed time is 2.667963 seconds.
+Elapsed time is 2.650856 seconds.
+Elapsed time is 2.639358 seconds.
+Elapsed time is 2.653575 seconds.
+Elapsed time is 2.648421 seconds.
+Elapsed time is 2.647865 seconds.
+Elapsed time is 2.645624 seconds.
+Elapsed time is 2.643860 seconds.
+Elapsed time is 2.662261 seconds.
+Elapsed time is 2.664318 seconds.
+Elapsed time is 2.649943 seconds.
+Elapsed time is 2.647040 seconds.
+Elapsed time is 2.645059 seconds.
+Elapsed time is 2.657252 seconds.
+Elapsed time is 2.638731 seconds.
+Elapsed time is 2.649270 seconds.
+Elapsed time is 2.648259 seconds.
+Elapsed time is 2.650614 seconds.
+Elapsed time is 2.653685 seconds.
+Elapsed time is 2.659409 seconds.
+Elapsed time is 2.651731 seconds.
+Elapsed time is 2.652696 seconds.
+Elapsed time is 2.659375 seconds.
+Elapsed time is 2.658964 seconds.
+Elapsed time is 2.649445 seconds.
+Elapsed time is 2.660515 seconds.
+Elapsed time is 2.648481 seconds.
+Elapsed time is 2.662158 seconds.
+Elapsed time is 2.651309 seconds.
+Elapsed time is 2.665886 seconds.
+Elapsed time is 2.659647 seconds.
+Elapsed time is 2.670629 seconds.
+Elapsed time is 2.669363 seconds.
+Elapsed time is 2.637282 seconds.
+Elapsed time is 2.650453 seconds.
+Elapsed time is 2.653098 seconds.
+Elapsed time is 2.651447 seconds.
+Elapsed time is 2.656903 seconds.
+Elapsed time is 2.661253 seconds.
+Elapsed time is 2.651622 seconds.
+Elapsed time is 2.669434 seconds.
+Elapsed time is 2.648166 seconds.
+average awake time: 0.000000 ms
+# pernode data TXs: 0.000000
+average perpacket TX time: NaN ms
+queue empty prob.: 1.000000
+average queue size.: 0.000000
+average throughput: 0.000000 Mbps
+total throughput: 0.000000 Mbps
+---- Running time=159.316 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 2.500000
+mu: < 50.000000
+Elapsed time is 2.753597 seconds.
+Elapsed time is 2.735444 seconds.
+Elapsed time is 2.796018 seconds.
+Elapsed time is 2.786948 seconds.
+Elapsed time is 2.747705 seconds.
+Elapsed time is 2.757723 seconds.
+Elapsed time is 2.729003 seconds.
+Elapsed time is 2.772029 seconds.
+Elapsed time is 2.761140 seconds.
+Elapsed time is 2.747485 seconds.
+Elapsed time is 2.771782 seconds.
+Elapsed time is 2.825051 seconds.
+Elapsed time is 2.761936 seconds.
+Elapsed time is 2.847513 seconds.
+Elapsed time is 2.820956 seconds.
+Elapsed time is 2.795144 seconds.
+Elapsed time is 2.785472 seconds.
+Elapsed time is 2.854638 seconds.
+Elapsed time is 2.762021 seconds.
+Elapsed time is 2.776636 seconds.
+Elapsed time is 2.766435 seconds.
+Elapsed time is 2.865788 seconds.
+Elapsed time is 2.820360 seconds.
+Elapsed time is 2.809084 seconds.
+Elapsed time is 2.872288 seconds.
+Elapsed time is 2.860882 seconds.
+Elapsed time is 2.806354 seconds.
+Elapsed time is 2.787953 seconds.
+Elapsed time is 2.758357 seconds.
+Elapsed time is 2.783041 seconds.
+Elapsed time is 2.852132 seconds.
+Elapsed time is 2.784853 seconds.
+Elapsed time is 2.782548 seconds.
+Elapsed time is 2.759007 seconds.
+Elapsed time is 2.799105 seconds.
+Elapsed time is 2.761356 seconds.
+Elapsed time is 2.733454 seconds.
+Elapsed time is 2.789607 seconds.
+Elapsed time is 2.817542 seconds.
+Elapsed time is 2.801129 seconds.
+Elapsed time is 2.759973 seconds.
+Elapsed time is 2.759021 seconds.
+Elapsed time is 2.767970 seconds.
+Elapsed time is 2.840453 seconds.
+Elapsed time is 2.756097 seconds.
+Elapsed time is 2.768839 seconds.
+Elapsed time is 2.759244 seconds.
+Elapsed time is 2.783150 seconds.
+Elapsed time is 2.781032 seconds.
+Elapsed time is 2.765460 seconds.
+Elapsed time is 2.774708 seconds.
+Elapsed time is 2.807074 seconds.
+Elapsed time is 2.782571 seconds.
+Elapsed time is 2.757452 seconds.
+Elapsed time is 2.772635 seconds.
+Elapsed time is 2.761161 seconds.
+Elapsed time is 2.782856 seconds.
+Elapsed time is 2.775535 seconds.
+Elapsed time is 2.751022 seconds.
+Elapsed time is 2.756412 seconds.
+average awake time: 0.082699 ms
+# pernode data TXs: 75.966667
+average perpacket TX time: 1.667709 ms
+queue empty prob.: 0.973758
+average queue size.: 0.026914
+average throughput: 0.030387 Mbps
+total throughput: 0.911600 Mbps
+---- Running time=167.072 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 5.000000
+mu: < 50.000000
+Elapsed time is 2.882108 seconds.
+Elapsed time is 2.857382 seconds.
+Elapsed time is 2.874669 seconds.
+Elapsed time is 2.781483 seconds.
+Elapsed time is 2.869328 seconds.
+Elapsed time is 2.845261 seconds.
+Elapsed time is 2.865716 seconds.
+Elapsed time is 2.971837 seconds.
+Elapsed time is 2.915205 seconds.
+Elapsed time is 2.858177 seconds.
+Elapsed time is 2.879764 seconds.
+Elapsed time is 2.864849 seconds.
+Elapsed time is 2.867817 seconds.
+Elapsed time is 2.945556 seconds.
+Elapsed time is 2.913656 seconds.
+Elapsed time is 2.959614 seconds.
+Elapsed time is 2.930318 seconds.
+Elapsed time is 3.165509 seconds.
+Elapsed time is 2.973353 seconds.
+Elapsed time is 3.051034 seconds.
+Elapsed time is 3.232466 seconds.
+Elapsed time is 3.063404 seconds.
+Elapsed time is 2.926503 seconds.
+Elapsed time is 9.291051 seconds.
+Elapsed time is 3.390984 seconds.
+Elapsed time is 3.712583 seconds.
+Elapsed time is 3.322362 seconds.
+Elapsed time is 3.105325 seconds.
+Elapsed time is 2.937079 seconds.
+Elapsed time is 2.962311 seconds.
+Elapsed time is 2.949417 seconds.
+Elapsed time is 2.875255 seconds.
+Elapsed time is 2.988256 seconds.
+Elapsed time is 2.874641 seconds.
+Elapsed time is 2.885311 seconds.
+Elapsed time is 2.861580 seconds.
+Elapsed time is 2.866044 seconds.
+Elapsed time is 2.838095 seconds.
+Elapsed time is 2.876072 seconds.
+Elapsed time is 2.925790 seconds.
+Elapsed time is 2.858122 seconds.
+Elapsed time is 2.896616 seconds.
+Elapsed time is 2.978028 seconds.
+Elapsed time is 2.885203 seconds.
+Elapsed time is 2.801321 seconds.
+Elapsed time is 2.859591 seconds.
+Elapsed time is 2.857136 seconds.
+Elapsed time is 2.880596 seconds.
+Elapsed time is 2.809459 seconds.
+Elapsed time is 2.867505 seconds.
+Elapsed time is 2.875081 seconds.
+Elapsed time is 2.800396 seconds.
+Elapsed time is 2.839001 seconds.
+Elapsed time is 3.076903 seconds.
+Elapsed time is 2.915834 seconds.
+Elapsed time is 2.870277 seconds.
+Elapsed time is 2.934921 seconds.
+Elapsed time is 2.942948 seconds.
+Elapsed time is 2.886682 seconds.
+Elapsed time is 2.859783 seconds.
+average awake time: 0.182417 ms
+# pernode data TXs: 145.033333
+average perpacket TX time: 2.037828 ms
+queue empty prob.: 0.947673
+average queue size.: 0.054220
+average throughput: 0.058013 Mbps
+total throughput: 1.740400 Mbps
+---- Running time=182.862 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 7.500000
+mu: < 50.000000
+Elapsed time is 2.892355 seconds.
+Elapsed time is 3.033001 seconds.
+Elapsed time is 2.988590 seconds.
+Elapsed time is 2.959745 seconds.
+Elapsed time is 3.075420 seconds.
+Elapsed time is 3.085254 seconds.
+Elapsed time is 3.061977 seconds.
+Elapsed time is 3.028447 seconds.
+Elapsed time is 3.116746 seconds.
+Elapsed time is 2.997819 seconds.
+Elapsed time is 3.027443 seconds.
+Elapsed time is 3.068270 seconds.
+Elapsed time is 3.044036 seconds.
+Elapsed time is 3.018612 seconds.
+Elapsed time is 2.958527 seconds.
+Elapsed time is 3.088734 seconds.
+Elapsed time is 2.987248 seconds.
+Elapsed time is 2.927274 seconds.
+Elapsed time is 2.923943 seconds.
+Elapsed time is 2.950817 seconds.
+Elapsed time is 2.900832 seconds.
+Elapsed time is 2.986490 seconds.
+Elapsed time is 2.961938 seconds.
+Elapsed time is 3.066277 seconds.
+Elapsed time is 2.969652 seconds.
+Elapsed time is 3.113469 seconds.
+Elapsed time is 3.004815 seconds.
+Elapsed time is 2.955077 seconds.
+Elapsed time is 2.898922 seconds.
+Elapsed time is 3.126577 seconds.
+Elapsed time is 2.961921 seconds.
+Elapsed time is 3.100909 seconds.
+Elapsed time is 2.907377 seconds.
+Elapsed time is 2.968582 seconds.
+Elapsed time is 2.979286 seconds.
+Elapsed time is 3.063245 seconds.
+Elapsed time is 3.016598 seconds.
+Elapsed time is 2.968376 seconds.
+Elapsed time is 3.010062 seconds.
+Elapsed time is 3.018177 seconds.
+Elapsed time is 3.091659 seconds.
+Elapsed time is 3.012114 seconds.
+Elapsed time is 3.032647 seconds.
+Elapsed time is 3.073967 seconds.
+Elapsed time is 3.218209 seconds.
+Elapsed time is 3.046425 seconds.
+Elapsed time is 3.152217 seconds.
+Elapsed time is 3.056991 seconds.
+Elapsed time is 3.043334 seconds.
+Elapsed time is 3.017976 seconds.
+Elapsed time is 2.965542 seconds.
+Elapsed time is 3.008071 seconds.
+Elapsed time is 3.467815 seconds.
+Elapsed time is 3.127153 seconds.
+Elapsed time is 3.072003 seconds.
+Elapsed time is 3.023513 seconds.
+Elapsed time is 2.994208 seconds.
+Elapsed time is 3.025903 seconds.
+Elapsed time is 2.998995 seconds.
+Elapsed time is 3.128264 seconds.
+average awake time: 0.330213 ms
+# pernode data TXs: 223.600000
+average perpacket TX time: 2.691470 ms
+queue empty prob.: 0.915990
+average queue size.: 0.089595
+average throughput: 0.089440 Mbps
+total throughput: 2.683200 Mbps
+---- Running time=181.79 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 10.000000
+mu: < 50.000000
+Elapsed time is 3.229156 seconds.
+Elapsed time is 3.217268 seconds.
+Elapsed time is 3.317651 seconds.
+Elapsed time is 3.113582 seconds.
+Elapsed time is 3.234185 seconds.
+Elapsed time is 3.219025 seconds.
+Elapsed time is 3.303771 seconds.
+Elapsed time is 3.346643 seconds.
+Elapsed time is 3.410040 seconds.
+Elapsed time is 3.520586 seconds.
+Elapsed time is 3.285895 seconds.
+Elapsed time is 3.334490 seconds.
+Elapsed time is 3.321905 seconds.
+Elapsed time is 3.148640 seconds.
+Elapsed time is 3.117672 seconds.
+Elapsed time is 3.063295 seconds.
+Elapsed time is 3.236772 seconds.
+Elapsed time is 3.281033 seconds.
+Elapsed time is 3.276977 seconds.
+Elapsed time is 3.141086 seconds.
+Elapsed time is 3.262649 seconds.
+Elapsed time is 3.117488 seconds.
+Elapsed time is 3.125209 seconds.
+Elapsed time is 3.119025 seconds.
+Elapsed time is 3.044665 seconds.
+Elapsed time is 3.117031 seconds.
+Elapsed time is 3.126062 seconds.
+Elapsed time is 3.214446 seconds.
+Elapsed time is 3.058104 seconds.
+Elapsed time is 3.170747 seconds.
+Elapsed time is 3.253151 seconds.
+Elapsed time is 3.233255 seconds.
+Elapsed time is 3.147865 seconds.
+Elapsed time is 3.211817 seconds.
+Elapsed time is 3.066264 seconds.
+Elapsed time is 3.221713 seconds.
+Elapsed time is 3.216989 seconds.
+Elapsed time is 3.150441 seconds.
+Elapsed time is 3.126402 seconds.
+Elapsed time is 3.267034 seconds.
+Elapsed time is 3.335772 seconds.
+Elapsed time is 3.191621 seconds.
+Elapsed time is 3.124114 seconds.
+Elapsed time is 3.217826 seconds.
+Elapsed time is 3.084961 seconds.
+Elapsed time is 3.171148 seconds.
+Elapsed time is 3.221156 seconds.
+Elapsed time is 3.108382 seconds.
+Elapsed time is 3.115167 seconds.
+Elapsed time is 3.152800 seconds.
+Elapsed time is 3.143270 seconds.
+Elapsed time is 3.188178 seconds.
+Elapsed time is 3.247074 seconds.
+Elapsed time is 3.195587 seconds.
+Elapsed time is 3.049078 seconds.
+Elapsed time is 3.381623 seconds.
+Elapsed time is 3.190395 seconds.
+Elapsed time is 3.274030 seconds.
+Elapsed time is 3.273181 seconds.
+Elapsed time is 3.217835 seconds.
+average awake time: 0.528827 ms
+# pernode data TXs: 302.866667
+average perpacket TX time: 4.712822 ms
+queue empty prob.: 0.873805
+average queue size.: 0.141880
+average throughput: 0.121147 Mbps
+total throughput: 3.634400 Mbps
+---- Running time=192.263 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 12.500000
+mu: < 50.000000
+Elapsed time is 3.336093 seconds.
+Elapsed time is 3.312853 seconds.
+Elapsed time is 3.293362 seconds.
+Elapsed time is 3.015636 seconds.
+Elapsed time is 3.063777 seconds.
+Elapsed time is 3.034595 seconds.
+Elapsed time is 3.018012 seconds.
+Elapsed time is 3.011466 seconds.
+Elapsed time is 2.957029 seconds.
+Elapsed time is 3.014885 seconds.
+Elapsed time is 2.999948 seconds.
+Elapsed time is 3.005456 seconds.
+Elapsed time is 3.036364 seconds.
+Elapsed time is 2.962347 seconds.
+Elapsed time is 2.985164 seconds.
+Elapsed time is 3.002434 seconds.
+Elapsed time is 3.046861 seconds.
+Elapsed time is 2.991887 seconds.
+Elapsed time is 3.015158 seconds.
+Elapsed time is 3.045845 seconds.
+Elapsed time is 3.070815 seconds.
+Elapsed time is 3.027767 seconds.
+Elapsed time is 3.148187 seconds.
+Elapsed time is 2.953737 seconds.
+Elapsed time is 3.021229 seconds.
+Elapsed time is 2.977185 seconds.
+Elapsed time is 2.999547 seconds.
+Elapsed time is 2.973412 seconds.
+Elapsed time is 3.008028 seconds.
+Elapsed time is 3.009173 seconds.
+Elapsed time is 2.983363 seconds.
+Elapsed time is 2.992983 seconds.
+Elapsed time is 2.991633 seconds.
+Elapsed time is 2.960001 seconds.
+Elapsed time is 2.976466 seconds.
+Elapsed time is 2.966372 seconds.
+Elapsed time is 3.013300 seconds.
+Elapsed time is 2.965897 seconds.
+Elapsed time is 2.984015 seconds.
+Elapsed time is 2.944810 seconds.
+Elapsed time is 2.987499 seconds.
+Elapsed time is 2.987061 seconds.
+Elapsed time is 3.039105 seconds.
+Elapsed time is 2.982359 seconds.
+Elapsed time is 2.979142 seconds.
+Elapsed time is 2.982789 seconds.
+Elapsed time is 2.994165 seconds.
+Elapsed time is 2.999962 seconds.
+Elapsed time is 3.012262 seconds.
+Elapsed time is 2.993314 seconds.
+Elapsed time is 3.052290 seconds.
+Elapsed time is 2.994054 seconds.
+Elapsed time is 2.979850 seconds.
+Elapsed time is 3.027108 seconds.
+Elapsed time is 2.993468 seconds.
+Elapsed time is 3.000964 seconds.
+Elapsed time is 2.992873 seconds.
+Elapsed time is 2.990385 seconds.
+Elapsed time is 2.973268 seconds.
+Elapsed time is 2.967164 seconds.
+average awake time: 1.121215 ms
+# pernode data TXs: 196.533333
+average perpacket TX time: 130.170380 ms
+queue empty prob.: 0.036846
+average queue size.: 86.078879
+average throughput: 0.078613 Mbps
+total throughput: 2.358400 Mbps
+---- Running time=181.047 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 15.000000
+mu: < 50.000000
+Elapsed time is 3.353047 seconds.
+Elapsed time is 3.166527 seconds.
+Elapsed time is 3.008650 seconds.
+Elapsed time is 3.057319 seconds.
+Elapsed time is 3.048400 seconds.
+Elapsed time is 3.011793 seconds.
+Elapsed time is 3.050502 seconds.
+Elapsed time is 2.998661 seconds.
+Elapsed time is 2.994246 seconds.
+Elapsed time is 3.008124 seconds.
+Elapsed time is 3.062327 seconds.
+Elapsed time is 3.020389 seconds.
+Elapsed time is 3.061643 seconds.
+Elapsed time is 3.032956 seconds.
+Elapsed time is 3.043957 seconds.
+Elapsed time is 3.026070 seconds.
+Elapsed time is 3.003431 seconds.
+Elapsed time is 3.053501 seconds.
+Elapsed time is 3.016393 seconds.
+Elapsed time is 3.005472 seconds.
+Elapsed time is 3.010703 seconds.
+Elapsed time is 3.030607 seconds.
+Elapsed time is 3.027233 seconds.
+Elapsed time is 3.020560 seconds.
+Elapsed time is 3.031863 seconds.
+Elapsed time is 3.007411 seconds.
+Elapsed time is 3.050529 seconds.
+Elapsed time is 3.052633 seconds.
+Elapsed time is 3.103183 seconds.
+Elapsed time is 3.021895 seconds.
+Elapsed time is 3.052330 seconds.
+Elapsed time is 3.052264 seconds.
+Elapsed time is 3.019501 seconds.
+Elapsed time is 3.054257 seconds.
+Elapsed time is 3.050662 seconds.
+Elapsed time is 3.017389 seconds.
+Elapsed time is 3.070327 seconds.
+Elapsed time is 3.005895 seconds.
+Elapsed time is 3.019879 seconds.
+Elapsed time is 3.061528 seconds.
+Elapsed time is 3.049567 seconds.
+Elapsed time is 3.075238 seconds.
+Elapsed time is 3.065587 seconds.
+Elapsed time is 3.028401 seconds.
+Elapsed time is 3.054309 seconds.
+Elapsed time is 3.057770 seconds.
+Elapsed time is 3.066968 seconds.
+Elapsed time is 3.109404 seconds.
+Elapsed time is 3.159738 seconds.
+Elapsed time is 3.033146 seconds.
+Elapsed time is 3.022871 seconds.
+Elapsed time is 3.070050 seconds.
+Elapsed time is 3.051161 seconds.
+Elapsed time is 3.058891 seconds.
+Elapsed time is 3.029074 seconds.
+Elapsed time is 3.057892 seconds.
+Elapsed time is 3.005940 seconds.
+Elapsed time is 3.082409 seconds.
+Elapsed time is 3.036262 seconds.
+Elapsed time is 3.061723 seconds.
+average awake time: 1.132228 ms
+# pernode data TXs: 192.766667
+average perpacket TX time: 136.059614 ms
+queue empty prob.: 0.017105
+average queue size.: 128.274025
+average throughput: 0.077107 Mbps
+total throughput: 2.313200 Mbps
+---- Running time=182.969 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 17.500000
+mu: < 50.000000
+Elapsed time is 3.097288 seconds.
+Elapsed time is 3.008645 seconds.
+Elapsed time is 3.032575 seconds.
+Elapsed time is 3.027102 seconds.
+Elapsed time is 3.063037 seconds.
+Elapsed time is 3.007923 seconds.
+Elapsed time is 3.009656 seconds.
+Elapsed time is 3.020397 seconds.
+Elapsed time is 3.039360 seconds.
+Elapsed time is 3.050698 seconds.
+Elapsed time is 3.056469 seconds.
+Elapsed time is 3.057415 seconds.
+Elapsed time is 3.020184 seconds.
+Elapsed time is 3.057373 seconds.
+Elapsed time is 3.064724 seconds.
+Elapsed time is 2.985246 seconds.
+Elapsed time is 3.048541 seconds.
+Elapsed time is 2.996688 seconds.
+Elapsed time is 3.040482 seconds.
+Elapsed time is 3.050914 seconds.
+Elapsed time is 3.038068 seconds.
+Elapsed time is 3.043528 seconds.
+Elapsed time is 3.054927 seconds.
+Elapsed time is 3.044573 seconds.
+Elapsed time is 3.018169 seconds.
+Elapsed time is 3.003156 seconds.
+Elapsed time is 3.074535 seconds.
+Elapsed time is 3.037509 seconds.
+Elapsed time is 3.070512 seconds.
+Elapsed time is 3.069266 seconds.
+Elapsed time is 3.023286 seconds.
+Elapsed time is 3.021026 seconds.
+Elapsed time is 3.045574 seconds.
+Elapsed time is 2.982001 seconds.
+Elapsed time is 3.061470 seconds.
+Elapsed time is 3.057762 seconds.
+Elapsed time is 3.021835 seconds.
+Elapsed time is 3.004297 seconds.
+Elapsed time is 3.033394 seconds.
+Elapsed time is 3.018108 seconds.
+Elapsed time is 3.044441 seconds.
+Elapsed time is 3.064442 seconds.
+Elapsed time is 3.026475 seconds.
+Elapsed time is 3.014972 seconds.
+Elapsed time is 3.053340 seconds.
+Elapsed time is 3.014162 seconds.
+Elapsed time is 3.007198 seconds.
+Elapsed time is 3.016736 seconds.
+Elapsed time is 3.041073 seconds.
+Elapsed time is 3.046121 seconds.
+Elapsed time is 3.054454 seconds.
+Elapsed time is 3.048654 seconds.
+Elapsed time is 3.023835 seconds.
+Elapsed time is 3.042509 seconds.
+Elapsed time is 3.047185 seconds.
+Elapsed time is 3.031278 seconds.
+Elapsed time is 3.028049 seconds.
+Elapsed time is 3.020931 seconds.
+Elapsed time is 3.071296 seconds.
+Elapsed time is 3.047010 seconds.
+average awake time: 1.134077 ms
+# pernode data TXs: 190.566667
+average perpacket TX time: 138.968108 ms
+queue empty prob.: 0.006783
+average queue size.: 164.582592
+average throughput: 0.076227 Mbps
+total throughput: 2.286800 Mbps
+---- Running time=182.218 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 20.000000
+mu: < 50.000000
+Elapsed time is 3.043605 seconds.
+Elapsed time is 2.971666 seconds.
+Elapsed time is 3.006525 seconds.
+Elapsed time is 2.958867 seconds.
+Elapsed time is 2.960438 seconds.
+Elapsed time is 2.961184 seconds.
+Elapsed time is 2.988059 seconds.
+Elapsed time is 2.969825 seconds.
+Elapsed time is 2.972170 seconds.
+Elapsed time is 2.985562 seconds.
+Elapsed time is 3.004745 seconds.
+Elapsed time is 2.982632 seconds.
+Elapsed time is 2.956567 seconds.
+Elapsed time is 3.004761 seconds.
+Elapsed time is 3.008598 seconds.
+Elapsed time is 2.989478 seconds.
+Elapsed time is 2.992043 seconds.
+Elapsed time is 3.007115 seconds.
+Elapsed time is 3.000154 seconds.
+Elapsed time is 3.034108 seconds.
+Elapsed time is 2.945178 seconds.
+Elapsed time is 2.998376 seconds.
+Elapsed time is 2.989715 seconds.
+Elapsed time is 2.982237 seconds.
+Elapsed time is 2.958588 seconds.
+Elapsed time is 2.985797 seconds.
+Elapsed time is 3.006570 seconds.
+Elapsed time is 2.997994 seconds.
+Elapsed time is 3.001535 seconds.
+Elapsed time is 3.031424 seconds.
+Elapsed time is 2.956297 seconds.
+Elapsed time is 2.978751 seconds.
+Elapsed time is 2.973411 seconds.
+Elapsed time is 3.010327 seconds.
+Elapsed time is 3.006137 seconds.
+Elapsed time is 2.951727 seconds.
+Elapsed time is 2.948762 seconds.
+Elapsed time is 2.980823 seconds.
+Elapsed time is 2.986213 seconds.
+Elapsed time is 3.000569 seconds.
+Elapsed time is 2.988196 seconds.
+Elapsed time is 2.975628 seconds.
+Elapsed time is 2.976318 seconds.
+Elapsed time is 2.993391 seconds.
+Elapsed time is 3.012931 seconds.
+Elapsed time is 3.012502 seconds.
+Elapsed time is 2.978819 seconds.
+Elapsed time is 3.015407 seconds.
+Elapsed time is 3.012149 seconds.
+Elapsed time is 2.994568 seconds.
+Elapsed time is 2.986978 seconds.
+Elapsed time is 2.980968 seconds.
+Elapsed time is 2.988724 seconds.
+Elapsed time is 3.008420 seconds.
+Elapsed time is 2.984015 seconds.
+Elapsed time is 2.987135 seconds.
+Elapsed time is 2.957794 seconds.
+Elapsed time is 2.994190 seconds.
+Elapsed time is 3.028160 seconds.
+Elapsed time is 3.015245 seconds.
+average awake time: 1.140417 ms
+# pernode data TXs: 194.366667
+average perpacket TX time: 135.848467 ms
+queue empty prob.: 0.004302
+average queue size.: 203.737513
+average throughput: 0.077747 Mbps
+total throughput: 2.332400 Mbps
+---- Running time=179.391 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 22.500000
+mu: < 50.000000
+Elapsed time is 3.111650 seconds.
+Elapsed time is 3.034751 seconds.
+Elapsed time is 3.073711 seconds.
+Elapsed time is 3.008804 seconds.
+Elapsed time is 3.039684 seconds.
+Elapsed time is 3.054958 seconds.
+Elapsed time is 3.021961 seconds.
+Elapsed time is 3.122497 seconds.
+Elapsed time is 3.039803 seconds.
+Elapsed time is 3.026111 seconds.
+Elapsed time is 3.018664 seconds.
+Elapsed time is 3.033992 seconds.
+Elapsed time is 3.057084 seconds.
+Elapsed time is 3.040148 seconds.
+Elapsed time is 3.058575 seconds.
+Elapsed time is 3.060292 seconds.
+Elapsed time is 3.062059 seconds.
+Elapsed time is 3.086232 seconds.
+Elapsed time is 3.012592 seconds.
+Elapsed time is 3.070585 seconds.
+Elapsed time is 3.015131 seconds.
+Elapsed time is 3.094267 seconds.
+Elapsed time is 3.064168 seconds.
+Elapsed time is 3.078744 seconds.
+Elapsed time is 3.029062 seconds.
+Elapsed time is 3.057251 seconds.
+Elapsed time is 3.023697 seconds.
+Elapsed time is 3.126705 seconds.
+Elapsed time is 3.021225 seconds.
+Elapsed time is 3.036862 seconds.
+Elapsed time is 3.053756 seconds.
+Elapsed time is 3.027181 seconds.
+Elapsed time is 3.018007 seconds.
+Elapsed time is 3.054173 seconds.
+Elapsed time is 3.014344 seconds.
+Elapsed time is 3.053372 seconds.
+Elapsed time is 3.029202 seconds.
+Elapsed time is 3.062617 seconds.
+Elapsed time is 3.060975 seconds.
+Elapsed time is 3.014070 seconds.
+Elapsed time is 3.036603 seconds.
+Elapsed time is 3.022030 seconds.
+Elapsed time is 3.045778 seconds.
+Elapsed time is 3.048676 seconds.
+Elapsed time is 3.086980 seconds.
+Elapsed time is 3.079067 seconds.
+Elapsed time is 3.085739 seconds.
+Elapsed time is 3.043713 seconds.
+Elapsed time is 3.038711 seconds.
+Elapsed time is 3.054624 seconds.
+Elapsed time is 3.043221 seconds.
+Elapsed time is 3.052080 seconds.
+Elapsed time is 3.024700 seconds.
+Elapsed time is 3.036426 seconds.
+Elapsed time is 3.100576 seconds.
+Elapsed time is 3.038576 seconds.
+Elapsed time is 3.025038 seconds.
+Elapsed time is 3.032222 seconds.
+Elapsed time is 3.047836 seconds.
+Elapsed time is 3.055322 seconds.
+average awake time: 1.137476 ms
+# pernode data TXs: 191.466667
+average perpacket TX time: 138.514632 ms
+queue empty prob.: 0.004025
+average queue size.: 241.975799
+average throughput: 0.076587 Mbps
+total throughput: 2.297600 Mbps
+---- Running time=182.969 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 25.000000
+mu: < 50.000000
+Elapsed time is 3.016923 seconds.
+Elapsed time is 2.981467 seconds.
+Elapsed time is 3.026002 seconds.
+Elapsed time is 3.008498 seconds.
+Elapsed time is 3.019480 seconds.
+Elapsed time is 3.023416 seconds.
+Elapsed time is 3.014286 seconds.
+Elapsed time is 2.983665 seconds.
+Elapsed time is 3.028664 seconds.
+Elapsed time is 3.039969 seconds.
+Elapsed time is 3.000750 seconds.
+Elapsed time is 2.997286 seconds.
+Elapsed time is 3.019139 seconds.
+Elapsed time is 3.021163 seconds.
+Elapsed time is 3.020831 seconds.
+Elapsed time is 2.979398 seconds.
+Elapsed time is 3.010059 seconds.
+Elapsed time is 3.032886 seconds.
+Elapsed time is 3.032634 seconds.
+Elapsed time is 2.992138 seconds.
+Elapsed time is 3.001134 seconds.
+Elapsed time is 2.993386 seconds.
+Elapsed time is 3.033484 seconds.
+Elapsed time is 3.014850 seconds.
+Elapsed time is 3.002190 seconds.
+Elapsed time is 3.020744 seconds.
+Elapsed time is 3.008600 seconds.
+Elapsed time is 3.027303 seconds.
+Elapsed time is 3.010549 seconds.
+Elapsed time is 3.004385 seconds.
+Elapsed time is 2.998268 seconds.
+Elapsed time is 3.036647 seconds.
+Elapsed time is 2.998549 seconds.
+Elapsed time is 3.018211 seconds.
+Elapsed time is 3.011048 seconds.
+Elapsed time is 3.027042 seconds.
+Elapsed time is 3.000850 seconds.
+Elapsed time is 3.013880 seconds.
+Elapsed time is 3.035070 seconds.
+Elapsed time is 3.002702 seconds.
+Elapsed time is 3.015621 seconds.
+Elapsed time is 3.008592 seconds.
+Elapsed time is 3.026936 seconds.
+Elapsed time is 3.032687 seconds.
+Elapsed time is 2.991296 seconds.
+Elapsed time is 3.004601 seconds.
+Elapsed time is 2.991839 seconds.
+Elapsed time is 3.040640 seconds.
+Elapsed time is 2.999212 seconds.
+Elapsed time is 3.036678 seconds.
+Elapsed time is 3.043382 seconds.
+Elapsed time is 3.039641 seconds.
+Elapsed time is 3.031092 seconds.
+Elapsed time is 3.061354 seconds.
+Elapsed time is 3.048494 seconds.
+Elapsed time is 3.026232 seconds.
+Elapsed time is 3.021039 seconds.
+Elapsed time is 3.002723 seconds.
+Elapsed time is 3.013911 seconds.
+Elapsed time is 3.047404 seconds.
+average awake time: 1.136223 ms
+# pernode data TXs: 190.666667
+average perpacket TX time: 139.109662 ms
+queue empty prob.: 0.002621
+average queue size.: 278.478861
+average throughput: 0.076267 Mbps
+total throughput: 2.288000 Mbps
+---- Running time=181.016 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 27.500000
+mu: < 50.000000
+Elapsed time is 2.995553 seconds.
+Elapsed time is 3.001929 seconds.
+Elapsed time is 2.986805 seconds.
+Elapsed time is 3.005325 seconds.
+Elapsed time is 3.001538 seconds.
+Elapsed time is 3.022824 seconds.
+Elapsed time is 2.994986 seconds.
+Elapsed time is 2.978663 seconds.
+Elapsed time is 2.932132 seconds.
+Elapsed time is 3.000888 seconds.
+Elapsed time is 2.969006 seconds.
+Elapsed time is 2.973087 seconds.
+Elapsed time is 3.041198 seconds.
+Elapsed time is 3.014684 seconds.
+Elapsed time is 3.023717 seconds.
+Elapsed time is 2.989514 seconds.
+Elapsed time is 3.047489 seconds.
+Elapsed time is 3.020133 seconds.
+Elapsed time is 3.035433 seconds.
+Elapsed time is 3.010636 seconds.
+Elapsed time is 2.990243 seconds.
+Elapsed time is 3.045674 seconds.
+Elapsed time is 2.984481 seconds.
+Elapsed time is 3.023003 seconds.
+Elapsed time is 3.009632 seconds.
+Elapsed time is 3.009914 seconds.
+Elapsed time is 2.976460 seconds.
+Elapsed time is 2.966450 seconds.
+Elapsed time is 3.017702 seconds.
+Elapsed time is 3.004642 seconds.
+Elapsed time is 2.987883 seconds.
+Elapsed time is 2.956614 seconds.
+Elapsed time is 3.026416 seconds.
+Elapsed time is 2.978780 seconds.
+Elapsed time is 2.966128 seconds.
+Elapsed time is 2.989473 seconds.
+Elapsed time is 2.981795 seconds.
+Elapsed time is 3.007344 seconds.
+Elapsed time is 2.998619 seconds.
+Elapsed time is 2.987535 seconds.
+Elapsed time is 3.010319 seconds.
+Elapsed time is 2.998693 seconds.
+Elapsed time is 3.024891 seconds.
+Elapsed time is 3.025070 seconds.
+Elapsed time is 2.996029 seconds.
+Elapsed time is 3.027584 seconds.
+Elapsed time is 3.025278 seconds.
+Elapsed time is 2.998360 seconds.
+Elapsed time is 3.007532 seconds.
+Elapsed time is 3.000288 seconds.
+Elapsed time is 3.000285 seconds.
+Elapsed time is 3.028545 seconds.
+Elapsed time is 3.012833 seconds.
+Elapsed time is 3.042738 seconds.
+Elapsed time is 2.976417 seconds.
+Elapsed time is 3.020475 seconds.
+Elapsed time is 3.000131 seconds.
+Elapsed time is 3.013203 seconds.
+Elapsed time is 3.004694 seconds.
+Elapsed time is 2.997937 seconds.
+average awake time: 1.139747 ms
+# pernode data TXs: 193.866667
+average perpacket TX time: 136.483766 ms
+queue empty prob.: 0.002205
+average queue size.: 315.686207
+average throughput: 0.077547 Mbps
+total throughput: 2.326400 Mbps
+---- Running time=180.171 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 30.000000
+mu: < 50.000000
+Elapsed time is 3.022535 seconds.
+Elapsed time is 3.013577 seconds.
+Elapsed time is 3.005417 seconds.
+Elapsed time is 3.035141 seconds.
+Elapsed time is 3.020486 seconds.
+Elapsed time is 3.039708 seconds.
+Elapsed time is 3.013680 seconds.
+Elapsed time is 3.018820 seconds.
+Elapsed time is 3.050583 seconds.
+Elapsed time is 3.040771 seconds.
+Elapsed time is 3.071125 seconds.
+Elapsed time is 3.017297 seconds.
+Elapsed time is 3.026467 seconds.
+Elapsed time is 3.023331 seconds.
+Elapsed time is 2.994791 seconds.
+Elapsed time is 3.043870 seconds.
+Elapsed time is 3.057513 seconds.
+Elapsed time is 3.037367 seconds.
+Elapsed time is 3.044823 seconds.
+Elapsed time is 3.013394 seconds.
+Elapsed time is 3.010029 seconds.
+Elapsed time is 3.044192 seconds.
+Elapsed time is 2.994347 seconds.
+Elapsed time is 3.029818 seconds.
+Elapsed time is 3.043068 seconds.
+Elapsed time is 3.041001 seconds.
+Elapsed time is 3.031077 seconds.
+Elapsed time is 3.048582 seconds.
+Elapsed time is 3.012963 seconds.
+Elapsed time is 3.003406 seconds.
+Elapsed time is 2.982595 seconds.
+Elapsed time is 3.042324 seconds.
+Elapsed time is 2.985525 seconds.
+Elapsed time is 3.004989 seconds.
+Elapsed time is 3.036849 seconds.
+Elapsed time is 3.027689 seconds.
+Elapsed time is 3.032378 seconds.
+Elapsed time is 3.078985 seconds.
+Elapsed time is 3.030385 seconds.
+Elapsed time is 3.004020 seconds.
+Elapsed time is 3.000322 seconds.
+Elapsed time is 3.005294 seconds.
+Elapsed time is 3.002526 seconds.
+Elapsed time is 3.024822 seconds.
+Elapsed time is 3.007983 seconds.
+Elapsed time is 3.038548 seconds.
+Elapsed time is 3.025946 seconds.
+Elapsed time is 3.030518 seconds.
+Elapsed time is 3.011110 seconds.
+Elapsed time is 3.043011 seconds.
+Elapsed time is 3.030602 seconds.
+Elapsed time is 3.023817 seconds.
+Elapsed time is 3.116132 seconds.
+Elapsed time is 3.002584 seconds.
+Elapsed time is 3.048761 seconds.
+Elapsed time is 3.025201 seconds.
+Elapsed time is 3.035086 seconds.
+Elapsed time is 3.066533 seconds.
+Elapsed time is 3.038236 seconds.
+Elapsed time is 3.001004 seconds.
+average awake time: 1.134724 ms
+# pernode data TXs: 187.266667
+average perpacket TX time: 141.802733 ms
+queue empty prob.: 0.002177
+average queue size.: 349.783206
+average throughput: 0.074907 Mbps
+total throughput: 2.247200 Mbps
+---- Running time=181.656 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 32.500000
+mu: < 50.000000
+Elapsed time is 2.964227 seconds.
+Elapsed time is 2.991205 seconds.
+Elapsed time is 2.983277 seconds.
+Elapsed time is 2.966441 seconds.
+Elapsed time is 3.000579 seconds.
+Elapsed time is 2.980155 seconds.
+Elapsed time is 2.951193 seconds.
+Elapsed time is 3.008931 seconds.
+Elapsed time is 3.025645 seconds.
+Elapsed time is 2.961397 seconds.
+Elapsed time is 2.995095 seconds.
+Elapsed time is 2.957047 seconds.
+Elapsed time is 2.968051 seconds.
+Elapsed time is 2.980179 seconds.
+Elapsed time is 3.002965 seconds.
+Elapsed time is 2.998061 seconds.
+Elapsed time is 2.985557 seconds.
+Elapsed time is 2.974770 seconds.
+Elapsed time is 2.995089 seconds.
+Elapsed time is 2.965092 seconds.
+Elapsed time is 2.973310 seconds.
+Elapsed time is 2.994477 seconds.
+Elapsed time is 3.005992 seconds.
+Elapsed time is 3.010640 seconds.
+Elapsed time is 3.012928 seconds.
+Elapsed time is 2.961799 seconds.
+Elapsed time is 2.979525 seconds.
+Elapsed time is 3.007787 seconds.
+Elapsed time is 3.000707 seconds.
+Elapsed time is 2.970717 seconds.
+Elapsed time is 2.986446 seconds.
+Elapsed time is 3.012186 seconds.
+Elapsed time is 2.991862 seconds.
+Elapsed time is 2.990205 seconds.
+Elapsed time is 3.102060 seconds.
+Elapsed time is 3.009235 seconds.
+Elapsed time is 3.039501 seconds.
+Elapsed time is 2.988678 seconds.
+Elapsed time is 2.966110 seconds.
+Elapsed time is 3.021452 seconds.
+Elapsed time is 2.971275 seconds.
+Elapsed time is 2.977523 seconds.
+Elapsed time is 2.996964 seconds.
+Elapsed time is 3.017726 seconds.
+Elapsed time is 3.024365 seconds.
+Elapsed time is 3.013348 seconds.
+Elapsed time is 2.986944 seconds.
+Elapsed time is 3.005315 seconds.
+Elapsed time is 2.980922 seconds.
+Elapsed time is 2.993598 seconds.
+Elapsed time is 3.043134 seconds.
+Elapsed time is 2.975249 seconds.
+Elapsed time is 2.981135 seconds.
+Elapsed time is 3.019826 seconds.
+Elapsed time is 2.991987 seconds.
+Elapsed time is 2.959465 seconds.
+Elapsed time is 3.014287 seconds.
+Elapsed time is 2.972080 seconds.
+Elapsed time is 2.973098 seconds.
+Elapsed time is 3.013359 seconds.
+average awake time: 1.139987 ms
+# pernode data TXs: 192.333333
+average perpacket TX time: 137.451259 ms
+queue empty prob.: 0.001902
+average queue size.: 388.680338
+average throughput: 0.076933 Mbps
+total throughput: 2.308000 Mbps
+---- Running time=179.609 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 35.000000
+mu: < 50.000000
+Elapsed time is 2.985929 seconds.
+Elapsed time is 2.969500 seconds.
+Elapsed time is 2.973648 seconds.
+Elapsed time is 2.937668 seconds.
+Elapsed time is 2.958859 seconds.
+Elapsed time is 3.042842 seconds.
+Elapsed time is 3.007360 seconds.
+Elapsed time is 2.999474 seconds.
+Elapsed time is 2.986811 seconds.
+Elapsed time is 2.999319 seconds.
+Elapsed time is 2.994947 seconds.
+Elapsed time is 2.983118 seconds.
+Elapsed time is 2.980911 seconds.
+Elapsed time is 2.983505 seconds.
+Elapsed time is 3.012770 seconds.
+Elapsed time is 3.007516 seconds.
+Elapsed time is 3.026511 seconds.
+Elapsed time is 3.005747 seconds.
+Elapsed time is 2.995094 seconds.
+Elapsed time is 2.968069 seconds.
+Elapsed time is 3.001713 seconds.
+Elapsed time is 2.985699 seconds.
+Elapsed time is 3.010072 seconds.
+Elapsed time is 3.009092 seconds.
+Elapsed time is 2.994988 seconds.
+Elapsed time is 2.991976 seconds.
+Elapsed time is 2.983809 seconds.
+Elapsed time is 2.986594 seconds.
+Elapsed time is 2.978618 seconds.
+Elapsed time is 2.985108 seconds.
+Elapsed time is 3.024066 seconds.
+Elapsed time is 3.010207 seconds.
+Elapsed time is 3.002629 seconds.
+Elapsed time is 3.010966 seconds.
+Elapsed time is 2.976367 seconds.
+Elapsed time is 2.963090 seconds.
+Elapsed time is 2.985186 seconds.
+Elapsed time is 2.973392 seconds.
+Elapsed time is 2.985112 seconds.
+Elapsed time is 2.982803 seconds.
+Elapsed time is 2.977737 seconds.
+Elapsed time is 3.002917 seconds.
+Elapsed time is 3.041616 seconds.
+Elapsed time is 3.014696 seconds.
+Elapsed time is 2.957459 seconds.
+Elapsed time is 3.062113 seconds.
+Elapsed time is 2.988493 seconds.
+Elapsed time is 2.979929 seconds.
+Elapsed time is 2.986116 seconds.
+Elapsed time is 2.993146 seconds.
+Elapsed time is 2.989700 seconds.
+Elapsed time is 3.019727 seconds.
+Elapsed time is 2.974663 seconds.
+Elapsed time is 2.976632 seconds.
+Elapsed time is 3.056183 seconds.
+Elapsed time is 2.981758 seconds.
+Elapsed time is 2.955620 seconds.
+Elapsed time is 2.953088 seconds.
+Elapsed time is 2.970615 seconds.
+Elapsed time is 3.018032 seconds.
+average awake time: 1.137771 ms
+# pernode data TXs: 191.700000
+average perpacket TX time: 138.326991 ms
+queue empty prob.: 0.001772
+average queue size.: 425.003402
+average throughput: 0.076680 Mbps
+total throughput: 2.300400 Mbps
+---- Running time=179.578 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 37.500000
+mu: < 50.000000
+Elapsed time is 3.047163 seconds.
+Elapsed time is 3.040421 seconds.
+Elapsed time is 3.028416 seconds.
+Elapsed time is 3.029529 seconds.
+Elapsed time is 3.043854 seconds.
+Elapsed time is 3.041534 seconds.
+Elapsed time is 2.996232 seconds.
+Elapsed time is 3.085482 seconds.
+Elapsed time is 3.050838 seconds.
+Elapsed time is 3.053005 seconds.
+Elapsed time is 3.030596 seconds.
+Elapsed time is 3.016781 seconds.
+Elapsed time is 3.073216 seconds.
+Elapsed time is 3.014832 seconds.
+Elapsed time is 3.045183 seconds.
+Elapsed time is 3.058409 seconds.
+Elapsed time is 3.038333 seconds.
+Elapsed time is 3.046980 seconds.
+Elapsed time is 2.999590 seconds.
+Elapsed time is 3.042148 seconds.
+Elapsed time is 3.045772 seconds.
+Elapsed time is 3.004957 seconds.
+Elapsed time is 3.086147 seconds.
+Elapsed time is 3.063818 seconds.
+Elapsed time is 3.059623 seconds.
+Elapsed time is 3.029414 seconds.
+Elapsed time is 3.046209 seconds.
+Elapsed time is 3.047364 seconds.
+Elapsed time is 3.049483 seconds.
+Elapsed time is 3.071636 seconds.
+Elapsed time is 3.066622 seconds.
+Elapsed time is 3.020101 seconds.
+Elapsed time is 3.045151 seconds.
+Elapsed time is 3.063902 seconds.
+Elapsed time is 3.082239 seconds.
+Elapsed time is 3.070688 seconds.
+Elapsed time is 3.036041 seconds.
+Elapsed time is 3.022539 seconds.
+Elapsed time is 3.060858 seconds.
+Elapsed time is 3.033910 seconds.
+Elapsed time is 3.032047 seconds.
+Elapsed time is 2.995766 seconds.
+Elapsed time is 3.039774 seconds.
+Elapsed time is 3.041873 seconds.
+Elapsed time is 3.063814 seconds.
+Elapsed time is 3.099144 seconds.
+Elapsed time is 3.039205 seconds.
+Elapsed time is 3.068814 seconds.
+Elapsed time is 3.049760 seconds.
+Elapsed time is 3.043977 seconds.
+Elapsed time is 3.016719 seconds.
+Elapsed time is 3.042699 seconds.
+Elapsed time is 3.039865 seconds.
+Elapsed time is 3.007962 seconds.
+Elapsed time is 3.051326 seconds.
+Elapsed time is 3.044443 seconds.
+Elapsed time is 3.039208 seconds.
+Elapsed time is 3.034184 seconds.
+Elapsed time is 3.034149 seconds.
+Elapsed time is 3.063791 seconds.
+average awake time: 1.138226 ms
+# pernode data TXs: 190.900000
+average perpacket TX time: 138.847847 ms
+queue empty prob.: 0.001700
+average queue size.: 465.435138
+average throughput: 0.076360 Mbps
+total throughput: 2.290800 Mbps
+---- Running time=182.657 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 40.000000
+mu: < 50.000000
+Elapsed time is 2.945458 seconds.
+Elapsed time is 2.987898 seconds.
+Elapsed time is 2.981738 seconds.
+Elapsed time is 2.985155 seconds.
+Elapsed time is 2.948191 seconds.
+Elapsed time is 3.004204 seconds.
+Elapsed time is 3.015721 seconds.
+Elapsed time is 2.952491 seconds.
+Elapsed time is 3.012368 seconds.
+Elapsed time is 3.013609 seconds.
+Elapsed time is 2.952608 seconds.
+Elapsed time is 3.036504 seconds.
+Elapsed time is 3.018447 seconds.
+Elapsed time is 3.025756 seconds.
+Elapsed time is 3.007767 seconds.
+Elapsed time is 3.001804 seconds.
+Elapsed time is 2.996208 seconds.
+Elapsed time is 3.001983 seconds.
+Elapsed time is 3.007811 seconds.
+Elapsed time is 3.014317 seconds.
+Elapsed time is 2.989537 seconds.
+Elapsed time is 2.995337 seconds.
+Elapsed time is 3.017272 seconds.
+Elapsed time is 2.970331 seconds.
+Elapsed time is 2.968452 seconds.
+Elapsed time is 3.019534 seconds.
+Elapsed time is 2.981718 seconds.
+Elapsed time is 2.971150 seconds.
+Elapsed time is 3.000026 seconds.
+Elapsed time is 2.992955 seconds.
+Elapsed time is 2.954590 seconds.
+Elapsed time is 3.029632 seconds.
+Elapsed time is 2.978469 seconds.
+Elapsed time is 3.009152 seconds.
+Elapsed time is 3.009723 seconds.
+Elapsed time is 2.969645 seconds.
+Elapsed time is 2.988863 seconds.
+Elapsed time is 3.039806 seconds.
+Elapsed time is 2.990791 seconds.
+Elapsed time is 3.024561 seconds.
+Elapsed time is 3.011392 seconds.
+Elapsed time is 3.052968 seconds.
+Elapsed time is 2.977063 seconds.
+Elapsed time is 2.994432 seconds.
+Elapsed time is 3.005271 seconds.
+Elapsed time is 2.992681 seconds.
+Elapsed time is 3.033505 seconds.
+Elapsed time is 2.972992 seconds.
+Elapsed time is 2.968122 seconds.
+Elapsed time is 3.000607 seconds.
+Elapsed time is 2.996349 seconds.
+Elapsed time is 3.011334 seconds.
+Elapsed time is 2.996643 seconds.
+Elapsed time is 2.980430 seconds.
+Elapsed time is 3.011419 seconds.
+Elapsed time is 3.016298 seconds.
+Elapsed time is 2.988027 seconds.
+Elapsed time is 2.987250 seconds.
+Elapsed time is 2.981619 seconds.
+Elapsed time is 2.974509 seconds.
+average awake time: 1.139906 ms
+# pernode data TXs: 192.033333
+average perpacket TX time: 138.267981 ms
+queue empty prob.: 0.001200
+average queue size.: 503.481299
+average throughput: 0.076813 Mbps
+total throughput: 2.304400 Mbps
+---- Running time=179.781 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 42.500000
+mu: < 50.000000
+Elapsed time is 2.941441 seconds.
+Elapsed time is 3.018837 seconds.
+Elapsed time is 2.992651 seconds.
+Elapsed time is 2.983490 seconds.
+Elapsed time is 3.002927 seconds.
+Elapsed time is 2.948896 seconds.
+Elapsed time is 2.987104 seconds.
+Elapsed time is 2.999392 seconds.
+Elapsed time is 2.993573 seconds.
+Elapsed time is 3.008016 seconds.
+Elapsed time is 3.023461 seconds.
+Elapsed time is 3.027202 seconds.
+Elapsed time is 2.971808 seconds.
+Elapsed time is 3.010183 seconds.
+Elapsed time is 3.000059 seconds.
+Elapsed time is 3.000191 seconds.
+Elapsed time is 2.972384 seconds.
+Elapsed time is 2.991544 seconds.
+Elapsed time is 3.015053 seconds.
+Elapsed time is 2.989916 seconds.
+Elapsed time is 2.970485 seconds.
+Elapsed time is 3.002883 seconds.
+Elapsed time is 2.993578 seconds.
+Elapsed time is 2.937720 seconds.
+Elapsed time is 2.971831 seconds.
+Elapsed time is 3.000906 seconds.
+Elapsed time is 3.035719 seconds.
+Elapsed time is 2.989739 seconds.
+Elapsed time is 3.004854 seconds.
+Elapsed time is 2.975840 seconds.
+Elapsed time is 2.972900 seconds.
+Elapsed time is 2.964728 seconds.
+Elapsed time is 2.986304 seconds.
+Elapsed time is 3.005269 seconds.
+Elapsed time is 3.010007 seconds.
+Elapsed time is 2.988307 seconds.
+Elapsed time is 3.032580 seconds.
+Elapsed time is 2.959972 seconds.
+Elapsed time is 3.031728 seconds.
+Elapsed time is 2.960972 seconds.
+Elapsed time is 2.997831 seconds.
+Elapsed time is 2.982485 seconds.
+Elapsed time is 2.960372 seconds.
+Elapsed time is 3.021602 seconds.
+Elapsed time is 2.958777 seconds.
+Elapsed time is 2.999204 seconds.
+Elapsed time is 2.970969 seconds.
+Elapsed time is 2.982133 seconds.
+Elapsed time is 3.040990 seconds.
+Elapsed time is 2.977418 seconds.
+Elapsed time is 2.993674 seconds.
+Elapsed time is 3.006207 seconds.
+Elapsed time is 2.990019 seconds.
+Elapsed time is 2.964723 seconds.
+Elapsed time is 3.007282 seconds.
+Elapsed time is 3.006202 seconds.
+Elapsed time is 2.972182 seconds.
+Elapsed time is 2.980147 seconds.
+Elapsed time is 2.978542 seconds.
+Elapsed time is 2.977615 seconds.
+average awake time: 1.136357 ms
+# pernode data TXs: 188.200000
+average perpacket TX time: 141.395840 ms
+queue empty prob.: 0.001053
+average queue size.: 535.878393
+average throughput: 0.075280 Mbps
+total throughput: 2.258400 Mbps
+---- Running time=179.453 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 45.000000
+mu: < 50.000000
+Elapsed time is 2.933089 seconds.
+Elapsed time is 2.998037 seconds.
+Elapsed time is 2.979440 seconds.
+Elapsed time is 2.948388 seconds.
+Elapsed time is 2.988951 seconds.
+Elapsed time is 2.998865 seconds.
+Elapsed time is 2.979420 seconds.
+Elapsed time is 2.972002 seconds.
+Elapsed time is 2.988508 seconds.
+Elapsed time is 2.998563 seconds.
+Elapsed time is 2.969341 seconds.
+Elapsed time is 3.003216 seconds.
+Elapsed time is 2.998943 seconds.
+Elapsed time is 2.966350 seconds.
+Elapsed time is 2.991826 seconds.
+Elapsed time is 2.973608 seconds.
+Elapsed time is 3.026378 seconds.
+Elapsed time is 2.942565 seconds.
+Elapsed time is 2.991746 seconds.
+Elapsed time is 3.025813 seconds.
+Elapsed time is 2.977124 seconds.
+Elapsed time is 2.976121 seconds.
+Elapsed time is 2.991343 seconds.
+Elapsed time is 3.009490 seconds.
+Elapsed time is 3.002241 seconds.
+Elapsed time is 2.976380 seconds.
+Elapsed time is 3.004569 seconds.
+Elapsed time is 3.023722 seconds.
+Elapsed time is 3.007184 seconds.
+Elapsed time is 2.990441 seconds.
+Elapsed time is 2.951847 seconds.
+Elapsed time is 3.006964 seconds.
+Elapsed time is 2.981722 seconds.
+Elapsed time is 2.994328 seconds.
+Elapsed time is 2.977095 seconds.
+Elapsed time is 2.976584 seconds.
+Elapsed time is 2.966555 seconds.
+Elapsed time is 2.956048 seconds.
+Elapsed time is 3.009405 seconds.
+Elapsed time is 2.977427 seconds.
+Elapsed time is 3.013180 seconds.
+Elapsed time is 3.002194 seconds.
+Elapsed time is 3.035581 seconds.
+Elapsed time is 2.985736 seconds.
+Elapsed time is 3.046637 seconds.
+Elapsed time is 3.010003 seconds.
+Elapsed time is 2.968458 seconds.
+Elapsed time is 3.004909 seconds.
+Elapsed time is 3.011766 seconds.
+Elapsed time is 2.960134 seconds.
+Elapsed time is 3.003249 seconds.
+Elapsed time is 2.976263 seconds.
+Elapsed time is 2.948767 seconds.
+Elapsed time is 3.002340 seconds.
+Elapsed time is 2.990096 seconds.
+Elapsed time is 2.983071 seconds.
+Elapsed time is 3.016789 seconds.
+Elapsed time is 3.006810 seconds.
+Elapsed time is 3.010467 seconds.
+Elapsed time is 2.971958 seconds.
+average awake time: 1.134382 ms
+# pernode data TXs: 188.900000
+average perpacket TX time: 140.420956 ms
+queue empty prob.: 0.000911
+average queue size.: 563.550120
+average throughput: 0.075560 Mbps
+total throughput: 2.266800 Mbps
+---- Running time=179.39 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 47.500000
+mu: < 50.000000
+Elapsed time is 3.002387 seconds.
+Elapsed time is 3.017742 seconds.
+Elapsed time is 3.014959 seconds.
+Elapsed time is 2.966651 seconds.
+Elapsed time is 2.983063 seconds.
+Elapsed time is 2.989238 seconds.
+Elapsed time is 2.996162 seconds.
+Elapsed time is 3.024336 seconds.
+Elapsed time is 2.998255 seconds.
+Elapsed time is 3.021456 seconds.
+Elapsed time is 2.981299 seconds.
+Elapsed time is 2.988882 seconds.
+Elapsed time is 3.001370 seconds.
+Elapsed time is 3.025672 seconds.
+Elapsed time is 3.013808 seconds.
+Elapsed time is 3.004989 seconds.
+Elapsed time is 3.052216 seconds.
+Elapsed time is 2.965076 seconds.
+Elapsed time is 3.015776 seconds.
+Elapsed time is 3.013189 seconds.
+Elapsed time is 3.001598 seconds.
+Elapsed time is 3.005361 seconds.
+Elapsed time is 3.006932 seconds.
+Elapsed time is 3.014646 seconds.
+Elapsed time is 2.996074 seconds.
+Elapsed time is 2.994377 seconds.
+Elapsed time is 2.973868 seconds.
+Elapsed time is 2.988096 seconds.
+Elapsed time is 3.036939 seconds.
+Elapsed time is 2.972774 seconds.
+Elapsed time is 3.018339 seconds.
+Elapsed time is 3.054487 seconds.
+Elapsed time is 3.086935 seconds.
+Elapsed time is 3.098089 seconds.
+Elapsed time is 3.022941 seconds.
+Elapsed time is 3.055856 seconds.
+Elapsed time is 3.086955 seconds.
+Elapsed time is 3.039728 seconds.
+Elapsed time is 3.017409 seconds.
+Elapsed time is 2.994639 seconds.
+Elapsed time is 3.014408 seconds.
+Elapsed time is 3.004972 seconds.
+Elapsed time is 3.043706 seconds.
+Elapsed time is 2.992810 seconds.
+Elapsed time is 3.083267 seconds.
+Elapsed time is 3.012280 seconds.
+Elapsed time is 3.001010 seconds.
+Elapsed time is 2.974850 seconds.
+Elapsed time is 3.009922 seconds.
+Elapsed time is 3.027456 seconds.
+Elapsed time is 3.037965 seconds.
+Elapsed time is 2.982532 seconds.
+Elapsed time is 2.999545 seconds.
+Elapsed time is 3.014862 seconds.
+Elapsed time is 3.025042 seconds.
+Elapsed time is 3.037858 seconds.
+Elapsed time is 3.010965 seconds.
+Elapsed time is 3.005332 seconds.
+Elapsed time is 2.989012 seconds.
+Elapsed time is 2.999174 seconds.
+average awake time: 1.139025 ms
+# pernode data TXs: 192.266667
+average perpacket TX time: 137.809263 ms
+queue empty prob.: 0.000981
+average queue size.: 592.380109
+average throughput: 0.076907 Mbps
+total throughput: 2.307200 Mbps
+---- Running time=180.812 s ----
+
+
+# Nodes: 30
+Simulation time: 30 s
+CW: 16, max: 512, limit: N/A
+====ATIM window related:====
+packet size: 5, window size: 100
+====DATA window related:====
+packet size: 28, DATA window: 1900
+lambda: 50.000000
+mu: < 50.000000
+Elapsed time is 2.988616 seconds.
+Elapsed time is 2.984648 seconds.
+Elapsed time is 3.012742 seconds.
+Elapsed time is 3.026141 seconds.
+Elapsed time is 3.027979 seconds.
+Elapsed time is 3.011565 seconds.
+Elapsed time is 2.994662 seconds.
+Elapsed time is 3.021457 seconds.
+Elapsed time is 3.036996 seconds.
+Elapsed time is 3.005957 seconds.
+Elapsed time is 3.018643 seconds.
+Elapsed time is 3.031583 seconds.
+Elapsed time is 2.998561 seconds.
+Elapsed time is 3.010830 seconds.
+Elapsed time is 2.998807 seconds.
+Elapsed time is 3.054036 seconds.
+Elapsed time is 3.015565 seconds.
+Elapsed time is 3.047793 seconds.
+Elapsed time is 3.035699 seconds.
+Elapsed time is 3.010604 seconds.
+Elapsed time is 3.052603 seconds.
+Elapsed time is 3.040275 seconds.
+Elapsed time is 3.003185 seconds.
+Elapsed time is 3.024123 seconds.
+Elapsed time is 3.021475 seconds.
+Elapsed time is 2.995386 seconds.
+Elapsed time is 2.983635 seconds.
+Elapsed time is 3.028518 seconds.
+Elapsed time is 2.984360 seconds.
+Elapsed time is 3.016195 seconds.
+Elapsed time is 3.003061 seconds.
+Elapsed time is 3.043349 seconds.
+Elapsed time is 3.045990 seconds.
+Elapsed time is 3.001443 seconds.
+Elapsed time is 3.024580 seconds.
+Elapsed time is 3.031606 seconds.
+Elapsed time is 3.031453 seconds.
+Elapsed time is 3.015001 seconds.
+Elapsed time is 3.035464 seconds.
+Elapsed time is 3.034304 seconds.
+Elapsed time is 3.022010 seconds.
+Elapsed time is 3.023206 seconds.
+Elapsed time is 3.009428 seconds.
+Elapsed time is 3.012537 seconds.
+Elapsed time is 3.029508 seconds.
+Elapsed time is 3.036162 seconds.
+Elapsed time is 3.022932 seconds.
+Elapsed time is 3.026620 seconds.
+Elapsed time is 3.042079 seconds.
+Elapsed time is 3.053684 seconds.
+Elapsed time is 3.015379 seconds.
+Elapsed time is 3.008977 seconds.
+Elapsed time is 3.017108 seconds.
+Elapsed time is 3.037685 seconds.
+Elapsed time is 3.035897 seconds.
+Elapsed time is 3.022592 seconds.
+Elapsed time is 3.006923 seconds.
+Elapsed time is 3.061802 seconds.
+Elapsed time is 2.976492 seconds.
+Elapsed time is 2.990658 seconds.
+average awake time: 1.135915 ms
+# pernode data TXs: 190.033333
+average perpacket TX time: 139.650494 ms
+queue empty prob.: 0.000955
+average queue size.: 616.036245
+average throughput: 0.076013 Mbps
+total throughput: 2.280400 Mbps
+---- Running time=181.203 s ----
+
+

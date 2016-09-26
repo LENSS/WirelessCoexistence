@@ -1,0 +1,86 @@
+[1 @ 0 us] wait packet to arrive at 4374
+[2 @ 0 us] wait node to wakeup at 14406
+[3 @ 0 us] wait packet to arrive at 45381
+[4 @ 0 us] wait node to wakeup at 6047
+[5 @ 0 us] wait packet to arrive at 9595
+[6 @ 0 us] wait node to wakeup at 1847
+[7 @ 0 us] wait packet to arrive at 8404
+[8 @ 0 us] wait node to wakeup at 6911
+[1 @ 545340 us] found a drop
+[5 @ 820330 us] found a drop
+[7 @ 870360 us] found a drop
+[7 @ 2070620 us] found a drop
+[5 @ 3218820 us] found a drop
+[7 @ 3270460 us] found a drop
+[1 @ 3344430 us] found a drop
+[3 @ 3660900 us] found a drop
+[1 @ 3745200 us] found a drop
+[7 @ 4070120 us] found a drop
+[5 @ 4418900 us] found a drop
+[1 @ 4545370 us] found a drop
+[3 @ 4860920 us] found a drop
+[7 @ 4871730 us] found a drop
+[3 @ 5262620 us] found a drop
+[7 @ 5273190 us] found a drop
+[1 @ 5345240 us] found a drop
+[1 @ 5746370 us] found a drop
+[5 @ 6019730 us] found a drop
+[3 @ 6061200 us] found a drop
+[1 @ 6149000 us] found a drop
+[7 @ 6469550 us] found a drop
+[3 @ 6861190 us] found a drop
+[7 @ 6870710 us] found a drop
+[5 @ 7219420 us] found a drop
+[3 @ 7261900 us] found a drop
+[1 @ 7344430 us] found a drop
+[3 @ 8061980 us] found a drop
+[7 @ 8069680 us] found a drop
+[5 @ 8418810 us] found a drop
+[1 @ 8545500 us] found a drop
+[5 @ 9220150 us] found a drop
+[7 @ 9269760 us] found a drop
+[1 @ 9345160 us] found a drop
+[5 @ 10018790 us] found a drop
+[3 @ 10060800 us] found a drop
+[7 @ 10071490 us] found a drop
+[1 @ 10144820 us] found a drop
+[1 @ 10546160 us] found a drop
+[7 @ 10869710 us] found a drop
+[1 @ 11345070 us] found a drop
+[5 @ 11618840 us] found a drop
+[3 @ 12062110 us] found a drop
+[7 @ 12071020 us] found a drop
+[5 @ 12419430 us] found a drop
+[1 @ 12545330 us] found a drop
+[3 @ 12861080 us] found a drop
+[7 @ 13269780 us] found a drop
+[1 @ 13344810 us] found a drop
+[1 @ 13746510 us] found a drop
+[5 @ 14019030 us] found a drop
+[5 @ 14420310 us] found a drop
+[3 @ 14462060 us] found a drop
+[7 @ 14469650 us] found a drop
+[1 @ 14945180 us] found a drop
+[5 @ 15218860 us] found a drop
+[3 @ 15263670 us] found a drop
+[7 @ 15269910 us] found a drop
+[1 @ 15745170 us] found a drop
+[3 @ 16061800 us] found a drop
+[7 @ 16069750 us] found a drop
+[5 @ 16819000 us] found a drop
+[3 @ 16861220 us] found a drop
+[7 @ 16870130 us] found a drop
+[5 @ 17618870 us] found a drop
+[7 @ 18069820 us] found a drop
+[5 @ 18419250 us] found a drop
+[1 @ 18545040 us] found a drop
+[7 @ 18870080 us] found a drop
+[1 @ 18946320 us] found a drop
+[3 @ 19260790 us] found a drop
+[5 @ 19619840 us] found a drop
+Pe: 0.266667
+
+Throughput: 0.733333
+
+Energy: 0.00012325
+
